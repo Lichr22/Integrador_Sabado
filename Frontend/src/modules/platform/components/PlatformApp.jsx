@@ -16,7 +16,7 @@ import { formatDate, getName, initials } from '../../core/utils/formatters.js'
 import { Avatar, IconBubble, SectionHeading, StatusBadge } from './PlatformUi.jsx'
 import {
   clearSession, createRecord, deleteRecord, getCurrentUser, hasSession,
-  loadPlatformData, login as loginRequest, register as registerRequest,
+  loadPlatformData, loadPublicDashboard, login as loginRequest, register as registerRequest,
   saveSession, updateCurrentUser, updateRecord
 } from '../services/platformApi.js'
 import Dashboard from '../pages/Dashboard.jsx'
@@ -205,7 +205,7 @@ export default function App(){
   const searchRef=useRef(null)
   const notify=message=>setToast(message)
   const refreshData=async()=>{
-    const loaded=await loadPlatformData()
+    const loaded=activeAccount?await loadPlatformData():await loadPublicDashboard()
     setData(loaded)
     setDataLoaded(true)
     setDataLoadError('')
@@ -247,10 +247,10 @@ export default function App(){
     }
   },[activeAccount,authReady,page])
   useEffect(()=>{
-    if(!authReady||!activeAccount){
+    if(!authReady)return
+    if(!activeAccount){
       setData(emptyData)
       setDataLoaded(false)
-      setDataLoadError('')
       setDataLoadError('')
       return
     }
@@ -274,6 +274,33 @@ export default function App(){
     })
     return()=>{mounted=false}
   },[activeAccount?.id,authReady])
+  useEffect(()=>{
+    if(!authReady||activeAccount||page!=='dashboard')return
+    let mounted=true
+    const loadPublicData=()=>{
+      loadPublicDashboard().then(loaded=>{
+        if(mounted){
+          setData(loaded)
+          setDataLoaded(true)
+          setDataLoadError('')
+        }
+      }).catch(error=>{
+        if(mounted){
+          setDataLoaded(false)
+          setDataLoadError(error.message)
+        }
+      })
+    }
+    setData(emptyData)
+    setDataLoaded(false)
+    setDataLoadError('')
+    loadPublicData()
+    window.addEventListener('focus',loadPublicData)
+    return()=>{
+      mounted=false
+      window.removeEventListener('focus',loadPublicData)
+    }
+  },[activeAccount,authReady,page])
   useEffect(()=>{
     const expire=()=>{
       setActiveAccount(null)
@@ -391,7 +418,7 @@ export default function App(){
     <div className="main-area"><header className="topbar"><div className="topbar-left"><button className="mobile-menu icon-only" onClick={()=>setSidebarOpen(true)} aria-label="Abrir menú"><Menu size={22}/></button><span className="topbar-location"><span>Workspace</span><ChevronRight size={14}/><strong>{activeItem?.label||accountPageLabels[page]||'Sobre el proyecto'}</strong></span></div>
       <div className="topbar-right"><label className="topbar-search"><Search size={18}/><input ref={searchRef} aria-label="Buscar retos globalmente" value={headerSearch} disabled={!activeAccount} onFocus={()=>{if(activeAccount&&page!=='retos') navigate('retos')}} onChange={event=>{setSearches(v=>({...v,retos:event.target.value}));if(activeAccount&&page!=='retos')navigate('retos')}} placeholder="Buscar retos..."/><kbd>⌘ K</kbd></label><span className="topbar-divider"/>{activeAccount&&<span className="demo-pill"><span/> API</span>}<AccountMenu account={activeAccount} navigate={navigate} onLogout={logout}/></div>
     </header>
-    <main id="contenido">{!authReady?<div className="page"><div className="empty-state">Verificando sesión...</div></div>:page==='login'?<LoginPage navigate={navigate} onLogin={login} account={activeAccount}/>:page==='registro'?<RegisterPage navigate={navigate} onRegister={register}/>:activeAccount&&!dataLoaded?<div className="page"><div className="empty-state"><strong>{dataLoadError?'No se pudieron cargar los datos':'Cargando datos...'}</strong>{dataLoadError&&<><p>{dataLoadError}</p><button className="btn btn-primary" onClick={()=>refreshData().catch(error=>{setDataLoadError(error.message);notify(error.message)})}>Reintentar</button></>}</div></div>:page==='perfil'&&activeAccount?<ProfilePage account={activeAccount} data={data} navigate={navigate} onSave={saveProfile} onLogout={logout} onView={openView}/>:page==='dashboard'?<Dashboard data={data} readOnly={!activeAccount} navigate={navigate} onView={openView} onCreate={openCreate} onRegister={values=>openCreate('registros',values)}/>:page==='acerca'?<AboutPage navigate={navigate} data={data} readOnly={!activeAccount}/>:EntityScreen&&activeAccount?<EntityScreen data={data} onCreate={openCreate} onEdit={openEdit} onDelete={openDelete} onView={openView} onRegister={values=>openCreate('registros',values)} search={searches[page]||''} setSearch={value=>setSearches(prev=>({...prev,[page]:value}))} filter={filters[page]||''} setFilter={value=>setFilters(prev=>({...prev,[page]:value}))} viewMode={viewMode} setViewMode={setViewMode} onNotify={notify}/>:null}</main>
+    <main id="contenido">{!authReady?<div className="page"><div className="empty-state">Verificando sesión...</div></div>:page==='login'?<LoginPage navigate={navigate} onLogin={login} account={activeAccount}/>:page==='registro'?<RegisterPage navigate={navigate} onRegister={register}/>:((activeAccount||page==='dashboard')&&!dataLoaded)?<div className="page"><div className="empty-state"><strong>{dataLoadError?'No se pudieron cargar los datos':'Cargando datos...'}</strong>{dataLoadError&&<><p>{dataLoadError}</p><button className="btn btn-primary" onClick={()=>refreshData().catch(error=>{setDataLoadError(error.message);notify(error.message)})}>Reintentar</button></>}</div></div>:page==='perfil'&&activeAccount?<ProfilePage account={activeAccount} data={data} navigate={navigate} onSave={saveProfile} onLogout={logout} onView={openView}/>:page==='dashboard'?<Dashboard data={data} readOnly={!activeAccount} navigate={navigate} onView={openView} onCreate={openCreate} onRegister={values=>openCreate('registros',values)}/>:page==='acerca'?<AboutPage navigate={navigate} data={data} readOnly={!activeAccount}/>:EntityScreen&&activeAccount?<EntityScreen data={data} onCreate={openCreate} onEdit={openEdit} onDelete={openDelete} onView={openView} onRegister={values=>openCreate('registros',values)} search={searches[page]||''} setSearch={value=>setSearches(prev=>({...prev,[page]:value}))} filter={filters[page]||''} setFilter={value=>setFilters(prev=>({...prev,[page]:value}))} viewMode={viewMode} setViewMode={setViewMode} onNotify={notify}/>:null}</main>
     <footer className="app-footer"><span>© {new Date().getFullYear()} Nexo · Plataforma de retos empresariales</span><span>React <span className="footer-dot">•</span> API REST</span></footer>
     </div>
     {modal?.kind==='form'&&<FormModal key={`${modal.type}-${modal.item?.id||'new'}`} type={modal.type} item={modal.item} initialValues={modal.initialValues} data={data} onClose={()=>setModal(null)} onSave={save}/>}

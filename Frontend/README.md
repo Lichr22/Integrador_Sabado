@@ -56,7 +56,7 @@ npm run preview
 - **Persistencia en Supabase** mediante API REST Spring Boot.
 - **Menú del avatar:** accesos a Iniciar sesión, Registrarse, Mi perfil y Cerrar sesión.
 - **Autenticación del backend:** registro y login con contraseñas almacenadas mediante PBKDF2, token bearer con vencimiento y perfil autenticado.
-- **Acceso sin sesión:** Dashboard disponible en modo lectura con acciones y módulos deshabilitados; “Sobre el proyecto” permanece accesible. Perfil y CRUD requieren una sesión válida; el token se guarda en `sessionStorage`.
+- **Acceso sin sesión:** Dashboard disponible en modo lectura con datos públicos actualizados (incluye nombres de participantes e inscripciones recientes), mientras las acciones y módulos permanecen deshabilitados; “Sobre el proyecto” también está disponible. Perfil y CRUD requieren una sesión válida; el token se guarda en `sessionStorage`.
 - **Mi perfil:** consulta y edición del nombre y correo de la cuenta autenticada.
 
 ## Acceder a las nuevas pantallas
@@ -75,6 +75,7 @@ Rutas: `/#login`, `/#registro`, `/#perfil`. Se utilizan rutas hash, sin necesida
 ## API
 
 - `POST /api/auth/register`, `POST /api/auth/login` y `GET /api/auth/me`.
+- `GET /api/public/dashboard` ofrece únicamente los datos necesarios para el Dashboard público; no expone correos ni hashes de contraseña.
 - CRUD protegido con bearer token para `/api/empresas`, `/api/categorias`,
   `/api/prioridades`, `/api/usuarios`, `/api/retos` y `/api/registros`.
 - Las contraseñas se reciben como `contrasena`; el backend almacena únicamente

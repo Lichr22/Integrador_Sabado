@@ -6,15 +6,15 @@ const colors = ['#f1a3bf','#94a9f8','#9bdcca','#fed69a','#b5a3e9','#c1c8d7']
 
 export default function Dashboard({data,readOnly=false,navigate,onView,onCreate,onRegister}){
   const openRetos=data.retos.filter(r=>r.estado==='Abierto')
-  const counts={companies:data.empresas.length,retos:openRetos.length,users:data.usuarios.filter(u=>u.estado==='Activo').length,regs:data.registros.length}
-  const categories=data.categorias.map((c,index)=>({name:c.nombre,count:data.retos.filter(r=>r.categoriaId===c.id).length,color:colors[index%colors.length]})).sort((a,b)=>b.count-a.count)
+  const counts={companies:data.empresas.length,retos:data.publicSummary?.openChallenges??openRetos.length,users:data.publicSummary?.activeUsers??data.usuarios.filter(u=>u.estado==='Activo').length,regs:data.publicSummary?.totalRegistrations??data.registros.length}
+  const categories=data.categorias.map((c,index)=>({name:c.nombre,count:data.publicSummary?.challengeCountsByCategory?.[c.id]??data.retos.filter(r=>r.categoriaId===c.id).length,color:colors[index%colors.length]})).sort((a,b)=>b.count-a.count)
   const most=Math.max(1,...categories.map(item=>item.count))
   const recent=[...data.registros].sort((a,b)=>b.fechaRegistro.localeCompare(a.fechaRegistro)).slice(0,5)
   const now=new Date()
   const week=Array.from({length:7},(_,i)=>{
     const date=new Date(now.getFullYear(),now.getMonth(),now.getDate()-(6-i))
     const key=`${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`
-    return {day:date.toLocaleDateString('es-CO',{weekday:'short'}).replace('.',''),key,count:data.registros.filter(r=>r.fechaRegistro===key).length}
+    return {day:date.toLocaleDateString('es-CO',{weekday:'short'}).replace('.',''),key,count:data.publicSummary?.weeklyCounts?.[key]??data.registros.filter(r=>r.fechaRegistro===key).length}
   })
   const maxWeek=Math.max(1,...week.map(item=>item.count))
   return <div className="page dashboard-page">
@@ -35,7 +35,7 @@ export default function Dashboard({data,readOnly=false,navigate,onView,onCreate,
     </div>
     <div className="content-grid lower-grid">
       <div className="content-panel activity-panel"><div className="panel-heading"><div><h3>Actividad reciente</h3><p>Últimas inscripciones registradas</p></div><button className="text-action" disabled={readOnly} onClick={()=>navigate('registros')}>Ver registros <ArrowRight size={16}/></button></div>
-        <div className="activity-list">{recent.map((reg,index)=><div className="activity-item" key={reg.id}><Avatar name={getName(data,'usuarios',reg.usuarioId)} index={index}/><div className="activity-copy"><strong>{getName(data,'usuarios',reg.usuarioId)}</strong><span>Se registró en <b>{getName(data,'retos',reg.retoId)}</b></span></div><span className="activity-date">{formatDate(reg.fechaRegistro)}</span></div>)}{recent.length===0&&<div className="empty-mini">No se han registrado participaciones.</div>}</div>
+        <div className="activity-list">{recent.map((reg,index)=><div className="activity-item" key={reg.id}><Avatar name={reg.usuarioNombre||getName(data,'usuarios',reg.usuarioId)} index={index}/><div className="activity-copy"><strong>{reg.usuarioNombre||getName(data,'usuarios',reg.usuarioId)}</strong><span>Se registró en <b>{reg.retoNombre||getName(data,'retos',reg.retoId)}</b></span></div><span className="activity-date">{formatDate(reg.fechaRegistro)}</span></div>)}{recent.length===0&&<div className="empty-mini">No se han registrado participaciones.</div>}</div>
       </div>
       <div className="content-panel chart-panel"><div className="panel-heading"><div><h3>Participación semanal</h3><p>Inscripciones de los últimos 7 días</p></div><span className="chart-mini-tag"><TrendingUp size={14}/> {week.reduce((s,d)=>s+d.count,0)} en total</span></div>
         <div className="bar-chart" aria-label="Registros de los últimos siete días">{week.map(item=><div className="chart-column" key={item.key} title={`${item.key}: ${item.count} registros`}><span className="chart-count">{item.count||''}</span><span className="chart-vertical"><span style={{height:`${Math.max(7,item.count/maxWeek*100)}%`}} className={item.count?'filled':''}/></span><span className="chart-day">{item.day}</span></div>)}</div>

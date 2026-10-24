@@ -152,6 +152,54 @@ export async function loadPlatformData() {
   ]))
 }
 
+export async function loadPublicDashboard() {
+  const result = await request('/public/dashboard')
+  const registrations = result.registrosRecientes.map(row => ({
+    id: row.id,
+    usuarioId: row.id_usuario,
+    retoId: row.id_reto,
+    usuarioNombre: row.usuario_nombre,
+    retoNombre: row.reto_nombre,
+    estado: row.estado,
+    fechaRegistro: row.fecha_registro?.slice(0, 10) || '',
+  }))
+  const users = [...new Map(registrations.map(row => [
+    row.usuarioId,
+    { id: row.usuarioId, nombre: row.usuarioNombre },
+  ])).values()]
+  const weeklyCounts = Object.fromEntries(result.actividadSemanal.map(day => [
+    day.dia.slice(0, 10),
+    Number(day.cantidad),
+  ]))
+  const challengeCountsByCategory = Object.fromEntries(result.retosPorCategoria.map(category => [
+    category.categoria_id,
+    Number(category.cantidad),
+  ]))
+
+  return {
+    empresas: result.empresas,
+    categorias: result.categorias,
+    prioridades: result.prioridades,
+    retos: result.retos.map(row => ({
+      ...row,
+      empresaId: row.id_empresa,
+      categoriaId: row.id_categoria,
+      prioridadId: row.id_prioridad,
+      fechaInicio: row.fecha_inicio,
+      fechaFin: row.fecha_fin,
+    })),
+    usuarios: users,
+    registros: registrations,
+    publicSummary: {
+      activeUsers: result.usuariosActivos,
+      totalRegistrations: result.totalRegistros,
+      openChallenges: result.retosAbiertos,
+      weeklyCounts,
+      challengeCountsByCategory,
+    },
+  }
+}
+
 export async function createRecord(resource, record) {
   const result = await request(`/${resource}`, {
     method: 'POST',
