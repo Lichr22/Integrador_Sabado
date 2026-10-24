@@ -20,7 +20,8 @@ async function request(path, options = {}) {
   const body = await response.json().catch(() => null)
   if (!response.ok) {
     const message = body?.message || `La API respondió con HTTP ${response.status}`
-    if (response.status === 401) {
+    const isPublicAuthRequest = path === '/auth/login' || path === '/auth/register'
+    if (response.status === 401 && token && !isPublicAuthRequest) {
       clearSession()
       window.dispatchEvent(new Event('api-session-expired'))
     }

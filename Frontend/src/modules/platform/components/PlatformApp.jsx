@@ -74,8 +74,8 @@ function AccountMenu({account,navigate,onLogout}){
     {open&&<div className="account-dropdown" role="menu" aria-label="Opciones de cuenta">
       <div className="dropdown-user"><Avatar name={account?.nombre||'Invitado'} index={1}/><div><strong>{account?.nombre||'Invitado'}</strong><span>{account?.correo||'Sin sesión iniciada'}</span></div></div>
       <div className="dropdown-caption">MI CUENTA</div>
-      <button role="menuitem" className="dropdown-action" onClick={()=>go('perfil')}><UserRound size={17}/> Mi perfil <ChevronRight size={15}/></button>
-      <button role="menuitem" className="dropdown-action" onClick={()=>go('login')}><LogIn size={17}/> {account?'Cambiar de cuenta':'Iniciar sesión'} <ChevronRight size={15}/></button>
+      <button role="menuitem" className="dropdown-action" onClick={()=>go('perfil')} disabled={!account}><UserRound size={17}/> Mi perfil <ChevronRight size={15}/></button>
+      <button role="menuitem" className="dropdown-action" onClick={()=>{if(account){setOpen(false);onLogout()}else{go('login')}}}><LogIn size={17}/> {account?'Cambiar de cuenta':'Iniciar sesión'} <ChevronRight size={15}/></button>
       <button role="menuitem" className="dropdown-action" onClick={()=>go('registro')}><UserPlus size={17}/> Registrarse <ChevronRight size={15}/></button>
       {account&&<><div className="dropdown-separator"/><button role="menuitem" className="dropdown-action logout" onClick={()=>{setOpen(false);onLogout()}}><LogOut size={17}/> Cerrar sesión</button></>}
       <div className="dropdown-bottom"><span className="mini-live"/> {account?'Sesión autenticada en el backend':'Inicia sesión para conectarte al backend'}</div>
@@ -91,7 +91,7 @@ function Sidebar({active,onNavigate,open,onClose,counts,account}){
       <div className="sidebar-workspace"><span className="workspace-icon"><Layers3 size={19}/></span><div><strong>Espacio de trabajo</strong><small>Proyecto integrador III</small></div><ChevronDown size={15}/></div>
       <div className="menu-caption">MENÚ PRINCIPAL</div>
       <nav aria-label="Navegación principal" className="nav-items">
-        {navItems.map(nav=>{const Icon=icons[nav.icon];return <button key={nav.id} className={`nav-item ${active===nav.id?'active':''}`} onClick={()=>{onNavigate(nav.id);onClose()}}>
+        {navItems.map(nav=>{const Icon=icons[nav.icon];return <button key={nav.id} className={`nav-item ${active===nav.id?'active':''}`} disabled={!account&&nav.id!=='dashboard'} onClick={()=>{onNavigate(nav.id);onClose()}}>
           <Icon size={19} strokeWidth={1.95}/><span>{nav.label}</span>
           {nav.id==='registros'&& <span className="nav-count">{counts.registros}</span>}
         </button>})}
@@ -103,10 +103,10 @@ function Sidebar({active,onNavigate,open,onClose,counts,account}){
           <span className="sparkle-surface"><Sparkles size={22}/></span>
           <strong>Las grandes ideas empiezan con un reto.</strong>
           <p>Conecta empresas con soluciones que generan impacto.</p>
-          <button onClick={()=>{onNavigate('retos');onClose()}}>Explorar retos <ArrowUpRight size={15}/></button>
+          <button disabled={!account} onClick={()=>{onNavigate('retos');onClose()}}>Explorar retos <ArrowUpRight size={15}/></button>
         </div>
         <div className="sidebar-profile">
-          <button className="sidebar-account-link" onClick={()=>{onNavigate('perfil');onClose()}} aria-label="Ir a mi perfil"><Avatar name={account?.nombre||'Invitado'} index={1}/>
+          <button className="sidebar-account-link" disabled={!account} onClick={()=>{onNavigate('perfil');onClose()}} aria-label="Ir a mi perfil"><Avatar name={account?.nombre||'Invitado'} index={1}/>
           <span><strong>{account?.nombre||'Invitado'}</strong><small>{account?.rol||'Sin sesión'}{account?.estado?` · ${account.estado}`:''}</small></span></button>
         </div>
       </div>
@@ -175,11 +175,11 @@ function DetailModal({item,data,onClose,onEdit,onRegister}){
   </div><div className="modal-footer"><button className="btn btn-outline" onClick={()=>onEdit('retos',item)}><Pencil size={17}/> Editar reto</button><button className="btn btn-primary" onClick={()=>onRegister({retoId:item.id})}><Plus size={17}/> Inscribir usuario</button></div></ModalShell>
 }
 
-function AboutPage({navigate,data}){
+function AboutPage({navigate,data,readOnly}){
   return <div className="page about-page"><div className="page-breadcrumb">Espacio de trabajo <ChevronRight size={14}/> <strong>Sobre el proyecto</strong></div><SectionHeading eyebrow="PROYECTO INTEGRADOR III" title="Sobre Nexo" subtitle="Una propuesta frontend para conectar empresas, retos y talento."/>
-    <div className="about-hero"><div className="eyebrow">UNA PLATAFORMA CONECTADA</div><h2>Innovación que conecta.</h2><p>Esta plataforma conecta empresas, retos y talento. La información se consulta y administra a través del backend conectado a Supabase.</p><button className="btn btn-white" onClick={()=>navigate('retos')}>Explorar la plataforma <ArrowUpRight size={18}/></button></div>
+    <div className="about-hero"><div className="eyebrow">UNA PLATAFORMA CONECTADA</div><h2>Innovación que conecta.</h2><p>Esta plataforma conecta empresas, retos y talento. La información se consulta y administra a través del backend conectado a Supabase.</p><button className="btn btn-white" disabled={readOnly} onClick={()=>navigate('retos')}>Explorar la plataforma <ArrowUpRight size={18}/></button></div>
     <div className="about-grid"><div className="content-panel"><IconBubble icon={Layers3} variant="rose" size={21}/><h3>6 entidades relacionadas</h3><p>Empresas, retos, categorías, prioridades, usuarios y registros vinculados a la base relacional.</p></div><div className="content-panel"><IconBubble icon={Zap} variant="blue" size={21}/><h3>Gestión conectada</h3><p>Crea, consulta, edita y elimina registros a través de la API REST del backend.</p></div><div className="content-panel"><IconBubble icon={ShieldCheck} variant="green" size={21}/><h3>Sesión autenticada</h3><p>Los módulos requieren una sesión válida para consultar y modificar los datos.</p></div></div>
-    <div className="about-settings content-panel"><div><h3>Datos de la plataforma</h3><p>Actualmente hay {data.empresas.length} empresas, {data.retos.length} retos, {data.usuarios.length} usuarios y {data.registros.length} inscripciones cargados desde la API.</p></div></div>
+    <div className="about-settings content-panel"><div><h3>Datos de la plataforma</h3><p>{readOnly?'Inicia sesión para consultar los datos actuales de la plataforma.':`Actualmente hay ${data.empresas.length} empresas, ${data.retos.length} retos, ${data.usuarios.length} usuarios y ${data.registros.length} inscripciones cargados desde la API.`}</p></div></div>
   </div>
 }
 
@@ -192,7 +192,8 @@ export default function App(){
   const resolvePage=(isAuthenticated,requestedPage=window.location.hash.slice(1)||'dashboard')=>{
     const isKnownPage=requestedPage==='dashboard'||requestedPage==='acerca'||requestedPage==='login'||requestedPage==='registro'||requestedPage==='perfil'||entityConfig[requestedPage]
     const page=isKnownPage?requestedPage:'dashboard'
-    return !isAuthenticated&&page!=='login'&&page!=='registro'?'login':page
+    if(isAuthenticated&&page==='login')return 'perfil'
+    return !isAuthenticated&&!['login','registro','dashboard','acerca'].includes(page)?'login':page
   }
   const [page,setPage]=useState(()=>window.location.hash.slice(1)||'dashboard')
   const [sidebarOpen,setSidebarOpen]=useState(false)
@@ -239,6 +240,12 @@ export default function App(){
     window.addEventListener('hashchange',sync)
     return()=>window.removeEventListener('hashchange',sync)
   },[activeAccount,authReady])
+  useEffect(()=>{
+    if(authReady&&activeAccount&&page==='login'){
+      window.location.hash='perfil'
+      setPage('perfil')
+    }
+  },[activeAccount,authReady,page])
   useEffect(()=>{
     if(!authReady||!activeAccount){
       setData(emptyData)
@@ -298,7 +305,7 @@ export default function App(){
       saveSession(result.token)
       setActiveAccount(result.user)
       setAuthReady(true)
-      navigateAfterAuthentication('dashboard')
+      navigateAfterAuthentication('perfil')
       notify(`¡Bienvenido, ${result.user.nombre.split(' ')[0]}!`)
       return {ok:true}
     }catch(error){
@@ -382,9 +389,9 @@ export default function App(){
   return <div className="app-shell">
     <Sidebar active={page} onNavigate={navigate} open={sidebarOpen} onClose={()=>setSidebarOpen(false)} counts={totalCounts} account={activeAccount}/>
     <div className="main-area"><header className="topbar"><div className="topbar-left"><button className="mobile-menu icon-only" onClick={()=>setSidebarOpen(true)} aria-label="Abrir menú"><Menu size={22}/></button><span className="topbar-location"><span>Workspace</span><ChevronRight size={14}/><strong>{activeItem?.label||accountPageLabels[page]||'Sobre el proyecto'}</strong></span></div>
-      <div className="topbar-right"><label className="topbar-search"><Search size={18}/><input ref={searchRef} aria-label="Buscar retos globalmente" value={headerSearch} onFocus={()=>{if(page!=='retos') navigate('retos')}} onChange={event=>{setSearches(v=>({...v,retos:event.target.value}));if(page!=='retos')navigate('retos')}} placeholder="Buscar retos..."/><kbd>⌘ K</kbd></label><span className="topbar-divider"/>{activeAccount&&<span className="demo-pill"><span/> API</span>}<AccountMenu account={activeAccount} navigate={navigate} onLogout={logout}/></div>
+      <div className="topbar-right"><label className="topbar-search"><Search size={18}/><input ref={searchRef} aria-label="Buscar retos globalmente" value={headerSearch} disabled={!activeAccount} onFocus={()=>{if(activeAccount&&page!=='retos') navigate('retos')}} onChange={event=>{setSearches(v=>({...v,retos:event.target.value}));if(activeAccount&&page!=='retos')navigate('retos')}} placeholder="Buscar retos..."/><kbd>⌘ K</kbd></label><span className="topbar-divider"/>{activeAccount&&<span className="demo-pill"><span/> API</span>}<AccountMenu account={activeAccount} navigate={navigate} onLogout={logout}/></div>
     </header>
-    <main id="contenido">{!authReady?<div className="page"><div className="empty-state">Verificando sesión...</div></div>:page==='login'?<LoginPage navigate={navigate} onLogin={login} account={activeAccount}/>:page==='registro'?<RegisterPage navigate={navigate} onRegister={register}/>:!activeAccount?<LoginPage navigate={navigate} onLogin={login}/>:!dataLoaded?<div className="page"><div className="empty-state"><strong>{dataLoadError?'No se pudieron cargar los datos':'Cargando datos...'}</strong>{dataLoadError&&<><p>{dataLoadError}</p><button className="btn btn-primary" onClick={()=>refreshData().catch(error=>{setDataLoadError(error.message);notify(error.message)})}>Reintentar</button></>}</div></div>:page==='perfil'?<ProfilePage account={activeAccount} data={data} navigate={navigate} onSave={saveProfile} onLogout={logout} onView={openView}/>:page==='dashboard'?<Dashboard data={data} navigate={navigate} onView={openView} onCreate={openCreate} onRegister={values=>openCreate('registros',values)}/>:page==='acerca'?<AboutPage navigate={navigate} data={data}/>:EntityScreen?<EntityScreen data={data} onCreate={openCreate} onEdit={openEdit} onDelete={openDelete} onView={openView} onRegister={values=>openCreate('registros',values)} search={searches[page]||''} setSearch={value=>setSearches(prev=>({...prev,[page]:value}))} filter={filters[page]||''} setFilter={value=>setFilters(prev=>({...prev,[page]:value}))} viewMode={viewMode} setViewMode={setViewMode} onNotify={notify}/>:null}</main>
+    <main id="contenido">{!authReady?<div className="page"><div className="empty-state">Verificando sesión...</div></div>:page==='login'?<LoginPage navigate={navigate} onLogin={login} account={activeAccount}/>:page==='registro'?<RegisterPage navigate={navigate} onRegister={register}/>:activeAccount&&!dataLoaded?<div className="page"><div className="empty-state"><strong>{dataLoadError?'No se pudieron cargar los datos':'Cargando datos...'}</strong>{dataLoadError&&<><p>{dataLoadError}</p><button className="btn btn-primary" onClick={()=>refreshData().catch(error=>{setDataLoadError(error.message);notify(error.message)})}>Reintentar</button></>}</div></div>:page==='perfil'&&activeAccount?<ProfilePage account={activeAccount} data={data} navigate={navigate} onSave={saveProfile} onLogout={logout} onView={openView}/>:page==='dashboard'?<Dashboard data={data} readOnly={!activeAccount} navigate={navigate} onView={openView} onCreate={openCreate} onRegister={values=>openCreate('registros',values)}/>:page==='acerca'?<AboutPage navigate={navigate} data={data} readOnly={!activeAccount}/>:EntityScreen&&activeAccount?<EntityScreen data={data} onCreate={openCreate} onEdit={openEdit} onDelete={openDelete} onView={openView} onRegister={values=>openCreate('registros',values)} search={searches[page]||''} setSearch={value=>setSearches(prev=>({...prev,[page]:value}))} filter={filters[page]||''} setFilter={value=>setFilters(prev=>({...prev,[page]:value}))} viewMode={viewMode} setViewMode={setViewMode} onNotify={notify}/>:null}</main>
     <footer className="app-footer"><span>© {new Date().getFullYear()} Nexo · Plataforma de retos empresariales</span><span>React <span className="footer-dot">•</span> API REST</span></footer>
     </div>
     {modal?.kind==='form'&&<FormModal key={`${modal.type}-${modal.item?.id||'new'}`} type={modal.type} item={modal.item} initialValues={modal.initialValues} data={data} onClose={()=>setModal(null)} onSave={save}/>}
