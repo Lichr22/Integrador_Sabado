@@ -48,7 +48,7 @@ npm run preview
 
 ## Características
 
-- **Dashboard:** indicadores, retos destacados, distribución por categorías, inscripciones recientes y participación semanal, cargados desde la API.
+- **Dashboard:** indicadores, retos destacados, distribución por categorías y empresas, inscripciones recientes y participación semanal. El análisis estadístico por empresa se calcula con Python e incluye todas las empresas, media, mediana, desviación estándar, máximo, retos abiertos y proporción del total.
 - **6 módulos con CRUD:** Empresas, Retos, Categorías, Prioridades, Usuarios y Registros.
 - Crear, consultar, editar y eliminar registros mediante formularios y tablas.
 - Vista de tarjetas y de tabla para Retos; detalle del reto e inscripciones asociadas.
@@ -76,6 +76,7 @@ Rutas: `/#login`, `/#registro`, `/#perfil`. Se utilizan rutas hash, sin necesida
 
 - `POST /api/auth/register`, `POST /api/auth/login` y `GET /api/auth/me`.
 - `GET /api/public/dashboard` ofrece únicamente los datos necesarios para el Dashboard público; no expone correos ni hashes de contraseña.
+- El backend ejecuta `company_challenge_analysis.py` con el Python disponible en `PATH`. Para elegir otro intérprete, configura `PYTHON_EXECUTABLE` con la ruta absoluta al ejecutable. El script limpia espacios y corrige mojibake conocido al presentar nombres, agrupa por ID para no fusionar empresas homónimas y no modifica los datos guardados.
 - CRUD protegido con bearer token para `/api/empresas`, `/api/categorias`,
   `/api/prioridades`, `/api/usuarios`, `/api/retos` y `/api/registros`.
 - Las contraseñas se reciben como `contrasena`; el backend almacena únicamente

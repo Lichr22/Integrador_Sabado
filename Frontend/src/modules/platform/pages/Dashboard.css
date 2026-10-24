@@ -1,0 +1,28 @@
+.company-analysis{margin-bottom:22px}
+.company-analysis-heading{align-items:center}
+.company-analysis-kicker{display:inline-flex;align-items:center;gap:7px;color:#ca6b91;font-size:9px;font-weight:800;letter-spacing:1.35px;margin-bottom:9px}
+.company-analysis-heading h3{font-size:17px;font-weight:800;letter-spacing:-.3px}
+.company-analysis-heading p{font-size:11px;color:#9396a6;margin-top:6px}
+.company-leader{display:inline-flex;align-items:center;gap:7px;padding:8px 11px;border-radius:20px;background:#edf8f2;color:#438c6e;font-size:10px;font-weight:700}
+.company-stat-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin:0 0 25px}
+.company-stat{display:flex;flex-direction:column;gap:8px;min-width:0;padding:15px 16px;border:1px solid #eff0f5;border-radius:11px;background:#fafafd}
+.company-stat>span{color:#85889a;font-size:10px;font-weight:700}
+.company-stat>strong{color:#323449;font:800 24px/1.1 Manrope,'DM Sans',sans-serif;letter-spacing:-.8px}
+.company-stat>strong small{font:700 13px 'DM Sans',sans-serif;color:#989baa;letter-spacing:0}
+.company-stat>small{color:#9a9baa;font-size:9px}
+.company-ranking-heading{display:flex;justify-content:space-between;gap:15px;align-items:baseline;padding-bottom:12px;border-bottom:1px solid #f0f0f5}
+.company-ranking-heading strong{font-size:11px;color:#414257}
+.company-ranking-heading>span{font-size:9px;color:#a0a2af}
+.company-ranking-row{display:grid;grid-template-columns:28px minmax(0,1fr) 42px;gap:11px;align-items:center;padding:12px 0;border-bottom:1px solid #f4f4f7}
+.company-rank{color:#b1b2bf;font-size:9px;font-weight:800}
+.company-ranking-main{min-width:0}
+.company-ranking-label{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:7px}
+.company-ranking-label strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#4c4d61;font-size:10px}
+.company-ranking-label>span{flex-shrink:0;color:#9396a6;font-size:9px}
+.company-ranking-track{height:6px;overflow:hidden;border-radius:8px;background:#f0f0f5}
+.company-ranking-track>span{display:block;height:100%;min-width:0;border-radius:inherit;background:linear-gradient(90deg,#aaa7ed,#ec91b2);transition:width .25s ease}
+.company-ranking-count{justify-self:end;color:#37384e;font:800 13px Manrope,'DM Sans',sans-serif}
+.company-data-note{margin-top:13px;padding:10px 12px;border-radius:9px;background:#fbf7f9;color:#858292;font-size:10px;line-height:1.6}
+@media(max-width:1100px){.company-stat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:900px){.company-stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.company-analysis-heading{align-items:flex-start;flex-direction:column}.company-stat-grid{gap:8px}.company-stat{padding:12px}.company-ranking-heading{align-items:flex-start;flex-direction:column;gap:5px}.company-ranking-label{align-items:flex-start;flex-direction:column;gap:4px}}

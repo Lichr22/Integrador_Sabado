@@ -11,9 +11,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/public")
 public class PublicDashboardController {
     private final JdbcTemplate jdbc;
+    private final CompanyChallengeAnalytics companyChallengeAnalytics;
 
-    public PublicDashboardController(JdbcTemplate jdbc) {
+    public PublicDashboardController(
+            JdbcTemplate jdbc,
+            CompanyChallengeAnalytics companyChallengeAnalytics) {
         this.jdbc = jdbc;
+        this.companyChallengeAnalytics = companyChallengeAnalytics;
     }
 
     @GetMapping("/dashboard")
@@ -28,7 +32,7 @@ public class PublicDashboardController {
                 SELECT id, nombre, descripcion, fecha_inicio, fecha_fin, estado,
                        id_empresa, id_categoria, id_prioridad
                 FROM public.retos
-                WHERE estado = 'Abierto'
+                WHERE lower(trim(estado)) = 'abierto'
                 ORDER BY fecha_fin, id
                 LIMIT 3
                 """);
@@ -60,22 +64,27 @@ public class PublicDashboardController {
                 LEFT JOIN public.retos r ON r.id_categoria = c.id
                 GROUP BY c.id
                 """);
+        List<Map<String, Object>> allChallenges = jdbc.queryForList(
+                "SELECT id_empresa, estado FROM public.retos");
+        Map<String, Object> companyChallengeAnalysis =
+                companyChallengeAnalytics.analyze(companies, allChallenges);
         long activeUsers = count("SELECT count(*) FROM public.usuarios WHERE activo IS TRUE");
         long registrationCount = count("SELECT count(*) FROM public.registros");
         long openChallengeCount = count(
-                "SELECT count(*) FROM public.retos WHERE estado = 'Abierto'");
+                "SELECT count(*) FROM public.retos WHERE lower(trim(estado)) = 'abierto'");
 
-        return Map.of(
-                "empresas", companies,
-                "categorias", categories,
-                "prioridades", priorities,
-                "retos", openChallenges,
-                "registrosRecientes", recentRegistrations,
-                "actividadSemanal", weeklyActivity,
-                "retosPorCategoria", challengeCountsByCategory,
-                "usuariosActivos", activeUsers,
-                "totalRegistros", registrationCount,
-                "retosAbiertos", openChallengeCount);
+        return Map.ofEntries(
+                Map.entry("empresas", companies),
+                Map.entry("categorias", categories),
+                Map.entry("prioridades", priorities),
+                Map.entry("retos", openChallenges),
+                Map.entry("registrosRecientes", recentRegistrations),
+                Map.entry("actividadSemanal", weeklyActivity),
+                Map.entry("retosPorCategoria", challengeCountsByCategory),
+                Map.entry("analisisEmpresas", companyChallengeAnalysis),
+                Map.entry("usuariosActivos", activeUsers),
+                Map.entry("totalRegistros", registrationCount),
+                Map.entry("retosAbiertos", openChallengeCount));
     }
 
     private long count(String sql) {

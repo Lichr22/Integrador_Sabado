@@ -1,0 +1,270 @@
+{
+  "info": {
+    "name": "Integrador API",
+    "_postman_id": "integrador-api-collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "http://localhost:8080", "type": "string" },
+    { "key": "token", "value": "", "type": "string" },
+    { "key": "categoria_id", "value": "", "type": "string" },
+    { "key": "empresa_id", "value": "", "type": "string" },
+    { "key": "prioridad_id", "value": "", "type": "string" },
+    { "key": "usuario_id", "value": "", "type": "string" },
+    { "key": "reto_id", "value": "", "type": "string" },
+    { "key": "registro_id", "value": "", "type": "string" }
+  ],
+  "auth": {
+    "type": "bearer",
+    "bearer": [{ "key": "token", "value": "{{token}}", "type": "string" }]
+  },
+  "item": [
+    {
+      "name": "Auth",
+      "item": [
+        {
+          "name": "POST Register",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('token', pm.response.json().token);"] } }],
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/auth/register",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Admin Prueba\",\n  \"correo\": \"admin@prueba.com\",\n  \"contrasena\": \"password123\"\n}" }
+          }
+        },
+        {
+          "name": "POST Login",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('token', pm.response.json().token);"] } }],
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/auth/login",
+            "body": { "mode": "raw", "raw": "{\n  \"correo\": \"admin@prueba.com\",\n  \"contrasena\": \"password123\"\n}" }
+          }
+        },
+        {
+          "name": "GET Me",
+          "request": { "method": "GET", "url": "{{base_url}}/api/auth/me" }
+        }
+      ]
+    },
+    {
+      "name": "Categorias",
+      "item": [
+        {
+          "name": "GET All Categorias",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/categorias" }
+        },
+        {
+          "name": "GET Categoria by ID",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/categorias/{{categoria_id}}" }
+        },
+        {
+          "name": "POST Crear Categoria",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('categoria_id', pm.response.json().id);"] } }],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/categorias",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Innovacion Digital\",\n  \"descripcion\": \"Categoria enfocada en transformacion digital\",\n  \"areaResponsable\": \"TI\"\n}" }
+          }
+        },
+        {
+          "name": "PUT Actualizar Categoria",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/categorias/{{categoria_id}}",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Innovacion Digital Actualizada\",\n  \"descripcion\": \"Descripcion actualizada\",\n  \"areaResponsable\": \"Innovacion\"\n}" }
+          }
+        },
+        {
+          "name": "DELETE Categoria",
+          "request": { "method": "DELETE", "url": "{{base_url}}/api/v1/categorias/{{categoria_id}}" }
+        }
+      ]
+    },
+    {
+      "name": "Prioridades",
+      "item": [
+        {
+          "name": "GET All Prioridades",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/prioridades" }
+        },
+        {
+          "name": "GET Prioridad by ID",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/prioridades/{{prioridad_id}}" }
+        },
+        {
+          "name": "POST Crear Prioridad",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('prioridad_id', pm.response.json().id);"] } }],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/prioridades",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Alta\",\n  \"nivel\": 3,\n  \"diasMaxRespuesta\": 7\n}" }
+          }
+        },
+        {
+          "name": "PUT Actualizar Prioridad",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/prioridades/{{prioridad_id}}",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Alta Actualizada\",\n  \"nivel\": 3,\n  \"diasMaxRespuesta\": 5\n}" }
+          }
+        },
+        {
+          "name": "DELETE Prioridad",
+          "request": { "method": "DELETE", "url": "{{base_url}}/api/v1/prioridades/{{prioridad_id}}" }
+        }
+      ]
+    },
+    {
+      "name": "Empresas",
+      "item": [
+        {
+          "name": "GET All Empresas",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/empresas" }
+        },
+        {
+          "name": "GET Empresa by ID",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/empresas/{{empresa_id}}" }
+        },
+        {
+          "name": "POST Crear Empresa",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('empresa_id', pm.response.json().id);"] } }],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/empresas",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Tech Solutions SAS\",\n  \"nit\": \"900.123.456-7\",\n  \"sector\": \"Tecnologia\",\n  \"contacto\": \"Juan Perez\",\n  \"correo\": \"contacto@techsolutions.com\",\n  \"telefono\": \"310-555-1234\",\n  \"activa\": true\n}" }
+          }
+        },
+        {
+          "name": "PUT Actualizar Empresa",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/empresas/{{empresa_id}}",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Tech Solutions Actualizada\",\n  \"nit\": \"900.123.456-7\",\n  \"sector\": \"Tecnologia\",\n  \"contacto\": \"Maria Lopez\",\n  \"correo\": \"info@techsolutions.com\",\n  \"telefono\": \"310-555-9999\",\n  \"activa\": true\n}" }
+          }
+        },
+        {
+          "name": "DELETE Empresa",
+          "request": { "method": "DELETE", "url": "{{base_url}}/api/v1/empresas/{{empresa_id}}" }
+        }
+      ]
+    },
+    {
+      "name": "Usuarios",
+      "item": [
+        {
+          "name": "GET All Usuarios",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/usuarios" }
+        },
+        {
+          "name": "GET Usuario by ID",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/usuarios/{{usuario_id}}" }
+        },
+        {
+          "name": "POST Crear Usuario",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('usuario_id', pm.response.json().id);"] } }],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/usuarios",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Carlos Ramirez\",\n  \"correo\": \"carlos.ramirez@correo.com\",\n  \"contrasenaHash\": \"password123\",\n  \"activo\": true,\n  \"rol\": \"usuario\"\n}" }
+          }
+        },
+        {
+          "name": "PUT Actualizar Usuario",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/usuarios/{{usuario_id}}",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Carlos Ramirez Actualizado\",\n  \"correo\": \"carlos.nuevo@correo.com\",\n  \"activo\": true,\n  \"rol\": \"admin\"\n}" }
+          }
+        },
+        {
+          "name": "DELETE Usuario",
+          "request": { "method": "DELETE", "url": "{{base_url}}/api/v1/usuarios/{{usuario_id}}" }
+        }
+      ]
+    },
+    {
+      "name": "Retos",
+      "item": [
+        {
+          "name": "GET All Retos",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/retos" }
+        },
+        {
+          "name": "GET Reto by ID",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/retos/{{reto_id}}" }
+        },
+        {
+          "name": "POST Crear Reto",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('reto_id', pm.response.json().id);"] } }],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/retos",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Reto de Automatizacion\",\n  \"descripcion\": \"Automatizar procesos internos\",\n  \"fechaInicio\": \"2025-01-01\",\n  \"fechaFin\": \"2025-06-30\",\n  \"estado\": \"abierto\",\n  \"idEmpresa\": \"{{empresa_id}}\",\n  \"idCategoria\": \"{{categoria_id}}\",\n  \"idPrioridad\": \"{{prioridad_id}}\"\n}" }
+          }
+        },
+        {
+          "name": "PUT Actualizar Reto",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/retos/{{reto_id}}",
+            "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Reto Actualizado\",\n  \"descripcion\": \"Descripcion actualizada\",\n  \"fechaInicio\": \"2025-01-01\",\n  \"fechaFin\": \"2025-12-31\",\n  \"estado\": \"en_progreso\"\n}" }
+          }
+        },
+        {
+          "name": "DELETE Reto",
+          "request": { "method": "DELETE", "url": "{{base_url}}/api/v1/retos/{{reto_id}}" }
+        }
+      ]
+    },
+    {
+      "name": "Registros",
+      "item": [
+        {
+          "name": "GET All Registros",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/registros" }
+        },
+        {
+          "name": "GET Registro by ID",
+          "request": { "method": "GET", "url": "{{base_url}}/api/v1/registros/{{registro_id}}" }
+        },
+        {
+          "name": "POST Crear Registro",
+          "event": [{ "listen": "test", "script": { "exec": ["pm.collectionVariables.set('registro_id', pm.response.json().id);"] } }],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/registros",
+            "body": { "mode": "raw", "raw": "{\n  \"fechaRegistro\": \"2025-01-15T10:30:00\",\n  \"observacion\": \"Registro de participacion en el reto\",\n  \"estado\": \"pendiente\",\n  \"idUsuario\": \"{{usuario_id}}\",\n  \"idReto\": \"{{reto_id}}\"\n}" }
+          }
+        },
+        {
+          "name": "PUT Actualizar Registro",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "url": "{{base_url}}/api/v1/registros/{{registro_id}}",
+            "body": { "mode": "raw", "raw": "{\n  \"observacion\": \"Observacion actualizada\",\n  \"estado\": \"aprobado\"\n}" }
+          }
+        },
+        {
+          "name": "DELETE Registro",
+          "request": { "method": "DELETE", "url": "{{base_url}}/api/v1/registros/{{registro_id}}" }
+        }
+      ]
+    }
+  ]
+}

@@ -145,11 +145,30 @@ const toApiRecord = (resource, record) => {
 }
 
 export async function loadPlatformData() {
-  const rows = await Promise.all(resourceNames.map(resource => request(`/${resource}`)))
-  return Object.fromEntries(resourceNames.map((resource, index) => [
+  const [rows, publicDashboard] = await Promise.all([
+    Promise.all(resourceNames.map(resource => request(`/${resource}`))),
+    request('/public/dashboard'),
+  ])
+  return {
+    ...Object.fromEntries(resourceNames.map((resource, index) => [
     resource,
     rows[index].map(row => fromApiRecord(resource, row)),
-  ]))
+    ])),
+    publicSummary: {
+      activeUsers: publicDashboard.usuariosActivos,
+      totalRegistrations: publicDashboard.totalRegistros,
+      openChallenges: publicDashboard.retosAbiertos,
+      weeklyCounts: Object.fromEntries(publicDashboard.actividadSemanal.map(day => [
+        day.dia.slice(0, 10),
+        Number(day.cantidad),
+      ])),
+      challengeCountsByCategory: Object.fromEntries(publicDashboard.retosPorCategoria.map(category => [
+        category.categoria_id,
+        Number(category.cantidad),
+      ])),
+      companyChallengeAnalysis: publicDashboard.analisisEmpresas,
+    },
+  }
 }
 
 export async function loadPublicDashboard() {
@@ -196,6 +215,7 @@ export async function loadPublicDashboard() {
       openChallenges: result.retosAbiertos,
       weeklyCounts,
       challengeCountsByCategory,
+      companyChallengeAnalysis: result.analisisEmpresas,
     },
   }
 }
