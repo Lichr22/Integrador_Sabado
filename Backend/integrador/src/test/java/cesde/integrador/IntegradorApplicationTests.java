@@ -1,6 +1,7 @@
 package cesde.integrador;
 
 import org.mockito.Mockito;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -13,6 +14,8 @@ import org.springframework.jdbc.core.JdbcTemplate;
 		"spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration,org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration"
 })
 @Import(IntegradorApplicationTests.TestDependencies.class)
+// Levanta el contexto completo y se conecta a la base de datos configurada.
+@Tag("integration")
 class IntegradorApplicationTests {
 
 	@Test

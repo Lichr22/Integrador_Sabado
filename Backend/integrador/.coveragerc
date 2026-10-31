@@ -1,0 +1,3 @@
+[run]
+# Script de carga de datos de prueba, no forma parte de la aplicación
+omit = src/main/resources/seed_mock.py

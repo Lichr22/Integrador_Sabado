@@ -29,6 +29,10 @@
 	<properties>
 		<java.version>17</java.version>
 		<mapstruct.version>1.6.3</mapstruct.version>
+		<jacoco.version>0.8.13</jacoco.version>
+		<surefire-report.version>3.5.3</surefire-report.version>
+		<!-- Las pruebas @Tag("integration") requieren Supabase; ejecutar con -DexcludedGroups= -->
+		<excludedGroups>integration</excludedGroups>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -102,6 +106,50 @@
 						</path>
 					</annotationProcessorPaths>
 				</configuration>
+			</plugin>
+			<!-- Cobertura de pruebas: target/site/jacoco/index.html -->
+			<plugin>
+				<groupId>org.jacoco</groupId>
+				<artifactId>jacoco-maven-plugin</artifactId>
+				<version>${jacoco.version}</version>
+				<executions>
+					<execution>
+						<id>prepare-agent</id>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
+					</execution>
+					<execution>
+						<id>report</id>
+						<phase>test</phase>
+						<goals>
+							<goal>report</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<excludes>
+						<!-- Clases sin lógica propia: solo atributos, getters y setters -->
+						<exclude>cesde/integrador/entity/**</exclude>
+						<exclude>cesde/integrador/dto/**</exclude>
+						<exclude>cesde/integrador/IntegradorApplication.class</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+			<!-- Resultados de pruebas en HTML: target/reports/surefire.html -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-report-plugin</artifactId>
+				<version>${surefire-report.version}</version>
+				<executions>
+					<execution>
+						<id>surefire-html</id>
+						<phase>test</phase>
+						<goals>
+							<goal>report-only</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 		</plugins>
 	</build>

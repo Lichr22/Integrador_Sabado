@@ -22,4 +22,18 @@ export default defineConfig({
       plugins: [],
     },
   },
+  test: {
+    environment: 'jsdom',
+    setupFiles: ['./src/test/setup.js'],
+    // Resultados: test-reports/index.html (abrir con `npx vite preview --outDir test-reports`)
+    reporters: ['default', 'html'],
+    outputFile: { html: './test-reports/index.html' },
+    // Cobertura: coverage/index.html
+    coverage: {
+      provider: 'v8',
+      reporter: ['text', 'html'],
+      include: ['src/**/*.{js,jsx}'],
+      exclude: ['src/main.jsx', 'src/test/**', 'src/**/*.test.{js,jsx}'],
+    },
+  },
 })
