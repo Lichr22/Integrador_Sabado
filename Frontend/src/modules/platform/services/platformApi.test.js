@@ -1,7 +1,7 @@
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 import {
-  ApiError, clearSession, createRecord, deleteRecord, hasSession, loadPublicDashboard,
-  login, saveSession, updateRecord,
+  ApiError, clearSession, createRecord, deleteRecord, getCurrentUser, hasSession, loadPlatformData,
+  loadPublicDashboard, login, register, saveSession, updateCurrentUser, updateRecord,
 } from './platformApi.js'
 
 const jsonResponse = (body, status = 200) => new Response(JSON.stringify(body), {
@@ -211,5 +211,144 @@ describe('loadPublicDashboard', () => {
       challengeCountsByCategory: { c1: 5 },
       companyChallengeAnalysis: { estadisticas: {} },
     })
+  })
+})
+
+describe('register y usuario actual', () => {
+  const apiUser = { id: 'u1', nombre: 'Ana', correo: 'ana@nexo.co', rol: 'Participante', activo: true, fecha_registro: '2026-10-01T08:30:00' }
+
+  it('register envía nombre, correo y contraseña y convierte el usuario', async () => {
+    fetchMock.mockResolvedValue(jsonResponse({ token: 't', user: apiUser }))
+
+    const result = await register({ nombre: 'Ana', correo: 'ana@nexo.co', password: 'secreta123', confirmPassword: 'secreta123' })
+
+    const { url, options, body } = lastRequest()
+    expect(url).toBe('/api/auth/register')
+    expect(options.method).toBe('POST')
+    expect(body).toEqual({ nombre: 'Ana', correo: 'ana@nexo.co', contrasena: 'secreta123' })
+    expect(result.user).toMatchObject({ id: 'u1', estado: 'Activo', creadoEl: '2026-10-01' })
+  })
+
+  it('un 401 en el registro no se trata como sesión expirada', async () => {
+    saveSession('token-anterior')
+    fetchMock.mockResolvedValue(jsonResponse({ message: 'No autorizado' }, 401))
+
+    await expect(register({ nombre: 'Ana', correo: 'a@b.co', password: 'x' })).rejects.toThrow('No autorizado')
+
+    expect(hasSession()).toBe(true)
+  })
+
+  it('getCurrentUser consulta /auth/me', async () => {
+    saveSession('t')
+    fetchMock.mockResolvedValue(jsonResponse({ ...apiUser, fecha_registro: null }))
+
+    const user = await getCurrentUser()
+
+    expect(lastRequest().url).toBe('/api/auth/me')
+    expect(lastRequest().options.method).toBeUndefined()
+    expect(user).toMatchObject({ id: 'u1', usuarioId: 'u1', creadoEl: '' })
+  })
+
+  it('updateCurrentUser solo envía nombre y correo', async () => {
+    fetchMock.mockResolvedValue(jsonResponse({ ...apiUser, nombre: 'Ana María' }))
+
+    const user = await updateCurrentUser({ id: 'u1', nombre: 'Ana María', correo: 'ana@nexo.co', rol: 'admin' })
+
+    const { url, options, body } = lastRequest()
+    expect(url).toBe('/api/usuarios/u1')
+    expect(options.method).toBe('PUT')
+    expect(body).toEqual({ nombre: 'Ana María', correo: 'ana@nexo.co' })
+    expect(user).toMatchObject({ nombre: 'Ana María', estado: 'Activo', fechaRegistro: '2026-10-01' })
+  })
+})
+
+describe('conversión de cada entidad', () => {
+  it('categorías usan area_responsable en la API', async () => {
+    fetchMock.mockResolvedValue(jsonResponse({ id: 'c1', nombre: 'Logística', area_responsable: 'Operaciones' }))
+
+    const result = await createRecord('categorias', { id: '', nombre: 'Logística', areaResponsable: 'Operaciones' })
+
+    expect(lastRequest().body).toEqual({ nombre: 'Logística', area_responsable: 'Operaciones' })
+    expect(result.areaResponsable).toBe('Operaciones')
+  })
+
+  it('prioridades usan dias_max_respuesta en la API', async () => {
+    fetchMock.mockResolvedValue(jsonResponse({ id: 'p1', nombre: 'Alta', nivel: 1, dias_max_respuesta: 5 }))
+
+    const result = await updateRecord('prioridades', { id: 'p1', nombre: 'Alta', nivel: 1, diasMaxRespuesta: 5 })
+
+    expect(lastRequest().url).toBe('/api/prioridades/p1')
+    expect(lastRequest().body).toEqual({ nombre: 'Alta', nivel: 1, dias_max_respuesta: 5 })
+    expect(result.diasMaxRespuesta).toBe(5)
+  })
+
+  it('registros usan id_usuario, id_reto y fecha con hora', async () => {
+    fetchMock.mockResolvedValue(jsonResponse({
+      id: 'g1', id_usuario: 'u1', id_reto: 'r1', estado: 'Pendiente', fecha_registro: '2026-10-20T00:00:00',
+    }))
+
+    const result = await createRecord('registros', {
+      usuarioId: 'u1', retoId: 'r1', fechaRegistro: '2026-10-20', estado: 'Pendiente', observacion: '',
+    })
+
+    expect(lastRequest().body).toEqual({
+      id_usuario: 'u1', id_reto: 'r1', fecha_registro: '2026-10-20T00:00:00', estado: 'Pendiente', observacion: '',
+    })
+    expect(result).toMatchObject({ usuarioId: 'u1', retoId: 'r1', fechaRegistro: '2026-10-20' })
+  })
+
+  it('usuarios nuevos envían la contraseña inicial si se indicó', async () => {
+    fetchMock.mockResolvedValue(jsonResponse({ id: 'u2', nombre: 'Luis', activo: false }))
+
+    const result = await createRecord('usuarios', {
+      nombre: 'Luis', correo: 'luis@nexo.co', rol: 'Participante', estado: 'Inactivo', contrasena: 'secreta123',
+    })
+
+    expect(lastRequest().body).toEqual({
+      nombre: 'Luis', correo: 'luis@nexo.co', rol: 'Participante', activo: false, contrasena: 'secreta123',
+    })
+    expect(result).toMatchObject({ estado: 'Inactivo', fechaRegistro: '' })
+  })
+})
+
+describe('loadPlatformData', () => {
+  it('consulta todos los recursos y el resumen, y los convierte al formato del frontend', async () => {
+    saveSession('t')
+    const responses = {
+      '/api/empresas': [{ id: 'e1', nombre: 'Acme', activa: true }],
+      '/api/categorias': [{ id: 'c1', nombre: 'Logística', area_responsable: 'Ops' }],
+      '/api/prioridades': [{ id: 'p1', nombre: 'Alta', dias_max_respuesta: 3 }],
+      '/api/usuarios': [{ id: 'u1', nombre: 'Ana', activo: true, fecha_registro: '2026-10-01T00:00:00' }],
+      '/api/retos': [{ id: 'r1', id_empresa: 'e1', id_categoria: 'c1', id_prioridad: 'p1', fecha_inicio: '2026-01-01', fecha_fin: '2026-02-01' }],
+      '/api/registros': [{ id: 'g1', id_usuario: 'u1', id_reto: 'r1', fecha_registro: '2026-10-20T10:00:00' }],
+      '/api/public/dashboard': {
+        usuariosActivos: 1, totalRegistros: 1, retosAbiertos: 1,
+        actividadSemanal: [{ dia: '2026-10-20T00:00:00', cantidad: '1' }],
+        retosPorCategoria: [{ categoria_id: 'c1', cantidad: '1' }],
+        analisisEmpresas: null,
+      },
+    }
+    fetchMock.mockImplementation(url => Promise.resolve(jsonResponse(responses[url])))
+
+    const data = await loadPlatformData()
+
+    expect(fetchMock.mock.calls.map(([url]) => url).sort()).toEqual(Object.keys(responses).sort())
+    expect(data.empresas[0].estado).toBe('Activa')
+    expect(data.categorias[0].areaResponsable).toBe('Ops')
+    expect(data.prioridades[0].diasMaxRespuesta).toBe(3)
+    expect(data.usuarios[0]).toMatchObject({ id: 'u1', usuarioId: 'u1', estado: 'Activo', fechaRegistro: '2026-10-01' })
+    expect(data.retos[0]).toMatchObject({ empresaId: 'e1', fechaInicio: '2026-01-01' })
+    expect(data.registros[0]).toMatchObject({ usuarioId: 'u1', retoId: 'r1', fechaRegistro: '2026-10-20' })
+    expect(data.publicSummary).toMatchObject({
+      activeUsers: 1, weeklyCounts: { '2026-10-20': 1 }, challengeCountsByCategory: { c1: 1 },
+    })
+  })
+
+  it('falla si alguno de los recursos responde con error', async () => {
+    fetchMock.mockImplementation(url => Promise.resolve(
+      url === '/api/retos' ? jsonResponse({ message: 'Fallo en retos' }, 500) : jsonResponse([]),
+    ))
+
+    await expect(loadPlatformData()).rejects.toThrow('Fallo en retos')
   })
 })

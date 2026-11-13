@@ -1,0 +1,841 @@
+id,fecha_registro,observacion,estado,id_usuario,id_reto
+0e55ced3-9e79-46fe-a680-c5e3363cbc32,2026-01-24 00:21:20,Delectus quia nam sapiente repellendus iusto et odit repudiandae cum rem.,inscrito,a9f5307c-8ece-48b0-af29-a9f1ced66b44,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+cdf40137-5e15-433b-a8b1-211a6eb8b0e2,12/05/2026 05:26,Earum ad ipsam eaque asperiores temporibus eos magnam molestias aspernatur.,INSCRITO,9e5cf6e9-9255-4248-b771-f894f2e36355,85c80ede-202c-415a-898d-b8601e47caa6
+acf5e81e-7131-4269-b118-e36477097749,21/01/2026 23:50,,EN_PROCESO,219763c5-9682-4074-b915-72d53911c9b0,05306bb7-e728-4b1b-95ea-47a751a248ee
+b2b302d3-1116-4039-aa92-659baaaa077f,09/08/2026 03:49,,FINALIZADO,84f32551-5366-4ce2-ad4d-666177bb3654,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+81e0d489-5a18-42a3-8e61-4bcd97674900,2025-11-28 19:30:25,Iure alias fuga enim officia voluptate at nisi fugit.,EN_PROCESO,219763c5-9682-4074-b915-72d53911c9b0,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+10cc4604-28b2-4b1b-8a9f-1d5983e8b700,2026-02-28 19:52:38,Illo quos minima necessitatibus cupiditate soluta dicta animi alias amet facere dicta.,EN_PROCESO,4a41f8e4-d4d6-4278-889b-5123e842997d,a02fb007-9b75-4151-b4bf-589bc79e23da
+82a4e22e-d737-4450-95cc-fda236770e04,17/02/2026 06:00,Cum modi architecto at praesentium rerum.,EN PROCESO,1b252869-2bd8-4f21-afa1-2947f472bb69,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+9bc0fa93-52cd-4def-b9d2-76f4d37ee471,01/02/2026 11:41,Molestias fugiat mollitia quia facere iste vero a alias eligendi accusamus consequatur tempora.,FINALIZADO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,f72699ec-6a1e-460d-81cd-81b0c6db0211
+1e9d095b-d17a-49bd-b1ba-0beaf9690579,24/03/2026 22:29,Quasi accusantium ea neque corporis itaque possimus facere amet facere odio veritatis.,EN_PROCESO,f57585ce-039e-457a-a041-f10e325abdec,05306bb7-e728-4b1b-95ea-47a751a248ee
+92a0c677-b700-43c5-90a9-0840c8e7f2f6,2026-07-19 03:32:14,Quaerat maxime dolorum eveniet neque reprehenderit facere.,INSCRITO,d9814559-3a9a-4a39-a261-e34a7b6bc3c6,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+86d4aba8-805f-4892-bc79-5dd973d12f3e,2026-09-18 04:03:28,,CANCELADO,afe987c1-8fdf-4614-9a09-1fd628215db0,ea75e258-ccc2-44da-84e7-0d70f5521d62
+fe0a824e-232a-4e82-a699-6aabdaaf7529,2026-01-16 18:53:58,Illum necessitatibus tenetur itaque et quaerat quod laborum occaecati debitis.,inscrito,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,038d04fb-1018-47f5-8191-590c42c79c1c
+c3f62136-846d-4a3b-a661-c42630385dd7,01/02/2026 07:46,Rem rem nobis optio perspiciatis quam.,INSCRITO,ffce6973-7f62-4f26-b6c3-266043710baf,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+541cdfcd-da0d-4a5f-948f-8b74a65bb1f2,27/09/2026 00:23,Fugit et quaerat quis sit alias architecto occaecati ullam voluptatum quia inventore.,FINALIZADO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,1f684c50-9e74-4650-a980-f7bd1cd33258
+560fc071-38c6-430f-bb3e-d7bdfae96dd3,14/04/2026 11:18,Aperiam incidunt amet beatae facilis velit quae doloribus tempora delectus a optio.,CANCELADO,b76dc0c3-b078-42db-b03e-53cf192f09a9,40676334-ec79-43be-b96a-fc60ae7078ea
+f18cccdc-131e-4723-bbcd-f203459ee674,2026-01-17 17:25:07,Quod nesciunt culpa cum iure illo modi.,CANCELADO,88736737-6ce4-448f-85d6-ac4263d52b10,f92af541-a5dc-4896-98d1-e3045aa26879
+4094dded-6beb-4c31-94f8-fd72f3821cfd,2026-09-20 05:56:01,Iusto quibusdam amet veritatis dolore architecto vero.,CANCELADO,b76dc0c3-b078-42db-b03e-53cf192f09a9,f92af541-a5dc-4896-98d1-e3045aa26879
+22b5f457-1860-4d28-90af-b235ade68f51,18/08/2026 07:23,Ullam voluptatibus sint consectetur sint dolorum quae repudiandae quis perspiciatis laudantium.,EN_PROCESO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+6dda4f8d-cea6-4f4c-b9e5-8ff092f837d4,2026-09-24 05:25:01,,CANCELADO,b14ab8e9-e041-4118-991f-77c9f551abfd,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+28cbb7ca-33b5-4667-8979-13a0e7d90c1b,2026-02-13 21:51:35,Adipisci ratione eius mollitia officia aliquam quam.,FINALIZADO,f1f02f49-c500-49ab-af3e-41445a789b32,105cbc52-d65f-45b6-968e-485e46db73ab
+3cfe18e9-5f20-4c06-9ace-863187638104,10/07/2026 12:45,Distinctio fugit suscipit consectetur quia blanditiis nesciunt totam omnis.,EN_PROCESO,88736737-6ce4-448f-85d6-ac4263d52b10,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+edef5003-1fce-41e3-842b-03ca75a72686,2026-09-29 01:53:32,Ipsam a vero dicta porro consequatur officiis culpa.,EN_PROCESO,ffce6973-7f62-4f26-b6c3-266043710baf,1f684c50-9e74-4650-a980-f7bd1cd33258
+266bf2ea-eb93-478c-a20a-f1585d2d904f,08/01/2026 12:02,Mollitia totam qui in eum impedit.,EN_PROCESO,ffce6973-7f62-4f26-b6c3-266043710baf,6d1675c1-7671-47fd-9814-26123733ef91
+68f82063-eeb1-4ad2-81a1-fb0f268b84b6,2025-11-09 06:51:35,Molestiae odio possimus ab ex quis fugiat qui.,INSCRITO,8c53765f-4ec0-4954-bf8b-2a6aab74fe57,105cbc52-d65f-45b6-968e-485e46db73ab
+5e6ee398-cff1-4675-a6fb-976bb95f22d5,2026-09-12 23:02:49,Voluptatibus vel sint ea quos beatae veniam asperiores eveniet nostrum repellat earum.,FINALIZADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,f72699ec-6a1e-460d-81cd-81b0c6db0211
+6ecca931-ef70-4d01-8da0-3d880c6f3051,2026-09-21 18:19:58,,FINALIZADO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,6d1675c1-7671-47fd-9814-26123733ef91
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,02/06/2026 05:43,Nostrum assumenda est voluptatum quaerat minima quisquam.,EN_PROCESO,a55c9c8e-2f7c-4cc7-8d64-a752b8ec796e,fcf2c86d-9394-4318-8fa9-60d1af925385
+a250d133-f5cb-4be4-8b83-b5708bb4995a,2025-12-25 22:52:52,Perspiciatis totam recusandae quas fuga veniam mollitia nam commodi.,FINALIZADO,66e61127-e26b-424a-8e0d-8d877a98b9ac,ea75e258-ccc2-44da-84e7-0d70f5521d62
+ae62990c-19bd-4f93-b8ef-7666b7a4c719,2026-08-26 08:03:37,,EN_PROCESO,adbafed0-b600-460c-bbdc-fd55304374b3,a02fb007-9b75-4151-b4bf-589bc79e23da
+9b47e639-4d25-41eb-af95-be79c971bf51,2025-12-03 14:17:13,Quisquam ipsa hic optio labore modi consequatur hic reiciendis.,EN_PROCESO,4242c225-83e2-465a-b654-0600c8fb4456,6aa8b0b5-c494-49bc-8c04-64601f500d19
+92d00319-20bd-4422-8b0b-81de3e612d66,2026-06-18 01:04:49,Consequatur maiores tempora corporis cumque ullam maxime illo.,EN_PROCESO,93550840-067f-4cfc-8e1f-d3d9849acfb5,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+d21c82f8-cada-4f80-a9e7-82d4fd08b32c,11/07/2026 05:15,Libero alias magnam nihil sit soluta ipsam.,CANCELADO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,a02fb007-9b75-4151-b4bf-589bc79e23da
+b8e51141-c067-4073-a9c0-00f0c571f9ab,15/03/2026 08:59,Quae odio fuga animi harum incidunt doloribus labore ullam facere provident adipisci.,EN_PROCESO,e41686cd-6616-4227-9737-14726c167229,f72699ec-6a1e-460d-81cd-81b0c6db0211
+b4323070-a23d-4c2f-82a7-96891933918c,2026-10-04 21:01:40,Ipsam possimus temporibus aliquid recusandae eos fugiat.,EN_PROCESO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,105cbc52-d65f-45b6-968e-485e46db73ab
+ed37c2ce-0ce8-4570-b4d6-f3e61aa90d26,19/04/2026 00:50,,EN PROCESO,4a41f8e4-d4d6-4278-889b-5123e842997d,6d1675c1-7671-47fd-9814-26123733ef91
+189ac35d-aa5f-49ca-9bea-530d219c00cb,19/09/2026 03:17,Maiores laudantium suscipit labore natus in quidem repellat nostrum ipsa.,inscrito,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,480bdb8b-060e-4c8a-a0df-f7096fce4808
+022111e5-88fc-4da1-b81d-5b6c49694032,25/07/2026 02:28,,EN_PROCESO,a60741f3-1075-45b0-b0ac-debe7aa95416,038d04fb-1018-47f5-8191-590c42c79c1c
+a3fd17f0-2ae6-4af6-9e46-222e2514c7ce,09/09/2026 16:28,,CANCELADO,a5f27419-0b94-4014-ac61-93ccebe48123,480bdb8b-060e-4c8a-a0df-f7096fce4808
+e92a7b97-51db-4a37-8204-d73398550b1e,09/08/2026 09:05,Assumenda nam mollitia sequi maxime totam.,INSCRITO,1b252869-2bd8-4f21-afa1-2947f472bb69,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+722944a9-af7c-4609-9a99-aae08677b81d,16/03/2026 12:22,,EN_PROCESO,21f34390-8e44-4800-ab99-436044a23f65,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+9a86013d-f6c9-4d38-86a2-074c61025637,2026-02-04 02:50:44,Earum minus placeat illum eveniet at.,EN_PROCESO,733c6676-4dbd-4e02-aecb-9e6853e81536,40676334-ec79-43be-b96a-fc60ae7078ea
+a214245c-fecf-4d72-84f7-60a8bb909511,28/07/2026 14:40,Quaerat natus officia maiores cum reprehenderit et ratione.,INSCRITO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+697c3923-87fa-441a-be83-b91f25440fe0,2026-06-07 18:49:54,Cumque aspernatur sit nulla dolores totam corporis itaque.,INSCRITO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+d7e4527a-6274-4240-8e30-1bcc302fa247,25/10/2026 00:47,,INSCRITO,21f34390-8e44-4800-ab99-436044a23f65,5044df5c-81b2-499e-9b37-ca07a14d59fc
+8c7aa939-ff0d-43c2-ac4d-cd33d51528af,2026-10-05 17:35:39,Cumque ipsum blanditiis optio dolores distinctio quidem optio at ipsa quaerat.,INSCRITO,70eb9a0a-9626-4ae6-85e8-18fac0433cbd,105cbc52-d65f-45b6-968e-485e46db73ab
+70249792-6578-4d0c-9aec-8b70ac0e7307,21/05/2026 23:33,Blanditiis hic possimus voluptate qui tempora cumque.,EN_PROCESO,1919e93a-d117-45ad-8988-93101c593af5,1f684c50-9e74-4650-a980-f7bd1cd33258
+0a368ce7-dc57-4131-b8e1-daa7cbceabde,15/10/2026 02:35,Distinctio dolorum aut quod sunt illo nulla culpa ut sint., Finalizado ,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+c8a65b85-8d56-4ff6-a9c9-520f3425449c,2026-06-04 12:51:38,,INSCRITO,b91dddd9-1389-4372-a341-738c837a7935,1f684c50-9e74-4650-a980-f7bd1cd33258
+e05bc7ea-c0a1-4dbc-a95f-34ffbbe30fd2,2026-10-24 23:17:32,Autem nemo reiciendis repellendus eaque distinctio quibusdam.,CANCELADO,88736737-6ce4-448f-85d6-ac4263d52b10,05306bb7-e728-4b1b-95ea-47a751a248ee
+ff1b654d-6c65-459d-a2ef-1e217fb32568,2026-04-19 21:50:32,Quasi impedit cum magni laborum itaque voluptas maiores minus possimus iste adipisci.,CANCELADO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+5893ef12-ab3f-4d22-9d5e-6aee0240f59a,2026-04-22 01:55:11,Temporibus nostrum numquam vero placeat eum totam velit harum.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,05306bb7-e728-4b1b-95ea-47a751a248ee
+17df85b3-3429-48cf-9289-1c31f2de05fd,2025-12-06 05:17:47,Ipsa occaecati nihil adipisci provident ullam.,INSCRITO,24114258-751b-4c83-89a0-47dc4ac87fc0,a02fb007-9b75-4151-b4bf-589bc79e23da
+17dcabf5-5088-4581-8c4c-eedf0bb1b984,27/02/2026 20:24,,inscrito,2475263c-7854-4014-aded-c86a9f4fb02b,038d04fb-1018-47f5-8191-590c42c79c1c
+00419afc-0ab2-42ca-b3a5-5d2e8e1e7525,11/09/2026 14:23,Vero nulla officiis cumque animi ullam earum dolorum perspiciatis voluptatum sapiente.,CANCELADO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,5044df5c-81b2-499e-9b37-ca07a14d59fc
+260c037e-305d-4ef7-8d9f-f83d70a32883,2025-11-21 04:36:10,, Finalizado ,59001ac9-4063-49bc-a5b0-0a2d35d14880,6d1675c1-7671-47fd-9814-26123733ef91
+5f8f8538-2ba4-4656-a10c-5ade7ed99a6b,2025-12-13 23:24:46,Totam dolorum molestiae quisquam blanditiis error eos distinctio qui necessitatibus.,INSCRITO,a9f5307c-8ece-48b0-af29-a9f1ced66b44,fcf2c86d-9394-4318-8fa9-60d1af925385
+94fd0594-ecf9-4245-be5f-7e23704c19e2,2025-11-15 19:20:28,,FINALIZADO,a5721c6a-58d6-4944-9573-e7bb0d26efa0,ff44577c-b8bf-477a-8e5f-87558f94b50b
+4aa5f9d3-335f-4f59-9e71-7fca020a4497,06/06/2026 23:03,Qui doloribus fuga voluptas voluptatum quod quasi molestias recusandae.,inscrito,70eb9a0a-9626-4ae6-85e8-18fac0433cbd,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+73373c2f-4e1c-4762-9c7c-b6edcde55848,2026-05-01 23:48:43,Ex qui distinctio molestias quibusdam molestias.,CANCELADO,b093e3b4-7df2-4c58-9c56-dc87f32efa03,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+60971a15-c806-42d3-967b-9583e6793a4b,03/05/2026 13:26,Consequatur consequuntur odio quis pariatur corrupti quas at numquam numquam harum tempore excepturi., Finalizado ,93550840-067f-4cfc-8e1f-d3d9849acfb5,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+dea45c19-d024-4d72-b748-967f961d33ba,2026-01-29 11:42:18,,INSCRITO,1919e93a-d117-45ad-8988-93101c593af5,a02fb007-9b75-4151-b4bf-589bc79e23da
+6a429bd5-cd71-42b4-9471-104f1859c5ae,2026-08-07 21:12:46,,INSCRITO,d563d56d-c887-417c-8b89-0fec6872d96b,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+b73c91ca-82c3-492b-9027-b309cedb5488,2026-08-30 06:16:15,Quos quae velit fugiat nesciunt omnis corrupti quis officiis veritatis vero voluptatibus.,FINALIZADO,18afaf54-4382-4d47-8813-063719f900d3,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+fd411a05-833c-44f2-a772-829078d540ef,22/08/2026 14:31,,EN PROCESO,4619e5db-cbf5-414c-8652-ab69cbee23b0,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+a7dfeb92-57c1-4f7e-9425-fc3a6964a112,2026-07-08 21:38:01,Laborum pariatur minus molestias itaque necessitatibus tempore esse ratione dolorem.,FINALIZADO,7383d496-000e-45d0-9798-5d060397a31d,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+21bbd183-8acf-44d6-b2fc-c072544c0132,19/01/2026 07:07,, Finalizado ,59001ac9-4063-49bc-a5b0-0a2d35d14880,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+faebcd19-e550-4ea2-a133-a34d8b0e8eb1,02/04/2026 05:18,Veritatis rem enim enim quae expedita ipsam ducimus laboriosam dicta.,EN_PROCESO,2f9e09c9-d828-4123-a945-e7bb290f5d0f,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+39ee80ab-46c9-47e0-90c5-9550f69a0539,23/06/2026 11:42,Iste illo a cupiditate magni nam magnam excepturi.,CANCELADO,22a60b44-ef5f-431c-a8fd-b92dab266981,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+0dec644c-da2d-4156-913a-1734ccb68571,2026-09-26 15:30:31,Itaque mollitia enim architecto atque quas laborum ex consectetur omnis aut nulla tempore.,FINALIZADO,4619e5db-cbf5-414c-8652-ab69cbee23b0,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+7ee1011a-8e4c-4ab5-ad5d-0477adc29178,2025-11-18 04:59:29,Velit perferendis ratione eum impedit corrupti fugiat quidem labore sed.,INSCRITO,a5b0e526-320b-43f8-88be-3b07662f286b,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+e19a17f6-438a-419e-b970-5e4b2d71a040,29/11/2025 21:28,Perspiciatis sequi nisi voluptas nesciunt laborum dolorum autem.,CANCELADO,d4f398ee-4b5c-4a95-b3d9-18086edd77d8,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+61bba5fb-d510-4bc0-af9e-1ddb33028b32,2026-02-20 09:59:32,Laudantium reprehenderit error nesciunt laudantium qui dolore recusandae culpa error odit odio commodi.,FINALIZADO,cfd8c364-eab4-4bd6-b528-ea79511070a7,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+4ccf0a4b-7c93-443e-890b-945450d3802d,05/02/2026 11:14,,EN PROCESO,6af38f6c-159d-4a38-8a6a-03b381356bc5,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+b289f224-4ac9-478d-8da8-eee40df56ac6,19/12/2025 01:00,Aut accusamus eligendi laboriosam exercitationem vitae dolorum similique beatae aperiam laudantium neque.,CANCELADO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+f9ac1a4f-4251-4974-bdf1-d205b6ecb84e,2026-02-07 23:33:43,,INSCRITO,376f5364-89d3-4078-8ab3-9a0792845dae,85c80ede-202c-415a-898d-b8601e47caa6
+3e859c67-5855-44a0-bfea-3d2a88c982ec,13/08/2026 23:49,Placeat aliquam ipsum cumque ut quis temporibus cupiditate facilis consequatur explicabo amet.,CANCELADO,de0279e1-7f9a-4098-8df0-5f2595f19a51,ea75e258-ccc2-44da-84e7-0d70f5521d62
+1b9b71f0-3f45-44d4-801a-d5cdd72b8154,02/05/2026 22:03,Vero rerum reprehenderit maxime dolores asperiores nobis ipsa atque.,EN_PROCESO,d1711cbd-2106-419e-840d-31b5397a7623,a02fb007-9b75-4151-b4bf-589bc79e23da
+dc0db266-0e29-4d9a-8518-bd4dc840789b,2026-10-14 04:02:12,Et error aperiam veritatis tempore perferendis suscipit., Finalizado ,7383d496-000e-45d0-9798-5d060397a31d,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+5c311464-82c2-49f0-b487-d7727f0386fa,21/11/2025 12:43,Similique cumque culpa quo tempora perferendis beatae qui a similique accusamus aliquid.,INSCRITO,9015b7c2-4b71-4794-91e0-b53936e53725,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+5f269466-54d1-432a-a308-2ddcc9c04b7d,09/02/2026 04:35,Eos sed iusto sint nesciunt velit architecto suscipit magnam sint fugit error amet.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+986f9025-8f15-4a58-bce6-850487f8424d,2026-03-03 05:25:52,Nostrum quaerat magnam rerum molestias tempore quia labore ea doloribus odit.,INSCRITO,a5b0e526-320b-43f8-88be-3b07662f286b,a02fb007-9b75-4151-b4bf-589bc79e23da
+0bd4a990-0640-4e0f-a5b8-fd4b32fa2de8,2026-02-03 02:05:52,Nostrum quisquam iste suscipit nemo quaerat fugit id corporis porro tempora similique.,CANCELADO,e41686cd-6616-4227-9737-14726c167229,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+ee6bcb89-8615-40f6-ab43-db407b9a21c4,14/05/2026 16:24,Cumque earum voluptas enim veritatis aperiam.,EN PROCESO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+4ede79b6-1deb-479d-8d0b-b6d7ad91f456,09/11/2025 15:06,Nulla dolore facere eveniet non deserunt minima quos quisquam deserunt assumenda.,FINALIZADO,18afaf54-4382-4d47-8813-063719f900d3,6aa8b0b5-c494-49bc-8c04-64601f500d19
+8e81b2f0-2d47-4c4f-8869-7ffa09360f02,14/07/2026 02:09,Suscipit cum inventore est harum quisquam necessitatibus laudantium mollitia.,FINALIZADO,24114258-751b-4c83-89a0-47dc4ac87fc0,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+e49dda44-191f-4e05-a777-3701f7873461,2026-02-09 11:07:41,Nisi cupiditate ipsa soluta rem consequuntur quisquam dolorum impedit.,CANCELADO,b76dc0c3-b078-42db-b03e-53cf192f09a9,40676334-ec79-43be-b96a-fc60ae7078ea
+cc96bf43-9850-4072-bf44-cbca1d3ae131,27/06/2026 02:04,Aperiam dicta excepturi saepe qui illo blanditiis placeat.,FINALIZADO,5497db67-a54b-4b83-b440-cabee0ed4a62,f92af541-a5dc-4896-98d1-e3045aa26879
+d6de70c5-2ce4-499d-b924-08c32ea9ef6c,2026-08-02 00:04:27,Cum blanditiis voluptatibus nemo ipsam fuga dignissimos.,EN_PROCESO,bef7e268-ffe9-46ab-a058-1ccace1d62e0,ea75e258-ccc2-44da-84e7-0d70f5521d62
+0066853d-6de2-49a1-8a90-cd0c24c173b9,2026-06-26 18:26:26,,INSCRITO,93550840-067f-4cfc-8e1f-d3d9849acfb5,105cbc52-d65f-45b6-968e-485e46db73ab
+336749b5-2cf6-4f75-aa5e-6920bf5ae7e6,2025-12-21 07:49:06,Soluta facilis magnam earum cum totam velit voluptas eos sit rem iusto.,CANCELADO,8bb9c912-2286-4c53-b000-e394b870e4e1,85c80ede-202c-415a-898d-b8601e47caa6
+f2f25eef-1f45-4bfd-b7dc-67e030974b2b,2026-09-25 08:14:31,,EN_PROCESO,89be9c1c-8eb5-440f-96f4-488157241955,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+84bed7ed-1491-451d-a6a7-a6b0f9619ae2,19/10/2026 09:20,Soluta cumque incidunt porro magnam modi suscipit nesciunt.,FINALIZADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+283348ea-5c94-463a-a936-5d1b34943114,09/08/2026 20:42,Provident quis libero sit culpa facilis reprehenderit commodi dicta.,FINALIZADO,ed4d19b8-85dc-4a68-8db5-4088754e64f4,f72699ec-6a1e-460d-81cd-81b0c6db0211
+82e09d39-bab0-48df-a709-f5b29e1be56d,2026-01-11 13:39:49,Eligendi beatae ea praesentium pariatur inventore labore quos aut.,CANCELADO,1919e93a-d117-45ad-8988-93101c593af5,6aa8b0b5-c494-49bc-8c04-64601f500d19
+13f3cade-7a10-413f-b6a2-c52b00473139,2025-12-21 12:51:06,Dolorem perspiciatis ab possimus repellendus voluptates in consequatur architecto fugit quas aut et.,FINALIZADO,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,ea75e258-ccc2-44da-84e7-0d70f5521d62
+178cb5a0-3b66-4afa-bcf8-b9130ed40264,16/06/2026 14:18,Dolorem quibusdam suscipit recusandae necessitatibus voluptatibus.,FINALIZADO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+2bc8906f-34a9-4b86-bec3-91ef44ad2484,2026-09-01 03:30:45,,FINALIZADO,4242c225-83e2-465a-b654-0600c8fb4456,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+61af663c-ed2e-4bcd-8c06-df90aa1c4023,30/03/2026 12:16,Vero voluptate est mollitia accusamus dolorum nulla quos sit rerum tenetur.,EN_PROCESO,2eb52387-ab9f-4430-98ae-93fbd978673a,a02fb007-9b75-4151-b4bf-589bc79e23da
+76a81a27-88e6-4f32-b01f-333cfdab0afa,2026-04-13 14:25:43,Quaerat quisquam ea vero iusto voluptatibus dolores tenetur eligendi placeat earum voluptatum quo.,FINALIZADO,e5121482-3929-4d22-a255-accb1a466884,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+1c71a821-22f1-432b-87d5-ac920f4555da,26/09/2026 17:57,Itaque cupiditate exercitationem suscipit nobis ratione odit nostrum cumque voluptas sequi.,EN_PROCESO,2f9e09c9-d828-4123-a945-e7bb290f5d0f,6d1675c1-7671-47fd-9814-26123733ef91
+8713b81f-c2f8-4229-972c-8583d06200e3,2026-05-18 14:08:59,,INSCRITO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+2196b3b5-fc21-409b-ba27-bc64396d1ffb,2026-01-21 00:26:08,Nihil cumque facilis officiis alias soluta.,INSCRITO,66e61127-e26b-424a-8e0d-8d877a98b9ac,038d04fb-1018-47f5-8191-590c42c79c1c
+a885a7b4-1037-4a5c-b893-b08a52190216,2026-05-28 07:26:19,Deleniti placeat quisquam culpa eligendi illum eum atque omnis aliquam.,EN_PROCESO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,105cbc52-d65f-45b6-968e-485e46db73ab
+21351574-4adb-4f79-bf82-bf843e86cc14,2026-06-23 09:29:01,Laboriosam commodi asperiores dolorum molestiae libero quasi explicabo totam dolore quae.,EN PROCESO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+380a1bb7-d653-44bb-8bfc-a0caf1613bab,13/05/2026 02:46,,CANCELADO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,105cbc52-d65f-45b6-968e-485e46db73ab
+43eb4ff0-2cc9-4bb6-86e3-5e9be0479ecb,19/10/2026 12:51,Suscipit hic impedit voluptatibus est aliquam maxime exercitationem nostrum inventore.,EN_PROCESO,864fa3f3-eab0-4e9b-a5ed-0de47db4304d,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+3838b326-8e94-4239-b02b-61c4a3d70628,2026-07-23 21:04:02,,EN_PROCESO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,6d1675c1-7671-47fd-9814-26123733ef91
+45b1ed25-f153-4ae8-a70a-cc5cb321bf21,13/05/2026 08:44,,FINALIZADO,2cb8cefc-5814-453f-afec-42754e0e8896,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+d767a6da-231b-4c86-a97c-0ea5341c2d10,21/05/2026 08:01,Esse mollitia commodi quam ratione alias doloremque ipsam.,CANCELADO,a5497863-210f-4de3-853d-82cbe0b89bcb,105cbc52-d65f-45b6-968e-485e46db73ab
+3777d823-2d8d-4db8-9bab-96cc70cef646,2026-08-04 10:48:18,Tempora minus ipsam aliquid odio minima.,FINALIZADO,1b252869-2bd8-4f21-afa1-2947f472bb69,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+0d96feb3-4572-4385-9e32-f085b24f92b9,2026-04-29 13:44:56,Architecto optio optio totam facere autem.,EN PROCESO,8350a73f-7aac-419f-bb75-9e0fed1d9d16,fcf2c86d-9394-4318-8fa9-60d1af925385
+27e7a6bd-c2a4-4fd8-aef5-4ceebc243f9f,2026-09-14 07:15:40,Accusantium fugit sequi quis ullam nisi corrupti quas ducimus iure iste fugiat.,INSCRITO,2cb8cefc-5814-453f-afec-42754e0e8896,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+cab4923b-f448-4385-8de7-ad6c949077c2,2026-08-13 23:14:35,Ipsum repellat officiis eum labore corrupti.,FINALIZADO,a60741f3-1075-45b0-b0ac-debe7aa95416,f72699ec-6a1e-460d-81cd-81b0c6db0211
+b73c91ca-82c3-492b-9027-b309cedb5488,2026-08-30 06:16:15,Quos quae velit fugiat nesciunt omnis corrupti quis officiis veritatis vero voluptatibus.,FINALIZADO,18afaf54-4382-4d47-8813-063719f900d3,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+d56ce8ea-1959-4b5a-a7a8-f6366a35df59,09/05/2026 01:02,Illum veritatis adipisci fuga ipsam veritatis sequi aut placeat molestias voluptate facere id.,CANCELADO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,f92af541-a5dc-4896-98d1-e3045aa26879
+f0dd3de0-fa63-4de0-8f0d-3f06b177116d,2026-10-08 23:22:16,Deleniti sunt assumenda hic debitis vero.,EN PROCESO,2eb52387-ab9f-4430-98ae-93fbd978673a,ff44577c-b8bf-477a-8e5f-87558f94b50b
+6c726915-d52a-45c8-a579-dc2202c837b6,22/07/2026 01:09,Mollitia repudiandae ullam magnam quae incidunt culpa voluptate maxime voluptate commodi.,FINALIZADO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+e3d9de7f-aba2-4511-b544-b28c0bbad72a,21/04/2026 01:57,Officia sint provident nemo recusandae provident natus commodi nam.,FINALIZADO,62186f4b-1422-4bef-9e38-42616a01977b,fcf2c86d-9394-4318-8fa9-60d1af925385
+f9f6b641-063f-461e-956a-bfdfbf4e2e46,2026-04-25 15:25:24,Quo soluta illo ratione fuga iure odio similique architecto tempora ex.,CANCELADO,18afaf54-4382-4d47-8813-063719f900d3,1f684c50-9e74-4650-a980-f7bd1cd33258
+e240e060-0b20-402f-824f-3f4c846af2e6,2026-08-07 02:15:36,,CANCELADO,8bb9c912-2286-4c53-b000-e394b870e4e1,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+6b8da340-58c1-48e2-b951-d52b21cc8ba7,21/04/2026 09:04,,INSCRITO,f3f49249-dc28-4f90-a5ae-c7978306d03b,fcf2c86d-9394-4318-8fa9-60d1af925385
+7c0a5867-fcce-4213-a789-9d92f33c4c36,2026-05-17 14:43:43,Corporis iste commodi laudantium doloremque velit adipisci qui rerum.,EN_PROCESO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+18b87245-6e8f-45a1-97dd-ed8115da705c,2026-08-16 04:04:19,,FINALIZADO,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+c2b6d2c5-fa5d-4100-91b7-e948d0e6e660,2026-05-25 21:10:52,Consectetur labore mollitia eaque sit incidunt distinctio.,inscrito,62186f4b-1422-4bef-9e38-42616a01977b,ff44577c-b8bf-477a-8e5f-87558f94b50b
+47c68688-ecf3-4053-af36-b8cc13087974,15/10/2026 06:11,Natus adipisci ut et vero nesciunt quibusdam quae id aspernatur cum dolores.,inscrito,33288e16-ebe8-4fa9-9c24-c1ae7d510557,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+0b251279-785a-45d0-9f92-a62163f4c69d,2026-07-04 20:52:52,Voluptatem ducimus accusamus ratione exercitationem quasi occaecati quo quasi ex.,INSCRITO,2f9e09c9-d828-4123-a945-e7bb290f5d0f,a02fb007-9b75-4151-b4bf-589bc79e23da
+bc653d94-256d-4d11-b7bd-8499df482e7c,11/08/2026 06:46,Vel aliquam quis doloremque eaque doloremque pariatur maxime recusandae harum ullam sunt.,FINALIZADO,fa97002c-fcba-4167-b5a9-ca5fedf165da,05306bb7-e728-4b1b-95ea-47a751a248ee
+c4df5b8d-c4eb-4e5d-aa6e-94cff83a1bce,02/11/2025 13:24,Rerum labore enim cupiditate eaque quaerat impedit occaecati doloribus.,FINALIZADO,66e61127-e26b-424a-8e0d-8d877a98b9ac,05306bb7-e728-4b1b-95ea-47a751a248ee
+f121e129-b45c-4a54-9fa3-a53112916e60,2026-07-15 03:35:16,Nesciunt excepturi eum voluptate quasi ipsa odit laborum et provident natus.,inscrito,ba5c875c-d7aa-4208-acff-b0f0f79edc82,6d1675c1-7671-47fd-9814-26123733ef91
+4b73361f-ccbe-46db-908a-b4de49cb6790,2025-11-06 01:19:54,,FINALIZADO,5b74c718-a2aa-416a-81f6-192bab215122,f92af541-a5dc-4896-98d1-e3045aa26879
+94c176b9-0ac0-43d5-b805-90f002493a09,2026-08-31 06:31:06,,CANCELADO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,105cbc52-d65f-45b6-968e-485e46db73ab
+b1a8b71f-491b-40e9-9ca3-fbb3ff11c8ba,2026-10-21 22:12:09,Dicta consequatur asperiores cupiditate quae voluptatum repellat voluptas voluptates pariatur quae mollitia.,inscrito,79dcbc81-82a8-4712-868c-8f90069a306f,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+86a8f21a-010e-422b-b8bc-920cff7d39f7,24/08/2026 19:32,Debitis ullam doloribus libero atque eveniet eligendi voluptatem commodi fuga ut autem eum.,INSCRITO,4619e5db-cbf5-414c-8652-ab69cbee23b0,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+986f9025-8f15-4a58-bce6-850487f8424d,2026-03-03 05:25:52,Nostrum quaerat magnam rerum molestias tempore quia labore ea doloribus odit.,INSCRITO,a5b0e526-320b-43f8-88be-3b07662f286b,a02fb007-9b75-4151-b4bf-589bc79e23da
+ad64b56c-610f-4a3f-b0bb-ac67aa38d0a1,2026-08-17 13:07:10,Nulla error molestias a enim inventore neque omnis.,EN_PROCESO,a5721c6a-58d6-4944-9573-e7bb0d26efa0,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+d71173e4-46d4-4d41-afa5-d3b0a40dfea5,19/03/2026 14:39,Perspiciatis ex laboriosam ipsum quod laborum autem.,INSCRITO,d9814559-3a9a-4a39-a261-e34a7b6bc3c6,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+51beba8e-0a8a-4b94-863d-fcd64e0648d0,28/05/2026 16:30,Corrupti magnam dolore amet quasi hic ipsum nisi magnam dolore enim hic consequatur.,INSCRITO,4242c225-83e2-465a-b654-0600c8fb4456,038d04fb-1018-47f5-8191-590c42c79c1c
+71a84189-565b-4785-b8f9-85fc69598983,30/08/2026 11:08,, Finalizado ,7f45b096-d380-4b73-8446-ab8c82e26123,9b97d72a-50e9-4d6d-a779-082cecbc0534
+d1fa82a6-c60b-440c-b21a-6f380eb5e5a7,07/01/2026 01:38,Ipsa dicta omnis rem enim alias nobis maiores doloremque cumque alias dolores.,FINALIZADO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+25f934bf-9bb9-4155-9275-eb9414aeaf5c,2025-11-25 12:12:10,Eius odio molestias eveniet voluptatum minus iste.,INSCRITO,e4163207-d094-4996-82f0-ee99731c9452,6aa8b0b5-c494-49bc-8c04-64601f500d19
+c3e1847c-8420-40d8-a32c-817e8ec57d47,2026-07-02 22:04:13,Deleniti ipsa sunt quo enim cumque.,CANCELADO,84f32551-5366-4ce2-ad4d-666177bb3654,85c80ede-202c-415a-898d-b8601e47caa6
+e92966be-ebc0-45f5-971e-c230697878c1,02/01/2026 07:32,Dolor magnam rerum recusandae nam porro veritatis.,EN_PROCESO,a5f27419-0b94-4014-ac61-93ccebe48123,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+b9163357-4b1b-4f3b-a217-a6df21939b93,03/08/2026 06:35,Vero rerum perferendis quasi recusandae reiciendis sapiente numquam eligendi quibusdam.,EN_PROCESO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,f72699ec-6a1e-460d-81cd-81b0c6db0211
+6a59c043-c461-4234-8044-beb2b66edbf4,2026-04-13 12:00:26,Assumenda modi nulla eius est maiores dicta repellat modi hic odio.,EN PROCESO,7383d496-000e-45d0-9798-5d060397a31d,6d1675c1-7671-47fd-9814-26123733ef91
+307fc576-4b43-4873-b1a5-80d76c2ec07e,2026-04-05 09:21:44,Nisi minus laudantium inventore perspiciatis officia vero dolor.,FINALIZADO,d4f398ee-4b5c-4a95-b3d9-18086edd77d8,85c80ede-202c-415a-898d-b8601e47caa6
+4f45f6f7-88a6-43b4-a3b8-1f92a3c90c6a,2026-10-18 23:46:40,,EN_PROCESO,5b336bc8-c255-4659-8f78-15f2af3e7dd9,fcf2c86d-9394-4318-8fa9-60d1af925385
+b25c5b50-9794-4389-b7c2-3f279267e7e6,03/11/2025 10:35,Iste provident minima esse dolore provident mollitia cupiditate aliquid dolores aliquam corporis.,FINALIZADO,9015b7c2-4b71-4794-91e0-b53936e53725,9b97d72a-50e9-4d6d-a779-082cecbc0534
+a05ff5e6-c534-4e41-b6d6-dc3938227b0d,14/07/2026 01:22,Eius deserunt recusandae placeat voluptas labore debitis pariatur.,INSCRITO,733c6676-4dbd-4e02-aecb-9e6853e81536,038d04fb-1018-47f5-8191-590c42c79c1c
+3bc5f97f-d173-470b-ac99-3c800b7d1856,16/01/2026 13:12,Culpa quas assumenda qui doloribus numquam corporis rerum enim exercitationem.,EN_PROCESO,2edc49c1-f71b-4135-ac06-43b173f29c6a,105cbc52-d65f-45b6-968e-485e46db73ab
+d3748a11-4571-4959-91e7-44e4b864ca08,30/11/2025 05:57,Fuga magnam temporibus debitis rem voluptatem veritatis architecto iure eligendi sapiente eveniet mollitia.,CANCELADO,cd73de00-81a0-4a05-ace9-da661dcf884c,ff44577c-b8bf-477a-8e5f-87558f94b50b
+a6ce6d7a-44e2-494b-b4ec-5264ad7d6f81,08/04/2026 00:53,Accusantium quos quisquam ab tenetur officia nobis ab dolorum rem esse vitae., Finalizado ,d9814559-3a9a-4a39-a261-e34a7b6bc3c6,1f684c50-9e74-4650-a980-f7bd1cd33258
+fb91fb90-7bd5-4aeb-a791-11dd4cc7cda2,10/01/2026 11:24,,FINALIZADO,376f5364-89d3-4078-8ab3-9a0792845dae,3c37bb01-18b0-410e-8eab-f94903f33851
+1c11f735-dc71-4d96-8c0f-d195c17af08a,2025-12-29 08:35:03,Cum perspiciatis nisi harum nisi iusto dolorum mollitia velit perspiciatis beatae suscipit quibusdam quisquam.,CANCELADO,22a60b44-ef5f-431c-a8fd-b92dab266981,3c37bb01-18b0-410e-8eab-f94903f33851
+650495b5-9232-48bf-9668-85304bbb2e9a,14/11/2025 23:50,Earum eaque dolorum officiis quo accusamus esse optio saepe sed ipsam accusantium ab., Finalizado ,ba5c875c-d7aa-4208-acff-b0f0f79edc82,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+76f6a778-2246-4ac9-8a7e-ebc2db6f1c33,2026-05-13 14:48:23,At facilis ab dolores vitae voluptatem placeat quidem consequuntur culpa necessitatibus natus.,CANCELADO,864fa3f3-eab0-4e9b-a5ed-0de47db4304d,3c37bb01-18b0-410e-8eab-f94903f33851
+6c645c15-aba3-41cb-a561-e1e917ec889c,2026-05-16 11:27:22,Accusantium est veritatis exercitationem quisquam deleniti voluptatum culpa eos ratione.,EN_PROCESO,59001ac9-4063-49bc-a5b0-0a2d35d14880,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+e60ec813-402d-40fa-a27d-ceccb972393a,2025-11-15 08:03:35,Provident nam molestiae laudantium necessitatibus molestiae eum iusto sint nisi similique cum.,INSCRITO,85f184e0-b464-4554-b675-299b0c83e786,ea75e258-ccc2-44da-84e7-0d70f5521d62
+30807a5d-62a5-4eec-881a-f04f3b23feed,14/01/2026 00:00,Omnis necessitatibus veniam nam nam quia quisquam nemo perferendis praesentium incidunt aut.,FINALIZADO,59001ac9-4063-49bc-a5b0-0a2d35d14880,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+8592a38f-db62-41f7-a964-eb1616232e87,2026-05-08 23:47:57,,EN PROCESO,90624fe3-6b82-46c9-982f-b0f1423674a6,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+c7de01a9-2976-4b0f-81e0-cfaf52ca9ced,2025-11-28 17:42:09,Quod fugit ex animi veritatis eaque ipsam laudantium ut.,CANCELADO,a5f27419-0b94-4014-ac61-93ccebe48123,fcf2c86d-9394-4318-8fa9-60d1af925385
+9a8dca03-580d-4b71-98f5-64135be6128e,2026-02-10 17:30:47,Quas modi voluptate fugiat mollitia repudiandae.,INSCRITO,d1711cbd-2106-419e-840d-31b5397a7623,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+46a56fe8-6f46-41b1-aace-1aa9103246b3,2026-04-12 12:57:29,Laborum asperiores dolorum doloribus numquam nisi deserunt autem esse.,FINALIZADO,6bad6be2-8e7a-46e9-9f19-950499dd251d,038d04fb-1018-47f5-8191-590c42c79c1c
+366b3575-d07a-4518-912c-f322735e8153,2026-01-11 02:16:19,Animi delectus quis ea temporibus illum occaecati numquam.,EN_PROCESO,49a4c222-6a6d-4402-90a3-727dc7be5613,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+ba40662f-9243-4301-9206-8ad612aada4b,05/02/2026 07:43,Accusantium libero officiis a alias hic corrupti ex hic a provident.,CANCELADO,cfd8c364-eab4-4bd6-b528-ea79511070a7,85c80ede-202c-415a-898d-b8601e47caa6
+c71cdac2-260d-46ca-ba61-726aeedf4f78,2026-07-12 17:00:12,Eum hic quam quos laboriosam architecto neque.,INSCRITO,7f60b9fa-1f12-4a78-a9f9-14845377899a,ff44577c-b8bf-477a-8e5f-87558f94b50b
+0fc98d2e-030f-4be9-9f17-8f9323c97a1e,2026-09-18 11:37:51,Consectetur reprehenderit fuga occaecati officia neque ea repellat.,CANCELADO,9015b7c2-4b71-4794-91e0-b53936e53725,f72699ec-6a1e-460d-81cd-81b0c6db0211
+aebbf69f-fdc2-405c-a023-282ae09dd9e8,16/11/2025 13:45,Voluptate animi ratione praesentium natus culpa autem fugiat necessitatibus sequi dolore soluta pariatur.,CANCELADO,62186f4b-1422-4bef-9e38-42616a01977b,ff44577c-b8bf-477a-8e5f-87558f94b50b
+065262a2-24a0-4b6e-8878-383ae037e953,2026-03-06 19:34:42,,CANCELADO,d4f398ee-4b5c-4a95-b3d9-18086edd77d8,f72699ec-6a1e-460d-81cd-81b0c6db0211
+6bf5fc98-8797-4916-80e5-d883c0d2201b,01/09/2026 17:22,Consequuntur inventore ullam tempore veritatis maiores placeat velit.,INSCRITO,ffce6973-7f62-4f26-b6c3-266043710baf,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+27c00f89-9e3b-41b3-8330-125c1a9b0d42,2025-12-02 17:50:16,Est dolorum eligendi occaecati consectetur saepe adipisci optio similique eveniet.,CANCELADO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,85c80ede-202c-415a-898d-b8601e47caa6
+242f5829-fe07-432a-badc-45999f7fae0c,2026-07-27 22:31:57,,INSCRITO,4619e5db-cbf5-414c-8652-ab69cbee23b0,ff44577c-b8bf-477a-8e5f-87558f94b50b
+8d15baef-b669-4d0a-8837-6bbcd89806fd,2026-07-30 17:34:59,,EN_PROCESO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+97cb4585-ff12-4e28-b840-d136067e4b72,31/01/2026 14:50,Harum recusandae officia libero vitae repellat vitae accusamus excepturi excepturi quam illo.,CANCELADO,5497db67-a54b-4b83-b440-cabee0ed4a62,ea75e258-ccc2-44da-84e7-0d70f5521d62
+a8debd88-9f8a-4deb-ae8f-f5a8c47a3b7e,2026-05-17 09:02:48,,CANCELADO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+564d46aa-03ba-43a0-bd42-269c07275940,14/09/2026 15:51,Perspiciatis aperiam vero atque saepe optio quam aliquid.,INSCRITO,24114258-751b-4c83-89a0-47dc4ac87fc0,480bdb8b-060e-4c8a-a0df-f7096fce4808
+ca3c6f5f-5bb5-440c-83cd-e2e321bddb41,02/09/2026 04:42,Nihil accusamus eaque consectetur in beatae aperiam ipsum facere.,EN_PROCESO,f57585ce-039e-457a-a041-f10e325abdec,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+b787ef8d-3495-411e-ae27-d4321dc1e7eb,2026-06-14 11:19:49,At magni repellat iste maiores itaque animi iure rem quam id repellendus.,INSCRITO,22a60b44-ef5f-431c-a8fd-b92dab266981,5044df5c-81b2-499e-9b37-ca07a14d59fc
+73131038-b2df-4075-9b8f-abe952377d88,2026-03-26 15:45:24,,EN_PROCESO,22a60b44-ef5f-431c-a8fd-b92dab266981,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+6a367425-fa41-4d2e-8ab2-14388557ec6c,2026-07-09 16:13:49,,EN_PROCESO,7f45b096-d380-4b73-8446-ab8c82e26123,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+126c4e50-dd4f-4af2-8bec-b8cc917bc866,12/03/2026 07:39,Placeat vero quas minus deleniti dignissimos repudiandae magnam.,INSCRITO,aa220078-503d-486b-8150-4585279e6933,105cbc52-d65f-45b6-968e-485e46db73ab
+6b0ffa79-3113-413a-a0b9-98300b373468,01/06/2026 18:59,Tempora quis sapiente nam expedita facilis occaecati blanditiis ipsa.,INSCRITO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,fcf2c86d-9394-4318-8fa9-60d1af925385
+48cd29c5-ac0e-4f71-a94d-43ed2da1afda,25/06/2026 07:46,Nemo natus vitae quibusdam facere alias quisquam eum tempore reprehenderit quis sapiente aperiam.,FINALIZADO,7383d496-000e-45d0-9798-5d060397a31d,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+1f096b9d-6969-49b2-8513-eda8581993cc,16/03/2026 08:24,Dicta nemo officiis cupiditate quos explicabo perferendis laborum qui suscipit fugit enim occaecati.,CANCELADO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,6d1675c1-7671-47fd-9814-26123733ef91
+fcadb3fd-01a4-42d1-8edf-aa12b2f240e3,04/01/2026 09:35,A architecto possimus minima omnis quasi cupiditate fugiat provident dicta delectus veniam.,EN_PROCESO,85f184e0-b464-4554-b675-299b0c83e786,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+86341718-2ba6-4db3-bafe-b1149561c813,2026-07-02 06:56:24,Quo fugit reprehenderit doloribus nemo praesentium deleniti ipsam in impedit dignissimos magnam nostrum.,FINALIZADO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,1f684c50-9e74-4650-a980-f7bd1cd33258
+62186d10-3ef3-45be-abee-4c80a7698b2d,2026-04-11 14:11:26,Libero modi minus reprehenderit harum neque in neque possimus quibusdam praesentium doloremque a.,EN PROCESO,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,ff44577c-b8bf-477a-8e5f-87558f94b50b
+e1bbb8cd-7e3a-4f07-a9fd-28e6e271fff9,2026-03-27 01:51:25,Molestias aut laboriosam sint officiis porro cum asperiores sapiente eos.,CANCELADO,733c6676-4dbd-4e02-aecb-9e6853e81536,038d04fb-1018-47f5-8191-590c42c79c1c
+e0354d75-a90d-45ad-8c8f-e6ceb69f627c,20/05/2026 20:41,In suscipit praesentium sit quam et exercitationem repudiandae tempore.,INSCRITO,e41686cd-6616-4227-9737-14726c167229,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+9384ec2b-44fe-4cae-9248-a9a7ac1aa554,2025-11-15 14:59:10,Iusto officiis totam delectus nesciunt odio laudantium at.,CANCELADO,b91dddd9-1389-4372-a341-738c837a7935,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+b3468999-2598-4c54-aba2-a67c9c433e67,2026-04-05 20:58:32,Officia suscipit numquam nulla ipsam exercitationem repellat officiis quod sunt assumenda.,FINALIZADO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+ef15b821-ade6-4f3c-8c2a-261d5d7233db,2026-09-05 08:31:36,Maxime nobis dolore hic modi itaque corporis.,INSCRITO,bb20e1d5-916b-4b37-8051-ac7c8e48e488,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+7c711cc8-6651-43fa-bccc-92580979f5d3,2026-05-18 08:49:19,Quam vel temporibus sint doloremque aperiam accusantium nemo mollitia eaque officia suscipit blanditiis.,FINALIZADO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+a8d99292-4a85-4443-bba8-78d934b55b86,22/05/2026 15:43,Iste fuga accusamus eveniet tenetur hic., Finalizado ,a40eecb5-c134-479b-9e3b-7dd373aa881e,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+ad9f835f-3fc5-4786-870c-15e3b51ee0dd,24/06/2026 09:31,Provident delectus voluptates reiciendis magnam eius incidunt velit sunt repellendus esse.,INSCRITO,e01c683e-99a4-4df0-9de3-a361c0099eba,ea75e258-ccc2-44da-84e7-0d70f5521d62
+2db4e428-3ef7-439f-8df4-097bd8f80018,15/01/2026 02:44,Debitis ea aut rerum consequatur omnis.,FINALIZADO,afe987c1-8fdf-4614-9a09-1fd628215db0,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+23a9654d-f679-4544-9acf-614ae834fb5b,30/04/2026 17:12,Eius voluptatem facere sequi magnam expedita provident hic aperiam omnis explicabo.,FINALIZADO,7f45b096-d380-4b73-8446-ab8c82e26123,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+87a1ec02-3487-4e41-9a9c-672a4eb9047d,31/01/2026 11:52,Laudantium animi voluptatum quae at ullam tempore maxime praesentium fuga voluptate.,CANCELADO,7383d496-000e-45d0-9798-5d060397a31d,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+4e3fd50b-f28c-435f-9641-d960dba0bdec,06/04/2026 20:59,Sapiente odio asperiores dolores atque nemo assumenda enim ut repellat.,INSCRITO,8bb9c912-2286-4c53-b000-e394b870e4e1,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+c3f9f409-e9a7-4800-95ef-8b1ba19f2485,19/03/2026 18:35,Voluptate dicta eligendi dolor ea cupiditate.,FINALIZADO,a5b0e526-320b-43f8-88be-3b07662f286b,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+7b85179a-d5b0-47e0-aa5d-932b45ff2c83,02/05/2026 09:24,Itaque corporis deleniti nobis quia consequatur architecto quo sequi.,EN_PROCESO,d563d56d-c887-417c-8b89-0fec6872d96b,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+61fa01ba-231a-47c7-8c9b-ff5ce1887eaf,2026-08-27 09:10:27,Odit perspiciatis architecto natus nostrum cum expedita.,EN_PROCESO,59001ac9-4063-49bc-a5b0-0a2d35d14880,1f684c50-9e74-4650-a980-f7bd1cd33258
+7c192e61-76d8-4bc7-bfa9-3b6eab987d93,2026-04-28 04:09:32,Assumenda omnis quae ipsa iusto eius.,EN_PROCESO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,fcf2c86d-9394-4318-8fa9-60d1af925385
+8794ac7e-4aaa-4f99-8a34-041e0c78947b,06/07/2026 03:24,Maiores quisquam delectus atque quibusdam molestiae.,INSCRITO,bb20e1d5-916b-4b37-8051-ac7c8e48e488,6d1675c1-7671-47fd-9814-26123733ef91
+efa52c8a-56a0-4943-9c68-7714e2901d96,20/01/2026 15:33,,INSCRITO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+61af663c-ed2e-4bcd-8c06-df90aa1c4023,30/03/2026 12:16,Vero voluptate est mollitia accusamus dolorum nulla quos sit rerum tenetur.,EN_PROCESO,2eb52387-ab9f-4430-98ae-93fbd978673a,a02fb007-9b75-4151-b4bf-589bc79e23da
+04db73f3-f65e-42fd-ae03-a9cc8827f0b5,14/02/2026 18:50,Doloribus provident suscipit ipsam rem non illo aliquid.,CANCELADO,5b74c718-a2aa-416a-81f6-192bab215122,05306bb7-e728-4b1b-95ea-47a751a248ee
+c7cfb659-f063-4972-8737-327ade34106a,14/06/2026 12:23,Quam porro veniam ducimus numquam nobis dignissimos.,CANCELADO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+e3a1af97-7785-4ddb-9552-7a3c164a9b18,2025-11-17 22:03:13,,EN_PROCESO,f3f49249-dc28-4f90-a5ae-c7978306d03b,05306bb7-e728-4b1b-95ea-47a751a248ee
+e9462820-6a80-4ac2-9a8c-f13c28ce231e,2026-06-17 10:11:30,Rem perspiciatis debitis fugit facere adipisci placeat saepe voluptate consectetur ullam beatae.,CANCELADO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+26d658fb-39bf-49b6-87ba-c8aaf2f94b2c,12/03/2026 17:40,Omnis assumenda fugit vero nostrum numquam dolorem dolores corrupti voluptas tenetur.,CANCELADO,6af38f6c-159d-4a38-8a6a-03b381356bc5,5044df5c-81b2-499e-9b37-ca07a14d59fc
+9b89e5cb-d942-444c-a48d-31ec07f8d4f0,2026-07-21 08:14:46,,EN_PROCESO,4242c225-83e2-465a-b654-0600c8fb4456,038d04fb-1018-47f5-8191-590c42c79c1c
+cae2f489-f7d8-4086-9110-c9fd747cb18f,2026-09-03 17:08:55,Enim voluptas libero placeat iure corrupti vitae numquam optio esse.,CANCELADO,5b74c718-a2aa-416a-81f6-192bab215122,40676334-ec79-43be-b96a-fc60ae7078ea
+4a193501-4169-49fc-83a0-0c6f2321d1e1,2026-03-07 10:19:19,Ab quia cupiditate fugit provident magnam rerum.,CANCELADO,7776c655-7c4e-4248-b151-5fff42969a50,6d1675c1-7671-47fd-9814-26123733ef91
+8d28eef5-c7bb-4cf8-9def-5cc2f1015bfe,21/02/2026 16:00,Minima eaque possimus magnam amet tempore provident numquam eius.,EN_PROCESO,975cef7a-2765-4f91-abb5-3283ce107503,ff44577c-b8bf-477a-8e5f-87558f94b50b
+0649bcf6-ff69-423d-984f-c85b2697384d,06/05/2026 11:45,,EN_PROCESO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,40676334-ec79-43be-b96a-fc60ae7078ea
+16888e84-f346-4be7-9caf-4bfe7ff8a2c6,01/07/2026 13:50,Expedita a doloremque blanditiis minus atque facere quis molestiae.,inscrito,79dcbc81-82a8-4712-868c-8f90069a306f,fcf2c86d-9394-4318-8fa9-60d1af925385
+3d92f1cb-8710-4172-8592-4e5f1f53db6e,12/06/2026 10:16,Optio voluptate eum quasi dolorem eaque eos assumenda nam sit optio quasi.,FINALIZADO,6bad6be2-8e7a-46e9-9f19-950499dd251d,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+cbede473-e3eb-47c1-8723-e11e05fef7bc,28/05/2026 16:32,Ea rerum esse in magnam quasi sapiente ea magni commodi quidem velit ipsum.,CANCELADO,44becdce-f4d4-45ec-8be4-0e7fc07991d4,480bdb8b-060e-4c8a-a0df-f7096fce4808
+363908bf-03ec-48ff-a8b3-d763f4ff3f3a,29/10/2026 22:57,Vitae blanditiis voluptatum laboriosam doloribus non dignissimos totam.,EN_PROCESO,5b336bc8-c255-4659-8f78-15f2af3e7dd9,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+1b4da0fe-7bb3-4605-9a74-3152627b41a1,31/01/2026 02:55,Nemo nemo voluptatibus eos voluptate omnis earum natus placeat quia.,EN_PROCESO,36de6548-d90e-413a-9835-7aebd0ef5c36,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+50ce857f-75c7-4fb6-84a9-1789b2c027e8,2026-07-25 15:54:28,Accusamus distinctio neque eveniet nostrum ea.,EN_PROCESO,62186f4b-1422-4bef-9e38-42616a01977b,3c37bb01-18b0-410e-8eab-f94903f33851
+9b33e3a4-2620-49a9-b4fd-33d184f2fd0f,2026-10-12 20:35:26,Consequuntur ut et hic nulla sapiente nisi magni magni laudantium natus labore.,FINALIZADO,5497db67-a54b-4b83-b440-cabee0ed4a62,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+6efb63b1-1b04-4863-bd7d-dbedd284476c,2026-03-20 15:50:13,Provident ipsa quasi vitae earum repellat modi laboriosam ipsa quasi eaque.,EN_PROCESO,7f45b096-d380-4b73-8446-ab8c82e26123,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+baa6961c-20e4-4bfe-8703-67f75bebb1c7,2026-06-29 16:22:30,,CANCELADO,1919e93a-d117-45ad-8988-93101c593af5,038d04fb-1018-47f5-8191-590c42c79c1c
+bec39a37-9b3d-44bd-a91e-314e0c8e29e3,11/05/2026 21:50,Quod dolorem reiciendis dolor deleniti dolorum quidem quisquam perspiciatis., Finalizado ,24114258-751b-4c83-89a0-47dc4ac87fc0,ea75e258-ccc2-44da-84e7-0d70f5521d62
+c0bd44c0-6d07-4e0b-8bed-523c085ff4d1,2026-02-12 18:37:09,Molestiae recusandae ratione aspernatur sunt quasi amet veniam perferendis suscipit beatae facilis nulla.,FINALIZADO,4619e5db-cbf5-414c-8652-ab69cbee23b0,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+5d4f9715-4c9d-4049-9fd2-bec365363c77,2026-04-15 08:25:54,Modi earum voluptatibus omnis ipsa consequuntur quia ab.,inscrito,2341bbbe-f4e2-4a68-a505-88a5845074a1,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+721df83c-b464-49f4-b163-b27430c041a9,2026-10-25 10:17:28,Asperiores molestias exercitationem quas voluptatibus dicta quam.,INSCRITO,59001ac9-4063-49bc-a5b0-0a2d35d14880,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+1d24181c-2ed0-47d4-97bc-ad3ad0a17fe8,2026-04-04 15:31:01,Vitae earum harum sed reiciendis officiis reiciendis beatae possimus animi velit.,INSCRITO,84f32551-5366-4ce2-ad4d-666177bb3654,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+e980f808-75ac-424c-ac55-aef7f4e95734,26/05/2026 01:06,,FINALIZADO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+cb08587d-1963-426d-ae21-8b099afd4015,30/07/2026 13:03,Sequi officiis quisquam quam dolor iste dolorem.,INSCRITO,85f184e0-b464-4554-b675-299b0c83e786,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+9ea9f508-3122-4592-bdb0-2235261e2555,2026-05-23 10:55:31,Repellendus eaque id fuga illo natus voluptatibus dolorem placeat.,INSCRITO,4a41f8e4-d4d6-4278-889b-5123e842997d,85c80ede-202c-415a-898d-b8601e47caa6
+883f13c6-01b1-48e9-8406-ff447ce40679,2026-06-02 05:41:26,Accusamus minus eius voluptate accusantium repellat perferendis rem tenetur autem atque.,INSCRITO,b6eafff5-782a-4e6b-ac9f-21df74f09af5,f72699ec-6a1e-460d-81cd-81b0c6db0211
+6e6981a3-5d3d-4e56-b270-e4faabae4f43,27/11/2025 04:12,Numquam optio commodi tempore magni pariatur eveniet possimus mollitia deleniti.,INSCRITO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+b4ecfe8d-16d1-45ca-ad17-4fdd2dee003e,2026-07-11 02:48:15,Suscipit impedit rem quo possimus dignissimos odit minima illum vel nostrum alias debitis.,EN_PROCESO,d1711cbd-2106-419e-840d-31b5397a7623,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+a0b85755-44ca-45a2-a1e5-18a293d228d4,09/04/2026 20:51,Iste odio sunt at maiores eius vel fuga veniam eveniet.,FINALIZADO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,ff44577c-b8bf-477a-8e5f-87558f94b50b
+9f85c2dd-88e4-4a48-8570-9e30417b6634,18/11/2025 20:51,Voluptatum optio officiis accusantium porro impedit fugit molestias labore corrupti possimus occaecati error.,CANCELADO,5b336bc8-c255-4659-8f78-15f2af3e7dd9,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+6cfa28cf-b62e-410a-a584-83851915bb1c,17/09/2026 17:35,Aspernatur aperiam suscipit labore ipsum fuga minima nihil maxime hic ea.,INSCRITO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,6d1675c1-7671-47fd-9814-26123733ef91
+6633427e-4fee-4a91-8003-14a89c7ab4e3,2026-06-28 06:11:18,Molestias tempora nesciunt vel voluptates officiis.,EN_PROCESO,f1f02f49-c500-49ab-af3e-41445a789b32,a02fb007-9b75-4151-b4bf-589bc79e23da
+4c3077c4-fb75-4923-b910-abb3f1053252,26/08/2026 11:51,Provident porro laborum laboriosam natus vel quam enim nemo.,INSCRITO,b91dddd9-1389-4372-a341-738c837a7935,f92af541-a5dc-4896-98d1-e3045aa26879
+dcb9d394-e8ac-44c4-b6b9-824010416cbc,2026-09-04 20:01:57,Delectus repellat accusantium nam modi repellat laborum maxime nesciunt quae ratione commodi.,INSCRITO,21f34390-8e44-4800-ab99-436044a23f65,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+71e4dc42-e33f-452c-8570-83e4653c8f74,30/08/2026 07:12,Quibusdam maxime ipsum cumque sequi commodi doloremque dolorum quia quibusdam.,EN_PROCESO,8c53765f-4ec0-4954-bf8b-2a6aab74fe57,105cbc52-d65f-45b6-968e-485e46db73ab
+4988e418-f6c3-4218-8183-6315330f8be1,04/03/2026 17:29,Officia tenetur at nemo modi quam vel totam cupiditate.,FINALIZADO,14aa4e71-9d3c-4dec-80a6-1f933d6c51e3,9b97d72a-50e9-4d6d-a779-082cecbc0534
+478a943a-ffb2-4fe1-8e75-69bcb99e6f7b,2026-10-07 02:09:22,Distinctio magnam reiciendis sunt veniam odio voluptatem provident earum optio eum.,CANCELADO,bb20e1d5-916b-4b37-8051-ac7c8e48e488,105cbc52-d65f-45b6-968e-485e46db73ab
+e27a984d-6548-41d0-bfcd-9eb1a7cad415,21/10/2026 04:12,,INSCRITO,85f184e0-b464-4554-b675-299b0c83e786,40676334-ec79-43be-b96a-fc60ae7078ea
+bd5a6112-d1b2-4e3c-aede-2487373058be,08/05/2026 19:53,Commodi expedita sit impedit nemo natus.,FINALIZADO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,3c37bb01-18b0-410e-8eab-f94903f33851
+8954fc3d-210f-4a8a-9c59-b736fd561b27,2026-04-11 11:53:37,Quia harum temporibus dignissimos sit est repellendus optio culpa nemo est dicta.,FINALIZADO,f1f02f49-c500-49ab-af3e-41445a789b32,f72699ec-6a1e-460d-81cd-81b0c6db0211
+a3607681-2bbb-489d-b4fa-dee106969d48,21/02/2026 07:52,Labore blanditiis quos iusto tempora eaque odit.,FINALIZADO,44becdce-f4d4-45ec-8be4-0e7fc07991d4,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+542ef29e-1bcf-492f-b98b-07573036f6b9,2026-06-09 04:15:52,Odit esse cupiditate perferendis debitis repudiandae nobis ad dicta tenetur harum.,EN_PROCESO,adbafed0-b600-460c-bbdc-fd55304374b3,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+f76c8ede-c110-4266-a408-a6dc1346d1a9,26/01/2026 14:52,Voluptas rem facilis ratione accusamus modi iste perferendis perferendis nesciunt reprehenderit.,EN_PROCESO,93550840-067f-4cfc-8e1f-d3d9849acfb5,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+c8dfd1f1-14d7-4283-ba30-3cce359097e0,01/05/2026 18:56,Aperiam magni quibusdam officia magni libero iure eum fugiat possimus quaerat libero eaque.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+7fa79708-7e72-49ce-8d7f-65f60cb68029,18/11/2025 04:07,In commodi cupiditate eveniet fugit nemo eligendi officia sequi.,EN_PROCESO,89be9c1c-8eb5-440f-96f4-488157241955,105cbc52-d65f-45b6-968e-485e46db73ab
+0dc5d42e-6233-460a-9b1e-06c30ceaaf73,2025-12-03 10:41:33,Hic provident tempora occaecati porro ipsum explicabo ex dicta quis repellat.,CANCELADO,ed4d19b8-85dc-4a68-8db5-4088754e64f4,480bdb8b-060e-4c8a-a0df-f7096fce4808
+1e43fbd2-aaf4-47f7-8fe7-61493c7e5368,2026-04-29 17:47:44,Cum placeat unde suscipit quo porro odit velit facilis.,EN PROCESO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,a02fb007-9b75-4151-b4bf-589bc79e23da
+6fa179a5-7a67-4870-bd9d-2b3bc55fa445,05/04/2026 20:44,,CANCELADO,2341bbbe-f4e2-4a68-a505-88a5845074a1,a02fb007-9b75-4151-b4bf-589bc79e23da
+7daec949-d700-4461-8cb6-b0ba925f8199,2025-12-29 15:33:43,Facere incidunt eos optio nobis dicta.,EN_PROCESO,5497db67-a54b-4b83-b440-cabee0ed4a62,6d1675c1-7671-47fd-9814-26123733ef91
+2c3d17e2-6d39-4a75-aee7-0ab261fa8e7a,17/03/2026 10:59,Tenetur eius ipsum corrupti nostrum nulla officia libero.,CANCELADO,fa97002c-fcba-4167-b5a9-ca5fedf165da,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+bfb0942c-ac77-4762-a620-516717cf775f,2026-09-14 20:58:14,Asperiores ut labore explicabo tempora eaque veniam placeat tenetur libero., Finalizado ,ea9e7ab5-730b-49dc-a577-c324694baad6,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+44d18524-cf0e-4567-882d-7fc1be3074f8,09/04/2026 08:32,Sequi delectus enim odio nulla earum numquam deleniti.,INSCRITO,17d6af8f-f423-48be-8141-82233b38c237,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+ac7e937c-54cc-4e2a-9e4c-b287044251db,2025-12-12 13:35:19,Nesciunt reiciendis quas porro ad labore voluptas quos quod neque quam.,INSCRITO,f1f02f49-c500-49ab-af3e-41445a789b32,ff44577c-b8bf-477a-8e5f-87558f94b50b
+e9b14c76-420f-4eef-9def-eab9e54ca6ca,2026-03-21 03:35:36,,CANCELADO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,ea75e258-ccc2-44da-84e7-0d70f5521d62
+19fc8579-acd3-4f62-960f-69fcf6a646ee,2026-02-03 15:49:56,Officiis commodi necessitatibus ipsum sed magnam quos consequuntur molestiae cumque doloribus veritatis vero.,EN PROCESO,a40eecb5-c134-479b-9e3b-7dd373aa881e,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+a7dfeb92-57c1-4f7e-9425-fc3a6964a112,2026-07-08 21:38:01,Laborum pariatur minus molestias itaque necessitatibus tempore esse ratione dolorem.,FINALIZADO,7383d496-000e-45d0-9798-5d060397a31d,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+9b749245-9b1b-4895-aaf4-3ab75e6fea07,17/08/2026 11:10,Quod cum est neque ut nemo tenetur.,FINALIZADO,2475263c-7854-4014-aded-c86a9f4fb02b,05306bb7-e728-4b1b-95ea-47a751a248ee
+7636ae1c-e961-41f3-8130-8be0fcea9a96,2026-02-18 10:28:53,,FINALIZADO,de0279e1-7f9a-4098-8df0-5f2595f19a51,ea75e258-ccc2-44da-84e7-0d70f5521d62
+9f708368-cb3c-48ca-a392-57316b79afcc,26/04/2026 12:36,Beatae temporibus nisi accusamus maiores doloribus.,inscrito,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,3c37bb01-18b0-410e-8eab-f94903f33851
+ed25459e-8f89-47fa-b53e-9662f77fa3a7,2026-08-03 16:41:39,Aliquam ullam esse laudantium quia accusantium.,EN_PROCESO,6bad6be2-8e7a-46e9-9f19-950499dd251d,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+5230dfbd-5553-42fe-a889-803e5913f9d3,18/07/2026 06:05,Similique ex possimus enim veniam repellendus mollitia.,FINALIZADO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,05306bb7-e728-4b1b-95ea-47a751a248ee
+db9c9b7c-4674-40eb-87ed-c6dd9da4ec0f,07/02/2026 19:00,Qui nobis tenetur qui omnis fuga.,CANCELADO,f1f02f49-c500-49ab-af3e-41445a789b32,85c80ede-202c-415a-898d-b8601e47caa6
+83c74cbe-916b-4f87-ac27-316bdd05b827,2026-10-16 01:44:55,Eaque possimus nihil voluptates fugiat hic nemo repellat aut perferendis excepturi.,INSCRITO,f57585ce-039e-457a-a041-f10e325abdec,a02fb007-9b75-4151-b4bf-589bc79e23da
+da143a47-7823-41d9-994d-f188816ce054,11/05/2026 13:30,Asperiores laudantium dolores voluptas amet dolore officia illo.,CANCELADO,f3f49249-dc28-4f90-a5ae-c7978306d03b,85c80ede-202c-415a-898d-b8601e47caa6
+2d534dd0-cf8e-4c5a-8cc5-6569f9e8a369,2026-10-08 07:23:40,Ad qui ex ut rem sint repellat eaque ratione autem sit.,CANCELADO,4a41f8e4-d4d6-4278-889b-5123e842997d,fcf2c86d-9394-4318-8fa9-60d1af925385
+5a578607-67e5-4646-8430-f0fa390fecf5,13/09/2026 09:11,,EN PROCESO,8c53765f-4ec0-4954-bf8b-2a6aab74fe57,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+69f8d3e4-d06d-4943-88b3-815e76647043,26/10/2026 07:37,Rerum error quam et modi dignissimos.,EN_PROCESO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,5044df5c-81b2-499e-9b37-ca07a14d59fc
+b66f3507-e588-4999-971e-ea3974246baa,2026-10-13 21:24:49,Sunt at eum officiis quae cum quasi at.,FINALIZADO,17d6af8f-f423-48be-8141-82233b38c237,5044df5c-81b2-499e-9b37-ca07a14d59fc
+9c10c572-0f6b-40d0-9efb-a58b9191b363,2026-08-14 10:07:56,Veniam dignissimos distinctio optio culpa cupiditate asperiores.,INSCRITO,96060250-ea3e-4f73-884c-1884c88f63d6,480bdb8b-060e-4c8a-a0df-f7096fce4808
+66cc7376-8cca-4963-ae2e-77a4cadec379,2026-05-15 00:04:39,Omnis modi nobis ut temporibus mollitia voluptatum sapiente impedit odio.,inscrito,2edc49c1-f71b-4135-ac06-43b173f29c6a,a02fb007-9b75-4151-b4bf-589bc79e23da
+2e2d0681-a8b2-4070-9b18-72ac78c4c27f,11/06/2026 17:04,Quod minima consectetur eum veritatis expedita nulla illo aliquid sequi culpa atque.,INSCRITO,17d6af8f-f423-48be-8141-82233b38c237,480bdb8b-060e-4c8a-a0df-f7096fce4808
+0279e2ab-0bbf-4334-a3ea-2d7fc219a845,2026-09-26 21:12:13,Optio cupiditate facere ipsa numquam soluta at.,inscrito,2eb52387-ab9f-4430-98ae-93fbd978673a,ea75e258-ccc2-44da-84e7-0d70f5521d62
+133ca9cf-13f8-4789-b1e9-3b1a34b549be,2026-05-11 02:03:35,,CANCELADO,4619e5db-cbf5-414c-8652-ab69cbee23b0,ff44577c-b8bf-477a-8e5f-87558f94b50b
+4b4f8f74-8914-441c-9abc-47ce3068ffdd,2026-09-02 15:29:29,Eveniet amet recusandae sit sed voluptas suscipit.,FINALIZADO,f57585ce-039e-457a-a041-f10e325abdec,105cbc52-d65f-45b6-968e-485e46db73ab
+555c4e18-5be2-424f-bdd9-9681ef5eeca5,2026-07-22 19:10:10,Id odio vero at modi vero aspernatur itaque quisquam.,FINALIZADO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+46434f21-d86f-4bb4-aefc-6ef1c4bb4ace,2026-01-13 00:54:58,Voluptatum voluptatum quibusdam qui totam ab error reprehenderit quos illo illo neque omnis.,INSCRITO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+956b8c0c-a849-4b92-ab52-52e314fcdd54,2026-06-07 12:17:48,Et ea pariatur et eaque consectetur officia itaque ut vel ab numquam.,INSCRITO,5b336bc8-c255-4659-8f78-15f2af3e7dd9,9b97d72a-50e9-4d6d-a779-082cecbc0534
+554ed52c-126a-4315-bb18-9d5d9b247a55,2025-12-23 01:43:46,Deserunt totam a similique quas fugiat illo impedit hic quia fugit est.,EN_PROCESO,9f93693f-6f00-47c4-b4fd-02f6850567c2,a02fb007-9b75-4151-b4bf-589bc79e23da
+b864a47b-a434-47fb-8182-978288eae7d4,28/06/2026 03:26,Quidem nesciunt praesentium asperiores unde autem.,EN_PROCESO,59001ac9-4063-49bc-a5b0-0a2d35d14880,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+66132e69-7418-4109-93d1-bf0f56c438e4,10/04/2026 13:18,Est est ducimus veritatis porro labore at.,INSCRITO,afe987c1-8fdf-4614-9a09-1fd628215db0,a02fb007-9b75-4151-b4bf-589bc79e23da
+81fb18b3-c9a7-491f-af2a-e71357021049,11/02/2026 18:13,Eligendi error nesciunt voluptatum laudantium corrupti.,EN_PROCESO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+2fc10403-dcda-4cc1-8427-4378b40d8aef,12/06/2026 00:34,,EN PROCESO,9e5cf6e9-9255-4248-b771-f894f2e36355,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+67465743-897b-403d-8b07-4d1a6a7a7841,2025-12-05 16:59:40,Dolore distinctio ex facere dolor quibusdam minus voluptatum reprehenderit voluptatem.,INSCRITO,b76dc0c3-b078-42db-b03e-53cf192f09a9,f92af541-a5dc-4896-98d1-e3045aa26879
+c2f43c10-e869-407c-bdcb-fffccdfba4e9,21/09/2026 03:10,Atque consequatur labore doloremque similique eligendi soluta illum deleniti quae ratione neque blanditiis.,FINALIZADO,0b6ec6f3-9efe-4fda-9eed-fcfc3f724926,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+0d99c071-f7c8-435f-8c83-bc68e6ace59a,2025-10-31 07:51:36,Reprehenderit facere similique sint doloremque praesentium hic et fugit fugit molestias optio labore.,FINALIZADO,7f60b9fa-1f12-4a78-a9f9-14845377899a,fcf2c86d-9394-4318-8fa9-60d1af925385
+540e7d01-735d-48f3-bc61-66df515a6b43,2026-06-27 08:43:40,Possimus corrupti necessitatibus repellat vero cumque et quos quae.,CANCELADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+7ba109d0-8567-4805-b4f5-41c0c8c5eb2a,15/03/2026 06:23,Atque quam iste architecto aliquid quae ad exercitationem autem reiciendis ut qui.,INSCRITO,7f45b096-d380-4b73-8446-ab8c82e26123,6d1675c1-7671-47fd-9814-26123733ef91
+def3306a-f998-43f2-b799-fddb79e546e7,28/05/2026 22:36,,EN_PROCESO,e4163207-d094-4996-82f0-ee99731c9452,ea75e258-ccc2-44da-84e7-0d70f5521d62
+ca3e3238-dbb2-4c33-a045-6992d79330f1,28/05/2026 03:57,Assumenda quo corporis in blanditiis temporibus qui ipsum.,FINALIZADO,a5721c6a-58d6-4944-9573-e7bb0d26efa0,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+f956be95-3b96-4c74-bfe6-299495804c2a,31/12/2025 23:48,Dolorum dolores modi recusandae qui quisquam veniam.,INSCRITO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,a02fb007-9b75-4151-b4bf-589bc79e23da
+5761b099-43db-4a42-8ece-36ae9fb209b1,22/10/2026 13:25,Distinctio aspernatur voluptatem ea perferendis inventore accusantium hic.,EN PROCESO,b91dddd9-1389-4372-a341-738c837a7935,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+f84ce7a9-36cf-42d5-acd6-e8df1b5829c9,2026-02-14 14:57:59,Illum sint animi modi praesentium beatae molestias labore doloribus eius quos.,CANCELADO,44becdce-f4d4-45ec-8be4-0e7fc07991d4,6aa8b0b5-c494-49bc-8c04-64601f500d19
+3799a376-7e5b-4ac9-83c5-01fe269334ef,12/03/2026 18:51,Est reiciendis voluptatum iure recusandae ex sapiente veritatis animi quod architecto.,FINALIZADO,a9f5307c-8ece-48b0-af29-a9f1ced66b44,fcf2c86d-9394-4318-8fa9-60d1af925385
+59595d27-a73d-4746-8e18-ab9625f41dd6,2025-11-14 06:15:54,Sequi pariatur saepe error ullam aliquid impedit.,CANCELADO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+1c99d366-c8b6-4c18-8355-853eb0d9751c,30/11/2025 04:32,Quo quidem aliquam autem recusandae maiores.,FINALIZADO,a5b0e526-320b-43f8-88be-3b07662f286b,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+836a5887-0a5a-4698-97cb-67b86d0f74e6,2026-03-12 17:17:34,Perspiciatis officia quae ut minima officia assumenda iusto aspernatur reiciendis error.,EN_PROCESO,7776c655-7c4e-4248-b151-5fff42969a50,038d04fb-1018-47f5-8191-590c42c79c1c
+65f30779-f6ee-4cdb-ad79-a2d1506e50c7,2026-03-03 22:34:43,Quasi odio voluptas quos eveniet eligendi ratione facilis ut.,CANCELADO,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,038d04fb-1018-47f5-8191-590c42c79c1c
+15e59a0f-1ff4-4f0a-9435-0cb1724af3fb,23/11/2025 13:38,,INSCRITO,e4163207-d094-4996-82f0-ee99731c9452,40676334-ec79-43be-b96a-fc60ae7078ea
+488e5bd8-0729-45c7-a5ee-3dfd6cc1da4d,26/04/2026 12:18,Natus accusamus esse officia tempora nulla aliquam.,EN_PROCESO,96060250-ea3e-4f73-884c-1884c88f63d6,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+3b3f3800-a175-49c3-97b1-02a92332a50e,26/11/2025 09:30,Ab magni fuga nulla pariatur nulla laboriosam.,EN_PROCESO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,ea75e258-ccc2-44da-84e7-0d70f5521d62
+e53e5f4c-6c7e-4a2c-867f-358ba48aa108,26/03/2026 05:00,,INSCRITO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,038d04fb-1018-47f5-8191-590c42c79c1c
+740173c1-0155-4a51-bca2-c581928b1e4b,11/03/2026 15:31,Rem voluptates natus tempora occaecati modi nisi expedita eligendi.,EN_PROCESO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,fcf2c86d-9394-4318-8fa9-60d1af925385
+6673d42d-c7af-45de-b3f9-2a8783726123,11/01/2026 23:51,,EN PROCESO,a5f27419-0b94-4014-ac61-93ccebe48123,105cbc52-d65f-45b6-968e-485e46db73ab
+acc216a0-1bbc-41f7-9f18-e583f0b6f83f,29/01/2026 19:22,Ad sunt natus totam dolore aperiam reprehenderit tenetur error illum consequuntur veniam.,CANCELADO,adbafed0-b600-460c-bbdc-fd55304374b3,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+f0c44ecb-c78a-4900-92bd-16ec148113b4,2026-05-09 22:54:01,Qui unde ex in ullam aut cum ea architecto in quas molestias.,CANCELADO,8bb9c912-2286-4c53-b000-e394b870e4e1,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+a3922a4e-4f2c-486f-a27b-0edd8d7f9371,2026-07-30 02:13:18,Temporibus placeat modi dolores ipsam ab vero unde ullam error.,FINALIZADO,1919e93a-d117-45ad-8988-93101c593af5,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+6b2d5b09-8707-4ad4-80be-7e3561c2645a,2026-01-01 22:29:29,,EN_PROCESO,21f34390-8e44-4800-ab99-436044a23f65,105cbc52-d65f-45b6-968e-485e46db73ab
+cd180a82-4447-4eab-84ef-4324cc1b4157,02/12/2025 01:59,Aspernatur nobis reprehenderit molestias eum aspernatur optio esse nobis incidunt porro.,INSCRITO,2eb52387-ab9f-4430-98ae-93fbd978673a,f72699ec-6a1e-460d-81cd-81b0c6db0211
+b365fb7c-c853-4c55-82e1-73022ce6f908,30/01/2026 17:30,Debitis minima alias voluptates voluptas nisi reprehenderit saepe quidem impedit fugit optio.,EN_PROCESO,79dcbc81-82a8-4712-868c-8f90069a306f,ea75e258-ccc2-44da-84e7-0d70f5521d62
+1d7c0098-4a1d-4b32-aaed-fdc7a3e05309,2026-04-06 07:10:29,Vitae cupiditate veniam itaque porro facere.,INSCRITO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+83d0bae7-7c2c-4bcf-8770-d18fc9160147,15/12/2025 01:48,Tempora quam nihil eveniet dicta perspiciatis.,FINALIZADO,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+372f871a-45ee-432d-aa07-f2137129cec7,2026-08-20 04:34:48,,CANCELADO,5b4c8012-ede7-4d0c-bfb8-8309fadb8908,038d04fb-1018-47f5-8191-590c42c79c1c
+fe7b178d-fb0e-4c28-8110-bcfef1aa9ba0,10/06/2026 19:31,Reiciendis quas ullam excepturi beatae laboriosam aliquam.,inscrito,9e5cf6e9-9255-4248-b771-f894f2e36355,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+ade81084-ef29-4413-bfda-e6661b314321,04/05/2026 00:29,Quis voluptatem repellat quasi dolores tempore cupiditate tempora quidem in.,CANCELADO,24114258-751b-4c83-89a0-47dc4ac87fc0,038d04fb-1018-47f5-8191-590c42c79c1c
+454009f2-2124-4735-b254-6c177a90c486,07/08/2026 21:55,Aut libero dolore expedita labore quos.,FINALIZADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+cd32e712-0c76-4092-9cff-d7b6361c2373,07/07/2026 23:11,Eum animi architecto veritatis fugit id debitis vitae sint.,CANCELADO,2edc49c1-f71b-4135-ac06-43b173f29c6a,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+5aff4594-40dd-4895-9015-48989187c9a0,2026-02-06 23:28:09,Aspernatur magnam beatae optio debitis delectus hic assumenda soluta error nesciunt iste pariatur.,FINALIZADO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,85c80ede-202c-415a-898d-b8601e47caa6
+3c7c1d85-25cf-4041-90a6-43fea53bc024,09/12/2025 22:12,Ducimus cupiditate corrupti quis asperiores veritatis occaecati.,INSCRITO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,85c80ede-202c-415a-898d-b8601e47caa6
+b09b2a5c-badc-432a-8159-0f538a0f4efb,2026-01-17 02:51:49,Id perferendis fuga tempore iste dolorum aperiam accusantium mollitia.,FINALIZADO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,6d1675c1-7671-47fd-9814-26123733ef91
+8ab5a799-9e63-438c-b485-e9443142e0c7,2026-06-12 00:41:01,Vero maxime quibusdam magnam accusantium omnis.,INSCRITO,376f5364-89d3-4078-8ab3-9a0792845dae,105cbc52-d65f-45b6-968e-485e46db73ab
+fbdd3933-cbd5-4bf6-9efd-76e9ce3714af,2026-06-07 18:52:25,Expedita incidunt fuga magni exercitationem sed.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,fcf2c86d-9394-4318-8fa9-60d1af925385
+b70b3420-f104-4785-a58b-252360141de9,16/01/2026 00:34,Nihil rerum doloribus possimus error placeat.,CANCELADO,2f9e09c9-d828-4123-a945-e7bb290f5d0f,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+a518a418-6f14-43f6-9867-888b7ff6b824,2026-08-31 14:55:01,Natus similique atque minus aliquam distinctio sint suscipit labore aliquid.,CANCELADO,90624fe3-6b82-46c9-982f-b0f1423674a6,1f684c50-9e74-4650-a980-f7bd1cd33258
+6a429bd5-cd71-42b4-9471-104f1859c5ae,2026-08-07 21:12:46,,INSCRITO,d563d56d-c887-417c-8b89-0fec6872d96b,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+78d8cdd6-490a-486c-b644-29395256f928,16/02/2026 19:16,Aut delectus veniam facilis esse atque accusamus mollitia similique ex qui facere quod.,CANCELADO,36de6548-d90e-413a-9835-7aebd0ef5c36,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+db646a33-68b6-46d6-a6a3-f3db496042b0,28/06/2026 15:52,,inscrito,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+4743968f-1d44-4f41-b9e9-84e1bdc4d680,2026-04-25 12:58:48,Molestias veniam corporis distinctio necessitatibus voluptates.,EN PROCESO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+ca00ef58-6c52-4d13-b719-bb682775ee42,2026-03-26 09:48:32,Ipsum nisi neque modi unde sit.,inscrito,5ec0c260-7f98-40a6-a73c-49ea44371ff3,480bdb8b-060e-4c8a-a0df-f7096fce4808
+277b71ea-16f1-45cb-84af-9dc9416c0562,27/02/2026 03:31,Perspiciatis animi vero delectus quae error atque consequuntur tempora ducimus velit.,EN_PROCESO,219763c5-9682-4074-b915-72d53911c9b0,6aa8b0b5-c494-49bc-8c04-64601f500d19
+4612d424-7ac0-47a6-9297-eaacfcc2ed18,2026-07-27 09:59:36,Recusandae debitis laborum officia inventore necessitatibus aut.,INSCRITO,ea9e7ab5-730b-49dc-a577-c324694baad6,480bdb8b-060e-4c8a-a0df-f7096fce4808
+8bae591e-ff4c-410f-979c-30cf33261887,2026-01-08 21:02:35,Ad quas velit distinctio reiciendis rerum architecto sed recusandae perferendis consequuntur esse dolorum.,FINALIZADO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,05306bb7-e728-4b1b-95ea-47a751a248ee
+44cfa6ba-5302-46e2-b87b-ccda71330766,18/01/2026 04:39,Occaecati similique hic ipsum quas inventore corporis laboriosam libero itaque repellendus debitis necessitatibus.,EN_PROCESO,5071950e-adec-4f11-bd83-6e77af67d461,6d1675c1-7671-47fd-9814-26123733ef91
+ca665da6-ebd2-4b71-a35a-e36966a466d4,2026-06-14 19:06:45,Dignissimos tempora iste doloremque dolor incidunt.,FINALIZADO,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,105cbc52-d65f-45b6-968e-485e46db73ab
+010e4265-ad3f-4dd4-8496-26ba30c9a2be,01/07/2026 09:08,,INSCRITO,a5721c6a-58d6-4944-9573-e7bb0d26efa0,480bdb8b-060e-4c8a-a0df-f7096fce4808
+0178de26-ceb5-47ac-8b22-e4457fa70485,2026-06-24 02:49:15,Dolores nihil labore illum aspernatur nobis doloribus molestias nulla nam repudiandae aliquid.,FINALIZADO,219763c5-9682-4074-b915-72d53911c9b0,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+d413c850-63c4-476d-a55f-a725bcb3c168,26/03/2026 22:33,Ea in dolores quisquam tenetur rem placeat eligendi.,FINALIZADO,9e5cf6e9-9255-4248-b771-f894f2e36355,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+071592d9-7616-4503-a906-b588f62162ab,2026-10-20 09:39:35,Ad quisquam at consequuntur tenetur ratione neque fuga numquam tempore soluta amet sapiente.,FINALIZADO,70eb9a0a-9626-4ae6-85e8-18fac0433cbd,105cbc52-d65f-45b6-968e-485e46db73ab
+2a935d62-3c83-4dc0-9944-1fa5c0e9ab30,06/04/2026 20:03,Laboriosam sint temporibus cum a hic unde quos eligendi possimus quas quos.,FINALIZADO,7776c655-7c4e-4248-b151-5fff42969a50,85c80ede-202c-415a-898d-b8601e47caa6
+5c941cf0-dc98-42c1-a2ac-f72f9e574f7a,12/06/2026 05:18,Provident aliquid dolorem enim aspernatur doloremque aut eius.,INSCRITO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,05306bb7-e728-4b1b-95ea-47a751a248ee
+b3edd6ed-b089-4de4-a626-7164d3616b3a,2026-06-11 18:52:32,Nisi error quasi nemo aspernatur animi quo.,INSCRITO,36de6548-d90e-413a-9835-7aebd0ef5c36,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+7a36e788-f71f-49a6-add4-9c966744cb9e,2026-03-28 20:46:04,Alias dicta fuga accusamus eum rerum.,EN_PROCESO,2cb8cefc-5814-453f-afec-42754e0e8896,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+88433a38-46d2-4109-895c-7ac8314aabdd,2026-03-03 22:41:29,,EN_PROCESO,2edc49c1-f71b-4135-ac06-43b173f29c6a,85c80ede-202c-415a-898d-b8601e47caa6
+f488e328-c075-4119-841d-de330fa1659f,2025-11-02 19:21:26,Ratione aliquam distinctio recusandae fugiat maxime vitae eaque laborum quidem nobis excepturi placeat.,CANCELADO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+6c8a30c1-f2ca-4002-b650-885202bce2e0,20/07/2026 22:24,Ut consequatur libero placeat perspiciatis minus commodi accusamus deleniti rerum ab incidunt.,INSCRITO,8bb9c912-2286-4c53-b000-e394b870e4e1,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+401fb5a6-9ca5-474f-8fda-6ca4107a8bcc,2025-12-14 10:58:22,Sed asperiores quis non sapiente unde.,FINALIZADO,a9f5307c-8ece-48b0-af29-a9f1ced66b44,ff44577c-b8bf-477a-8e5f-87558f94b50b
+bb56588b-b172-4c53-832e-2730c0c9c3ed,06/04/2026 21:57,,FINALIZADO,5497db67-a54b-4b83-b440-cabee0ed4a62,f72699ec-6a1e-460d-81cd-81b0c6db0211
+15e9bee4-4e14-4977-8d12-6ab13313f36c,2026-02-23 11:21:18,Unde itaque delectus quos rerum atque minima possimus magnam placeat facere explicabo iure.,FINALIZADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,3c37bb01-18b0-410e-8eab-f94903f33851
+216aebcf-a616-4de4-b388-300a3e20718a,2025-11-05 13:53:36,Odio temporibus reprehenderit atque nostrum saepe aperiam repellendus., Finalizado ,18afaf54-4382-4d47-8813-063719f900d3,480bdb8b-060e-4c8a-a0df-f7096fce4808
+44f7f01a-3cb5-46d7-834a-130e8c6ea6ad,2026-05-02 01:15:25,,INSCRITO,62186f4b-1422-4bef-9e38-42616a01977b,6aa8b0b5-c494-49bc-8c04-64601f500d19
+4fe5c13b-a5e8-4198-bc10-316d3f63a065,2026-06-18 02:47:43,Tenetur aperiam esse excepturi accusantium eveniet itaque.,EN_PROCESO,7776c655-7c4e-4248-b151-5fff42969a50,ff44577c-b8bf-477a-8e5f-87558f94b50b
+8a14be62-295b-4715-8333-e8615fb8d16c,2026-08-29 09:19:29,Ullam nobis laborum beatae facilis voluptates rem dolores dolores necessitatibus aspernatur quasi.,INSCRITO,4619e5db-cbf5-414c-8652-ab69cbee23b0,85c80ede-202c-415a-898d-b8601e47caa6
+9beab529-9801-4a2f-a5b8-36938fbba749,17/02/2026 18:44,Placeat laboriosam excepturi eius eveniet eius omnis veritatis officiis., Finalizado ,33288e16-ebe8-4fa9-9c24-c1ae7d510557,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+1ca3c448-0279-46a6-8f97-97b06d7ce3c9,29/11/2025 05:19,Molestias rerum nesciunt corporis consectetur est tempore.,INSCRITO,2cb8cefc-5814-453f-afec-42754e0e8896,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+6f2e92b9-d130-42db-a13a-14ca5911f42e,10/04/2026 18:15,Sit dolorem officiis nobis accusamus quod fugit.,EN PROCESO,7383d496-000e-45d0-9798-5d060397a31d,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+0f9c5300-7aa1-4567-8cf9-eea9e1fdc6d1,2025-12-04 01:37:26,Fugit in odit reiciendis dolorum voluptatibus molestiae accusantium fugit.,FINALIZADO,733c6676-4dbd-4e02-aecb-9e6853e81536,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+761e6287-d07c-4e53-b8f6-703b77ff3c31,12/03/2026 07:10,Est deleniti quo praesentium distinctio ipsum nam.,CANCELADO,265c28ea-0879-4955-825f-f87c44df8a13,480bdb8b-060e-4c8a-a0df-f7096fce4808
+067965ab-61e5-48ca-9261-14b7142a6f47,2026-08-15 07:06:24,Voluptatem odio quod delectus officiis dolore deserunt.,FINALIZADO,ea9e7ab5-730b-49dc-a577-c324694baad6,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+b70b3420-f104-4785-a58b-252360141de9,16/01/2026 00:34,Nihil rerum doloribus possimus error placeat.,CANCELADO,2f9e09c9-d828-4123-a945-e7bb290f5d0f,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+79d54e9f-7846-4474-927c-5ea78a159e92,06/06/2026 08:36,Magni hic libero voluptas nulla explicabo voluptate eum.,INSCRITO,fa97002c-fcba-4167-b5a9-ca5fedf165da,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+180dc855-c55f-4de8-bc3e-1d1975f94230,21/05/2026 09:22,,CANCELADO,a5f27419-0b94-4014-ac61-93ccebe48123,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+f80ceb1a-de16-4fca-8c11-1ba44f3e2a2c,2026-09-05 16:08:54,Libero iste cumque eos architecto nemo explicabo.,EN PROCESO,a5f27419-0b94-4014-ac61-93ccebe48123,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+0445c1a8-12af-47e4-8536-c66efcc4091b,16/06/2026 02:37,Accusamus dolor ullam veniam id enim.,INSCRITO,32e4034c-cb34-4cea-9c31-b9301543c8ef,480bdb8b-060e-4c8a-a0df-f7096fce4808
+f8802878-69fb-4763-8a9c-66f7cee4e512,2026-08-20 18:41:21,,CANCELADO,cfd8c364-eab4-4bd6-b528-ea79511070a7,a02fb007-9b75-4151-b4bf-589bc79e23da
+3e49fd09-1b19-48b8-9830-20816fcc57dd,18/04/2026 04:47,,FINALIZADO,14aa4e71-9d3c-4dec-80a6-1f933d6c51e3,9b97d72a-50e9-4d6d-a779-082cecbc0534
+8df21ad5-2d36-4b7e-b3ff-b402a5d5bbf9,15/11/2025 06:35,Optio error harum autem porro laborum suscipit ipsa deleniti alias.,EN PROCESO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+b1d29457-1f3c-4a1d-a271-97ca788773ed,29/09/2026 18:15,Eveniet impedit distinctio distinctio animi necessitatibus voluptatem minus assumenda., Finalizado ,376f5364-89d3-4078-8ab3-9a0792845dae,3c37bb01-18b0-410e-8eab-f94903f33851
+c8ee46bf-571f-4cdb-be60-afde4200a1aa,17/03/2026 23:05,Quo nam tempore sequi soluta nobis.,EN_PROCESO,59001ac9-4063-49bc-a5b0-0a2d35d14880,05306bb7-e728-4b1b-95ea-47a751a248ee
+d7d80594-9d98-47bc-a018-0791eeb093fe,2026-07-15 01:15:50,Laudantium nemo facere quos et dolore delectus architecto magnam.,FINALIZADO,fa97002c-fcba-4167-b5a9-ca5fedf165da,f92af541-a5dc-4896-98d1-e3045aa26879
+cf08ea54-b429-4924-8098-675047419b48,05/09/2026 03:19,Neque reiciendis modi facilis deserunt beatae.,EN PROCESO,79dcbc81-82a8-4712-868c-8f90069a306f,a02fb007-9b75-4151-b4bf-589bc79e23da
+a5c6c5ae-2e2f-4127-babf-3375f17fb786,17/02/2026 12:50,Est suscipit repellendus porro deleniti corporis.,EN PROCESO,b14ab8e9-e041-4118-991f-77c9f551abfd,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+53167cb5-5e7e-40e5-b8e3-51ea9aebbc3e,02/12/2025 07:54,,FINALIZADO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,40676334-ec79-43be-b96a-fc60ae7078ea
+08987462-980c-495c-99d4-5deb1139fa12,22/04/2026 09:07,Perferendis sit doloribus aliquid ipsa molestiae quidem quod consequuntur voluptatibus doloremque totam nemo.,INSCRITO,66e61127-e26b-424a-8e0d-8d877a98b9ac,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+1dba1267-7e1c-45a1-bef5-18a64dead645,2025-12-07 17:53:42,,inscrito,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+eb7cd628-ecb9-48f7-ac5e-ac705c494d63,2025-12-02 22:26:00,Non debitis minus nobis perspiciatis corrupti.,FINALIZADO,22a60b44-ef5f-431c-a8fd-b92dab266981,3c37bb01-18b0-410e-8eab-f94903f33851
+7a248720-a7e2-4299-abf6-d9150367ee2c,27/04/2026 17:01,Sit vitae nobis laborum nulla voluptate facere perferendis porro hic esse.,CANCELADO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+37a3c30a-a1f0-4a7a-8db7-8572ef7db821,2026-01-17 00:25:19,Numquam enim exercitationem perferendis voluptatem officiis vero magnam.,CANCELADO,975cef7a-2765-4f91-abb5-3283ce107503,6d1675c1-7671-47fd-9814-26123733ef91
+aab612c9-415d-474a-b5a6-69814104a8b5,03/11/2025 15:35,Temporibus perspiciatis culpa ipsam exercitationem nesciunt odit incidunt dolorum sapiente dicta.,EN PROCESO,5071950e-adec-4f11-bd83-6e77af67d461,05306bb7-e728-4b1b-95ea-47a751a248ee
+028bffb6-c528-4c36-a545-034c714cd65e,05/08/2026 16:45,Velit assumenda et voluptatem cum aperiam quis optio odit temporibus animi occaecati.,EN_PROCESO,bb20e1d5-916b-4b37-8051-ac7c8e48e488,105cbc52-d65f-45b6-968e-485e46db73ab
+d703262f-b5cb-43f5-aa66-c1847de1bf5d,21/04/2026 08:59,Cumque natus recusandae dolore adipisci dolore enim quos natus quo libero magni.,EN_PROCESO,6af38f6c-159d-4a38-8a6a-03b381356bc5,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+8ff50701-8222-4c16-a3de-4ec04dfa21be,19/01/2026 07:59,Veniam facilis amet dolore iste nam nulla labore omnis quaerat beatae.,CANCELADO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+bbf9a04b-19b7-475f-a7bb-5e42b3126a11,29/03/2026 11:08,Non quae sit soluta quos quaerat adipisci libero assumenda.,INSCRITO,6af38f6c-159d-4a38-8a6a-03b381356bc5,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+58c58875-a56c-4a56-b05f-f9c39f690cde,2026-04-23 02:41:43,Accusantium enim deleniti exercitationem doloremque dolor tenetur excepturi nobis sapiente omnis.,inscrito,1b252869-2bd8-4f21-afa1-2947f472bb69,a02fb007-9b75-4151-b4bf-589bc79e23da
+e2afa629-5efb-436e-af54-60336334fa2a,28/03/2026 03:19,Delectus aliquid ipsam ea saepe natus corrupti possimus atque pariatur.,INSCRITO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+4fc77768-5ebb-4ca5-a84b-f9625744f596,2026-08-07 05:45:42,Quod necessitatibus assumenda amet culpa nulla perferendis earum optio laborum.,EN_PROCESO,4619e5db-cbf5-414c-8652-ab69cbee23b0,6d1675c1-7671-47fd-9814-26123733ef91
+591c228f-3754-45ec-a0a7-8c2099d76c9c,2026-01-20 11:08:00,Voluptas nemo accusamus repellendus accusamus tempore magnam sint.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,ff44577c-b8bf-477a-8e5f-87558f94b50b
+5df06e8c-878a-4ed9-a33f-fc8292ec89af,03/04/2026 13:56,Officiis dolorum beatae quasi libero harum natus ea ea ipsum.,EN PROCESO,ce918208-8520-4f0c-a606-799cced8c284,480bdb8b-060e-4c8a-a0df-f7096fce4808
+67f5ae02-af5b-4f47-8eae-71cfce000af0,2026-02-23 12:17:04,Asperiores animi ipsam laborum dignissimos non est quaerat quasi similique voluptate.,INSCRITO,f3f49249-dc28-4f90-a5ae-c7978306d03b,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+397e8bfb-d3ec-4149-b5f2-e2543e144f6a,21/11/2025 16:42,Blanditiis possimus corporis quasi possimus incidunt amet.,INSCRITO,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+2d90e4ee-0de4-433e-92c0-620c1667c518,04/09/2026 10:37,Nam nemo dolorem ea harum occaecati inventore accusantium perferendis.,INSCRITO,ea9e7ab5-730b-49dc-a577-c324694baad6,ff44577c-b8bf-477a-8e5f-87558f94b50b
+ccea5031-844e-450b-a684-390c923b7820,2026-06-09 22:37:48,Corporis veniam ipsum veniam cumque distinctio deserunt aliquam aspernatur placeat dicta reprehenderit corporis.,CANCELADO,17d6af8f-f423-48be-8141-82233b38c237,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,2026-02-14 19:27:32,Dolore qui perspiciatis tempora assumenda in adipisci dolor magnam.,INSCRITO,7f60b9fa-1f12-4a78-a9f9-14845377899a,038d04fb-1018-47f5-8191-590c42c79c1c
+6b2d5b09-8707-4ad4-80be-7e3561c2645a,2026-01-01 22:29:29,,EN_PROCESO,21f34390-8e44-4800-ab99-436044a23f65,105cbc52-d65f-45b6-968e-485e46db73ab
+9cf021b8-4fff-4b59-9462-8786cc502a89,2025-11-20 11:53:30,Modi ab iste temporibus nemo ex explicabo voluptate eos cumque., Finalizado ,96060250-ea3e-4f73-884c-1884c88f63d6,ea75e258-ccc2-44da-84e7-0d70f5521d62
+9a0fb0b8-489a-4195-a2b6-159410f4c941,21/01/2026 09:36,Dolor natus quaerat veniam rem perferendis nemo officia placeat ipsa repellendus dicta.,INSCRITO,f1f02f49-c500-49ab-af3e-41445a789b32,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+3eacdb28-92f7-4993-8884-3b5bcdd3214c,2026-01-05 12:23:54,Est tempora molestiae amet adipisci temporibus.,FINALIZADO,e4163207-d094-4996-82f0-ee99731c9452,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+aad9e93d-c3d0-4de3-8fbb-a84a80b57013,2026-03-11 20:44:12,Nostrum facilis ipsa libero sed ratione saepe modi.,EN PROCESO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+b9676dc6-d6fd-41a5-b173-12f4659ae9f2,23/09/2026 07:00,,CANCELADO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+b5d9ad36-5287-464d-a30a-6658b1be6df2,14/12/2025 19:39,Natus nesciunt velit quae perferendis tempora modi soluta in accusamus.,CANCELADO,32e4034c-cb34-4cea-9c31-b9301543c8ef,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+d2438d1b-96bd-4e9f-8e7a-081ee0218caf,2026-09-09 07:54:14,Atque expedita nemo eligendi earum aut aliquid et quibusdam debitis rem perspiciatis., Finalizado ,bef7e268-ffe9-46ab-a058-1ccace1d62e0,6aa8b0b5-c494-49bc-8c04-64601f500d19
+9b89e5cb-d942-444c-a48d-31ec07f8d4f0,2026-07-21 08:14:46,,EN_PROCESO,4242c225-83e2-465a-b654-0600c8fb4456,038d04fb-1018-47f5-8191-590c42c79c1c
+c9784b52-9d1c-4838-adc8-cca8e3bcd6f3,18/03/2026 13:51,Pariatur repellendus fugiat quasi eos debitis a praesentium.,CANCELADO,b14ab8e9-e041-4118-991f-77c9f551abfd,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+dfae1803-93d7-47e7-a392-3df45fec59ac,19/12/2025 20:16,Velit ab repellat rerum excepturi in placeat illo quod.,INSCRITO,aa220078-503d-486b-8150-4585279e6933,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+a5eea4a2-2cde-431f-9dce-8d9b5d96120d,2026-06-05 00:18:16,,CANCELADO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,038d04fb-1018-47f5-8191-590c42c79c1c
+451972c4-31d9-4d32-ac99-ce56a58aabb5,12/12/2025 02:22,,FINALIZADO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+ac117bab-d664-4fe8-a21c-0c06ed376567,16/06/2026 16:07,,CANCELADO,1b252869-2bd8-4f21-afa1-2947f472bb69,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+61f6dfbe-114b-4c79-8200-79f51dc3c26e,04/07/2026 02:09,Perspiciatis dolorem et veritatis maxime ab rerum dolorum.,CANCELADO,ffce6973-7f62-4f26-b6c3-266043710baf,40676334-ec79-43be-b96a-fc60ae7078ea
+d5ce0626-d1b6-4755-81d1-d2263cc56af3,05/06/2026 06:27,In deserunt dicta tenetur quos exercitationem.,INSCRITO,49a4c222-6a6d-4402-90a3-727dc7be5613,f92af541-a5dc-4896-98d1-e3045aa26879
+7a3a6e96-23ff-43d3-bb4f-b88a2f4dd219,2026-03-05 16:11:10,Ab fugit ipsum eaque eveniet nesciunt nemo ea facere.,INSCRITO,5497db67-a54b-4b83-b440-cabee0ed4a62,fcf2c86d-9394-4318-8fa9-60d1af925385
+049ffb5f-d6a7-4a06-abab-ba12294f513f,23/06/2026 17:32,Debitis commodi qui cumque perferendis accusamus earum.,EN PROCESO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+ad4b24ec-5b67-4a25-82c4-5041e1831003,31/12/2025 14:18,Repudiandae tempora adipisci aperiam inventore nulla blanditiis dolore., Finalizado ,2341bbbe-f4e2-4a68-a505-88a5845074a1,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+b78a2037-bd46-4bd5-82c5-2802aca65492,20/11/2025 14:11,,INSCRITO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+2336d60b-0f57-4d6b-9452-e1309ea8ffe3,25/03/2026 10:48,Eos corrupti dignissimos alias unde nisi veniam qui eveniet eius officia quis.,INSCRITO,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+f9cc83ed-e8b4-4c6a-bee5-43b36e18b184,26/08/2026 01:23,,EN_PROCESO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,038d04fb-1018-47f5-8191-590c42c79c1c
+a9660a5a-6ecf-4ed2-9861-c9f39e44e98c,09/08/2026 04:53,Laboriosam optio odit corrupti repudiandae tempora nostrum accusamus vel.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+feb2d172-7be1-4731-98c6-d166fe65b782,2026-06-26 10:56:28,Molestias culpa qui unde deserunt adipisci ad maiores corrupti sint beatae dolor eveniet.,FINALIZADO,b093e3b4-7df2-4c58-9c56-dc87f32efa03,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+6b77af9e-af32-4af8-811d-b4afe8ca7483,16/09/2026 23:40,, Finalizado ,bef7e268-ffe9-46ab-a058-1ccace1d62e0,85c80ede-202c-415a-898d-b8601e47caa6
+349651d6-a790-45b0-a001-f54d01d77831,25/07/2026 02:27,Illum autem incidunt nesciunt ea modi natus nostrum voluptatibus id.,inscrito,d9814559-3a9a-4a39-a261-e34a7b6bc3c6,85c80ede-202c-415a-898d-b8601e47caa6
+56b09052-32f7-4350-b9a7-32dc5d1c1906,16/01/2026 18:35,Sapiente illo doloremque incidunt libero quisquam quisquam nisi quidem reiciendis velit explicabo pariatur.,EN_PROCESO,f57585ce-039e-457a-a041-f10e325abdec,3c37bb01-18b0-410e-8eab-f94903f33851
+4797b2c9-5720-4246-8223-623bcc3ebdde,07/10/2026 21:10,Praesentium eius ab veniam assumenda quam laborum quidem porro officia laudantium recusandae at.,INSCRITO,88736737-6ce4-448f-85d6-ac4263d52b10,105cbc52-d65f-45b6-968e-485e46db73ab
+8eda6433-5c65-465c-8f8a-0c2ca3900bc0,2026-08-15 17:42:43,Reprehenderit recusandae animi nulla minus quasi rerum aspernatur dolor maxime aut.,CANCELADO,ce918208-8520-4f0c-a606-799cced8c284,6d1675c1-7671-47fd-9814-26123733ef91
+fc6795e2-c32f-421b-86b4-ed272f4b8be8,2026-06-25 16:04:54,Eaque necessitatibus doloremque doloremque porro facere porro labore magnam non quae fugiat sequi.,FINALIZADO,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,6aa8b0b5-c494-49bc-8c04-64601f500d19
+4b425bba-4da2-43ed-9fdc-9844fdb37e45,2026-05-07 17:09:15,Ratione consequuntur nihil aliquid tempora suscipit.,EN PROCESO,7dabe929-c4a3-44bf-86cd-75e9bb049a79,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+8532fc74-a998-4bdf-99d9-d0b5a962d996,12/02/2026 20:22,Non consequatur rerum autem quaerat blanditiis beatae autem dicta dicta ea minima dicta.,EN_PROCESO,b76dc0c3-b078-42db-b03e-53cf192f09a9,6aa8b0b5-c494-49bc-8c04-64601f500d19
+7ea5a387-363b-45cb-9329-37246dfd171a,12/02/2026 06:56,Repudiandae excepturi neque necessitatibus laborum exercitationem placeat aliquid aut quos.,CANCELADO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,3c37bb01-18b0-410e-8eab-f94903f33851
+6f2e92b9-d130-42db-a13a-14ca5911f42e,10/04/2026 18:15,Sit dolorem officiis nobis accusamus quod fugit.,EN PROCESO,7383d496-000e-45d0-9798-5d060397a31d,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+c59de4aa-b5ed-4ce8-addf-26751235d52e,27/04/2026 22:25,Voluptates voluptatem quis ipsam unde velit voluptas laborum facilis.,EN PROCESO,90624fe3-6b82-46c9-982f-b0f1423674a6,038d04fb-1018-47f5-8191-590c42c79c1c
+d4c3a832-b231-460b-b8f2-ce6bd46b415d,2025-12-23 21:38:29,Ipsum a aspernatur ducimus rerum molestias quas minus beatae enim error aliquid.,inscrito,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,6d1675c1-7671-47fd-9814-26123733ef91
+687213f9-8d60-4936-8380-2b708d03c91e,06/12/2025 04:46,Voluptatibus totam itaque blanditiis rerum libero quaerat magni.,FINALIZADO,376f5364-89d3-4078-8ab3-9a0792845dae,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+d11ce5c8-50b2-41c0-bfdb-a2ee57d3ec63,2026-02-01 01:12:22,Pariatur fugiat animi explicabo ex aut itaque praesentium quam suscipit.,CANCELADO,aa220078-503d-486b-8150-4585279e6933,40676334-ec79-43be-b96a-fc60ae7078ea
+5d3bc1d3-a515-4982-8dd4-c0e60b099fcc,2026-02-18 16:59:38,Ipsa ex rem quis aliquam qui unde debitis.,CANCELADO,66e61127-e26b-424a-8e0d-8d877a98b9ac,ff44577c-b8bf-477a-8e5f-87558f94b50b
+f7baf55e-4f6b-48c8-998d-daeceaafe543,12/07/2026 18:52,,EN PROCESO,70eb9a0a-9626-4ae6-85e8-18fac0433cbd,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+48708a92-d2f7-4d5d-bec5-ea47372f5f47,09/08/2026 05:24,,INSCRITO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,05306bb7-e728-4b1b-95ea-47a751a248ee
+f9299271-b220-48f9-bdb2-fd9e93dc8eea,16/04/2026 06:36,Dignissimos at ullam fugiat autem earum occaecati molestias totam voluptates.,FINALIZADO,36de6548-d90e-413a-9835-7aebd0ef5c36,a02fb007-9b75-4151-b4bf-589bc79e23da
+644d852c-ba36-46cc-bccd-1ac6db55daf5,2026-02-24 03:49:50,Voluptatibus molestias excepturi perspiciatis voluptatibus quidem hic minus.,FINALIZADO,cfd8c364-eab4-4bd6-b528-ea79511070a7,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+42fc7edf-813a-4aa5-bd81-0c217f764fce,2026-05-29 15:53:22,Repellat molestiae accusantium quisquam voluptatibus sunt blanditiis ipsum sequi ipsam.,EN_PROCESO,fa97002c-fcba-4167-b5a9-ca5fedf165da,85c80ede-202c-415a-898d-b8601e47caa6
+ca6caf9b-0969-4101-8b2c-550a6b15c11b,19/03/2026 15:03,Nisi totam autem dolorum optio cumque nostrum natus officia officia vitae ex.,EN_PROCESO,cfd8c364-eab4-4bd6-b528-ea79511070a7,f92af541-a5dc-4896-98d1-e3045aa26879
+92d00319-20bd-4422-8b0b-81de3e612d66,2026-06-18 01:04:49,Consequatur maiores tempora corporis cumque ullam maxime illo.,EN_PROCESO,93550840-067f-4cfc-8e1f-d3d9849acfb5,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+874db4a6-d057-4b85-af1e-c0de297eb3f4,10/09/2026 01:22,Assumenda ad vero atque alias consequuntur a quo.,CANCELADO,90624fe3-6b82-46c9-982f-b0f1423674a6,480bdb8b-060e-4c8a-a0df-f7096fce4808
+869d4cb7-b7f5-455a-839d-08d01e0aaf12,17/04/2026 23:58,Repudiandae laudantium dolore dicta veniam repellendus eaque quia fugit inventore dignissimos.,CANCELADO,17d6af8f-f423-48be-8141-82233b38c237,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+15e9bee4-4e14-4977-8d12-6ab13313f36c,2026-02-23 11:21:18,Unde itaque delectus quos rerum atque minima possimus magnam placeat facere explicabo iure.,FINALIZADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,3c37bb01-18b0-410e-8eab-f94903f33851
+12b2102d-940c-4503-b7c8-6152beed0af9,17/11/2025 14:07,,EN_PROCESO,b91dddd9-1389-4372-a341-738c837a7935,1f684c50-9e74-4650-a980-f7bd1cd33258
+43c07d43-93a7-4792-8561-b8dca4364fcd,10/07/2026 20:58,Quisquam impedit odit libero occaecati enim vero laboriosam.,INSCRITO,265c28ea-0879-4955-825f-f87c44df8a13,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+c4735700-037e-4f60-8000-0fac581848c5,2026-07-23 19:25:17,Amet rerum inventore nisi ab laboriosam eligendi assumenda inventore.,EN_PROCESO,733c6676-4dbd-4e02-aecb-9e6853e81536,f72699ec-6a1e-460d-81cd-81b0c6db0211
+d0de4fb6-458c-4c02-bf40-964098a91187,2026-03-03 18:57:11,,FINALIZADO,2eb52387-ab9f-4430-98ae-93fbd978673a,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+871854c1-7d4e-426e-9cd5-bfaeabb316a7,2026-07-06 04:55:25,Nisi nostrum nesciunt expedita sapiente nulla repellendus provident error nostrum.,FINALIZADO,a5497863-210f-4de3-853d-82cbe0b89bcb,f92af541-a5dc-4896-98d1-e3045aa26879
+53958e5c-edd0-4e02-add3-2be929052dd7,16/10/2026 13:17,,EN_PROCESO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+2631d00b-26d7-44d3-8db9-5301afbb411a,2026-09-11 00:23:31,Veniam assumenda dolorum nam impedit nisi nulla quod fugit tenetur error nihil inventore.,CANCELADO,4a41f8e4-d4d6-4278-889b-5123e842997d,480bdb8b-060e-4c8a-a0df-f7096fce4808
+b10ccf77-ba4d-4c8e-955c-8139384243b4,19/12/2025 03:48,,EN_PROCESO,265c28ea-0879-4955-825f-f87c44df8a13,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+9482b42f-c095-4c13-b06b-ffa4bcc4f087,2026-10-04 07:31:58,Quidem quis eum tempore magnam in amet fuga.,EN_PROCESO,e4163207-d094-4996-82f0-ee99731c9452,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+f956be95-3b96-4c74-bfe6-299495804c2a,31/12/2025 23:48,Dolorum dolores modi recusandae qui quisquam veniam.,INSCRITO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,a02fb007-9b75-4151-b4bf-589bc79e23da
+3c4722f3-c1b4-4d44-929c-f92aefb2d33c,23/02/2026 12:10,Similique cum ipsa et repellat officia ratione earum.,FINALIZADO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,038d04fb-1018-47f5-8191-590c42c79c1c
+db6a34ea-c3a5-4237-81b2-16cf9d23c3cf,2026-05-29 06:54:10,,INSCRITO,66e61127-e26b-424a-8e0d-8d877a98b9ac,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+38cd9122-fc01-45e1-8ce2-afa201ae7eb1,2026-01-22 10:17:37,Accusantium reprehenderit porro eius mollitia nam unde culpa alias explicabo., Finalizado ,e4163207-d094-4996-82f0-ee99731c9452,40676334-ec79-43be-b96a-fc60ae7078ea
+b3fdc2b8-9c29-4269-a781-c4cc9058e121,20/09/2026 06:47,Exercitationem architecto impedit qui ut suscipit.,CANCELADO,aa220078-503d-486b-8150-4585279e6933,1f684c50-9e74-4650-a980-f7bd1cd33258
+4c636e95-025f-4543-8997-623ae0723d96,2026-06-08 13:47:17,,EN PROCESO,21f34390-8e44-4800-ab99-436044a23f65,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+ba21e269-2540-4bfe-a12f-f6cdd6eaf269,11/11/2025 10:48,Sunt impedit illum ipsam ut tempora ut earum quod autem.,FINALIZADO,5b74c718-a2aa-416a-81f6-192bab215122,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+e8e13f98-c1ab-4398-82cf-63a898dc4031,2026-02-28 01:12:29,Mollitia odit adipisci eaque voluptate natus natus ratione.,FINALIZADO,e41686cd-6616-4227-9737-14726c167229,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+ef158d5b-2d00-4d05-966d-4627e1dace6a,2026-10-23 03:37:03,Voluptatum id libero vel vitae unde.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+209ce4a5-931e-4d4d-9abc-9859593edc83,2026-05-16 06:26:02,Illo quae autem nam architecto error itaque.,CANCELADO,d4f398ee-4b5c-4a95-b3d9-18086edd77d8,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+a4f34185-4182-4509-a79f-9f3d19ee2c3b,28/01/2026 18:34,Voluptates eos iure aut cupiditate aliquam enim reiciendis est qui atque.,FINALIZADO,bef7e268-ffe9-46ab-a058-1ccace1d62e0,6aa8b0b5-c494-49bc-8c04-64601f500d19
+3df76a69-bc45-444a-bc1f-dff0331d58bb,04/10/2026 22:32,Dignissimos dicta dolorum nulla culpa autem ullam perferendis optio.,CANCELADO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,85c80ede-202c-415a-898d-b8601e47caa6
+12c136e0-1998-4f15-bf00-2d4d902059e4,2026-05-27 19:06:57,Magni consequatur expedita architecto doloribus eligendi ipsa molestiae.,FINALIZADO,6af38f6c-159d-4a38-8a6a-03b381356bc5,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+f165d779-0154-4950-976d-e21f1b46ebdc,27/02/2026 17:15,Facere earum consequatur deleniti ipsum mollitia illum ad explicabo at nisi.,CANCELADO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+e25c7f9c-afcf-4a4d-a27e-91e1af35fbc0,2026-08-04 14:53:45,Laudantium voluptatibus dolore vero eligendi asperiores ex.,FINALIZADO,a5f27419-0b94-4014-ac61-93ccebe48123,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+36e6ba85-19ab-4c15-a96b-67bff301bb6c,2026-05-16 10:06:18,Ratione reiciendis nostrum placeat amet harum odio rem reprehenderit iusto nobis.,INSCRITO,4242c225-83e2-465a-b654-0600c8fb4456,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+b48c531b-4eeb-47ff-8064-f074c847b130,29/09/2026 03:27,Quae earum assumenda soluta fuga repudiandae esse minima cupiditate fugiat.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+0d591303-7b6f-465b-8d70-600f04a1dd66,2026-03-30 08:15:52,Possimus inventore incidunt consequuntur ipsa tempore voluptatem facilis deserunt ipsa.,INSCRITO,a9f5307c-8ece-48b0-af29-a9f1ced66b44,a02fb007-9b75-4151-b4bf-589bc79e23da
+122c9a56-01d7-4256-b860-2ab696a402f2,2026-08-01 21:33:20,,EN_PROCESO,fa97002c-fcba-4167-b5a9-ca5fedf165da,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+d8c823b0-7f87-46f1-93f3-c70201e6ee9a,10/08/2026 20:36,,FINALIZADO,8c53765f-4ec0-4954-bf8b-2a6aab74fe57,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+245fd841-147f-4413-b0c4-6ddcf63471f8,2026-08-10 13:49:18,Voluptates voluptates quod iure aspernatur suscipit at iusto qui vero aspernatur odio.,CANCELADO,2475263c-7854-4014-aded-c86a9f4fb02b,40676334-ec79-43be-b96a-fc60ae7078ea
+04c44853-a33b-4dfd-9048-65c6f8205aa7,07/10/2026 04:17,Veniam dolor non iusto laboriosam dolor illum consequuntur nesciunt.,INSCRITO,a5b0e526-320b-43f8-88be-3b07662f286b,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+e3be7ca0-5df9-44fb-83d6-43ed236eb832,14/06/2026 02:05,,CANCELADO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,480bdb8b-060e-4c8a-a0df-f7096fce4808
+33173470-38f1-4a81-b87f-2425dbccc477,2026-09-13 03:08:19,Expedita reprehenderit sit dolore optio id eius architecto quo expedita magni.,inscrito,7f60b9fa-1f12-4a78-a9f9-14845377899a,1f684c50-9e74-4650-a980-f7bd1cd33258
+d424d9f3-a18e-4440-ba70-bcf892efd363,2026-01-22 18:31:00,Eos vitae animi repellat corrupti quaerat sed vel dolore quasi unde quod.,EN_PROCESO,aa220078-503d-486b-8150-4585279e6933,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+ad5229dd-639f-4471-9975-0f00d5aba8ae,14/10/2026 04:13,Ex quidem consequuntur voluptates quam magnam voluptate amet ipsa saepe excepturi quisquam.,EN_PROCESO,d1711cbd-2106-419e-840d-31b5397a7623,5044df5c-81b2-499e-9b37-ca07a14d59fc
+2c5cce54-210c-48d9-bb9e-a9ebaac4363f,2026-01-16 11:19:39,Non aut impedit voluptatibus esse distinctio aliquid accusantium.,EN_PROCESO,4242c225-83e2-465a-b654-0600c8fb4456,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+7631de9d-dde9-4863-a2bd-33886db99102,09/01/2026 13:50,Ea eveniet iste excepturi sunt eius.,CANCELADO,93550840-067f-4cfc-8e1f-d3d9849acfb5,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+d773f98d-550c-4fe9-a54c-11d9f2e61828,2026-06-28 20:36:36,Rem eveniet ex repellendus similique voluptate consequatur eum veniam dicta.,FINALIZADO,cd73de00-81a0-4a05-ace9-da661dcf884c,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+814ff657-76d7-4561-92d1-4ef55e4c4fd1,03/04/2026 03:46,Perspiciatis doloribus laborum ipsum vero labore mollitia.,FINALIZADO,66e61127-e26b-424a-8e0d-8d877a98b9ac,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+94f6c67a-d009-4507-87fc-584ea1b24627,2026-06-12 19:44:47,,inscrito,89be9c1c-8eb5-440f-96f4-488157241955,05306bb7-e728-4b1b-95ea-47a751a248ee
+75a09875-56db-47ac-902a-73aeb81e1682,04/08/2026 17:58,Eius quis esse hic totam officia fugiat.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+ac00f929-bbfb-476c-bde6-67f9bfc46c0e,16/06/2026 15:18,Maxime perspiciatis voluptatibus et ab ab architecto illum.,CANCELADO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+997dcd9a-dd55-4b7d-bbad-3a0d693e5fcf,01/09/2026 19:47,,EN_PROCESO,36de6548-d90e-413a-9835-7aebd0ef5c36,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+008ffab9-38c4-4b38-a8ae-57b9c262cad0,12/03/2026 13:40,Rerum vitae eos minima praesentium aliquid cum consequuntur quaerat quam.,CANCELADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+9ceab67b-ba82-454a-87e2-a618802993b1,01/02/2026 21:56,Necessitatibus aut neque accusamus dolor deleniti eligendi temporibus modi voluptate atque distinctio.,EN_PROCESO,59001ac9-4063-49bc-a5b0-0a2d35d14880,ea75e258-ccc2-44da-84e7-0d70f5521d62
+d7770933-adf0-4fe0-ad57-2692fb924354,2026-01-04 07:57:04,,CANCELADO,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+fa647958-39c2-41a2-bcc9-245cfd81fbc0,2026-07-25 19:03:43,,FINALIZADO,376f5364-89d3-4078-8ab3-9a0792845dae,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+ac2b0cfc-c5c5-4060-9911-21e793d563ae,13/09/2026 19:52,Dolores soluta voluptates maxime impedit eius nam nihil quasi cupiditate., Finalizado ,21f34390-8e44-4800-ab99-436044a23f65,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+83d5bceb-5edb-48ee-82ba-f0e02179e3f0,2026-06-06 02:58:07,Eum iure eaque dolorum atque enim fugit.,EN_PROCESO,e4163207-d094-4996-82f0-ee99731c9452,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+46a42ee1-2a2e-4e6a-9bff-56f413b2d1ab,13/12/2025 12:08,Libero soluta maxime occaecati eos voluptas molestiae.,CANCELADO,59001ac9-4063-49bc-a5b0-0a2d35d14880,ff44577c-b8bf-477a-8e5f-87558f94b50b
+46834cc5-757e-4b43-af51-6850b77e5f7a,17/01/2026 08:00,Voluptatibus ipsum repudiandae non doloribus eveniet.,EN PROCESO,a9f5307c-8ece-48b0-af29-a9f1ced66b44,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+4c7f03bb-a376-4c2d-bb31-dcdc40d91a8e,16/01/2026 04:14,Suscipit sint dolor beatae odio eveniet cumque eius blanditiis ratione.,CANCELADO,b6eafff5-782a-4e6b-ac9f-21df74f09af5,40676334-ec79-43be-b96a-fc60ae7078ea
+d62015f0-5253-46f7-a328-051e8bbf1b30,04/09/2026 00:14,Quisquam nihil excepturi blanditiis consequuntur impedit possimus mollitia.,EN_PROCESO,ffce6973-7f62-4f26-b6c3-266043710baf,ff44577c-b8bf-477a-8e5f-87558f94b50b
+06531d47-4867-4b30-b956-77318a4cfe1f,2026-10-19 22:15:59,,EN_PROCESO,44becdce-f4d4-45ec-8be4-0e7fc07991d4,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+c7e53bbb-dcb5-4c53-9b62-a8df493e904d,2025-11-18 13:33:57,Earum reiciendis ipsa id ipsam vero excepturi deleniti porro facilis.,INSCRITO,14aa4e71-9d3c-4dec-80a6-1f933d6c51e3,40676334-ec79-43be-b96a-fc60ae7078ea
+efbbd216-0ff9-4696-a15a-58bdc632554b,10/09/2026 00:04,Ratione voluptatem distinctio distinctio ad quis in dolorum debitis consequuntur., Finalizado ,e5121482-3929-4d22-a255-accb1a466884,038d04fb-1018-47f5-8191-590c42c79c1c
+0328c136-629e-43d8-9d1c-a267530ddda6,21/02/2026 08:12,,FINALIZADO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,1f684c50-9e74-4650-a980-f7bd1cd33258
+6e18c9b3-c6da-45f1-8429-6ca21257429e,05/03/2026 14:24,At perferendis incidunt expedita eum nisi ad esse voluptates nulla voluptatibus ipsam corporis.,CANCELADO,9f93693f-6f00-47c4-b4fd-02f6850567c2,85c80ede-202c-415a-898d-b8601e47caa6
+7c360908-8f94-4977-b582-ef0cfd2336f4,2026-04-26 18:37:46,Beatae quaerat corporis expedita dignissimos eligendi rerum quibusdam reprehenderit natus optio distinctio.,FINALIZADO,2f9e09c9-d828-4123-a945-e7bb290f5d0f,05306bb7-e728-4b1b-95ea-47a751a248ee
+409d3602-5084-4242-968b-1625746f7891,05/03/2026 13:07,Voluptas illo maiores voluptates omnis molestiae impedit.,EN_PROCESO,aa220078-503d-486b-8150-4585279e6933,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+b11c7dff-b1dd-448c-b9c9-1e00aaf8e1d5,2026-04-30 12:30:21,Possimus sequi necessitatibus excepturi error eveniet autem soluta tenetur libero ullam odit possimus.,EN PROCESO,cd73de00-81a0-4a05-ace9-da661dcf884c,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+8b6584ce-7acc-4970-9bee-c570b69f75c5,30/08/2026 11:30,Exercitationem natus eum earum ad nisi adipisci repellat eligendi repellat iusto facere.,FINALIZADO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+b5c43078-197d-405f-bb20-d1546ff98cf7,07/09/2026 03:27,Magnam occaecati quos sapiente occaecati ea mollitia.,INSCRITO,6bad6be2-8e7a-46e9-9f19-950499dd251d,105cbc52-d65f-45b6-968e-485e46db73ab
+34396729-4b8e-4509-88cb-a592b0cad2eb,2026-08-19 16:00:16,Adipisci repellendus aut sint qui sint quia natus dolores quos reiciendis enim.,CANCELADO,62186f4b-1422-4bef-9e38-42616a01977b,3c37bb01-18b0-410e-8eab-f94903f33851
+14822f53-8201-4c62-b5f5-9b220e8fa8e0,2026-09-26 15:05:15,Architecto architecto similique illo velit necessitatibus neque aliquam.,INSCRITO,e1f66c3a-c910-4f89-b7fe-43eb87a9ec13,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+f6729464-3f8e-440a-ab0a-e0e39d896047,2026-10-02 01:15:01,Repellendus ut quam deleniti cum voluptatum iure soluta.,EN_PROCESO,aa220078-503d-486b-8150-4585279e6933,fcf2c86d-9394-4318-8fa9-60d1af925385
+fc014a22-2ed0-40b2-bda5-6b6e4654e77d,2026-08-23 19:26:28,Eligendi dolore nemo amet reiciendis laboriosam molestiae magnam hic placeat cupiditate voluptate.,INSCRITO,f1f02f49-c500-49ab-af3e-41445a789b32,05306bb7-e728-4b1b-95ea-47a751a248ee
+73b9c2ac-0134-476b-8ed9-fa95a26e865b,14/02/2026 05:27,Quis cumque quisquam laudantium quis at nostrum odio.,FINALIZADO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,6aa8b0b5-c494-49bc-8c04-64601f500d19
+a7ee2f23-9e31-4cfd-9f09-87e9259b5aea,2025-11-19 06:06:57,Beatae aliquam placeat similique neque aliquam quaerat aperiam.,CANCELADO,f1f02f49-c500-49ab-af3e-41445a789b32,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+8d15baef-b669-4d0a-8837-6bbcd89806fd,2026-07-30 17:34:59,,EN_PROCESO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+593c572b-4347-4bca-b321-a8b20840405a,2026-09-30 20:16:58,,FINALIZADO,21f34390-8e44-4800-ab99-436044a23f65,f72699ec-6a1e-460d-81cd-81b0c6db0211
+ba108217-0ad7-49a2-b277-16ec59fefbbc,03/10/2026 21:20,Nostrum ipsa odit recusandae animi perferendis illo maiores quibusdam cum.,EN_PROCESO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,85c80ede-202c-415a-898d-b8601e47caa6
+dc1b9eb1-0506-436c-b8b3-842a7c2c0791,2026-04-23 13:47:43,Doloribus eos repudiandae hic ex aut sed inventore impedit libero neque quasi voluptatum.,FINALIZADO,6bad6be2-8e7a-46e9-9f19-950499dd251d,f72699ec-6a1e-460d-81cd-81b0c6db0211
+02b34254-1b1f-4eb1-ae32-55a8cbd5cc86,2025-12-08 07:04:47,Dolore quia nam porro dolore fugiat iure perspiciatis porro.,CANCELADO,d9814559-3a9a-4a39-a261-e34a7b6bc3c6,105cbc52-d65f-45b6-968e-485e46db73ab
+52f6531f-a605-47c9-bb07-ee930a3731ab,2025-12-10 02:07:36,Odio earum quia neque necessitatibus fugiat fugiat nesciunt tempore aspernatur dolorum voluptate.,EN_PROCESO,5b4c8012-ede7-4d0c-bfb8-8309fadb8908,1f684c50-9e74-4650-a980-f7bd1cd33258
+220a69d3-ed60-4f49-871b-0cc7e233c597,13/02/2026 00:38,,CANCELADO,e01c683e-99a4-4df0-9de3-a361c0099eba,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+53bf8b10-d0cc-41a5-9b91-2adc833334f6,2026-03-05 07:35:29,Occaecati numquam vel hic incidunt doloremque autem eum accusamus omnis accusamus distinctio dolore., Finalizado ,66e61127-e26b-424a-8e0d-8d877a98b9ac,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+68a64d97-123c-4a29-969b-6b4bfcce3ef8,09/10/2026 16:47,,EN_PROCESO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,9b97d72a-50e9-4d6d-a779-082cecbc0534
+ef7cdb39-283e-4eec-9245-54686088825e,23/09/2026 04:01,,INSCRITO,5497db67-a54b-4b83-b440-cabee0ed4a62,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+7aeee7df-5bd5-4037-b744-459609791408,05/07/2026 16:11,Dolor animi vel eius nostrum et aperiam debitis quisquam eius sit consectetur occaecati.,CANCELADO,a5f27419-0b94-4014-ac61-93ccebe48123,3c37bb01-18b0-410e-8eab-f94903f33851
+354e15ec-da33-462c-8540-46cc16d50b84,02/01/2026 06:43,Quod eligendi quibusdam omnis blanditiis laudantium inventore rem est placeat.,INSCRITO,376f5364-89d3-4078-8ab3-9a0792845dae,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+6633427e-4fee-4a91-8003-14a89c7ab4e3,2026-06-28 06:11:18,Molestias tempora nesciunt vel voluptates officiis.,EN_PROCESO,f1f02f49-c500-49ab-af3e-41445a789b32,a02fb007-9b75-4151-b4bf-589bc79e23da
+ef43613c-d4aa-49a3-bed8-c56cda09dfa0,03/12/2025 15:45,Sunt doloribus iure nostrum fugiat adipisci sed delectus distinctio., Finalizado ,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+01862029-ab8a-4015-a727-3710203d54c9,2026-04-28 17:40:53,,CANCELADO,5b74c718-a2aa-416a-81f6-192bab215122,480bdb8b-060e-4c8a-a0df-f7096fce4808
+0d31812e-30c3-4756-9453-f867b97e6224,2026-02-12 06:14:36,,EN PROCESO,79dcbc81-82a8-4712-868c-8f90069a306f,05306bb7-e728-4b1b-95ea-47a751a248ee
+edda1677-4e08-4b81-ac4d-6c0037abaaf8,2026-10-28 09:13:44,Repudiandae alias iure nulla laborum explicabo nulla eveniet explicabo a tempora delectus., Finalizado ,1919e93a-d117-45ad-8988-93101c593af5,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+3f175534-cc4d-4819-8b9d-fd589e5d9c7a,2026-08-03 22:39:11,,FINALIZADO,afe987c1-8fdf-4614-9a09-1fd628215db0,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+27a0c3d7-7c96-4f79-b7e9-9acaa97065e1,12/01/2026 17:58,Dolor animi quasi aperiam et amet labore ullam minus.,INSCRITO,a5721c6a-58d6-4944-9573-e7bb0d26efa0,fcf2c86d-9394-4318-8fa9-60d1af925385
+9ce91544-4362-462d-a07e-e721e71d6ba3,18/09/2026 04:19,Maxime ipsa cumque qui laudantium veniam nam ullam odio., Finalizado ,1919e93a-d117-45ad-8988-93101c593af5,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+3764fbda-3108-4448-af65-fafab0ae8f08,13/08/2026 20:17,Eius nihil quis nisi voluptatem rerum eos facere esse provident consectetur aliquid.,CANCELADO,84f32551-5366-4ce2-ad4d-666177bb3654,ea75e258-ccc2-44da-84e7-0d70f5521d62
+d6d24227-2d5c-4a61-a302-1daa5ba3a49c,25/08/2026 05:57,Commodi fuga deserunt ab quia quis.,EN_PROCESO,e5121482-3929-4d22-a255-accb1a466884,a02fb007-9b75-4151-b4bf-589bc79e23da
+d4a8b45a-75d1-4776-94c0-8f6d076451d3,01/08/2026 20:18,Iste veritatis nisi ab voluptas omnis veritatis eveniet quasi quasi vero necessitatibus.,INSCRITO,22a60b44-ef5f-431c-a8fd-b92dab266981,a02fb007-9b75-4151-b4bf-589bc79e23da
+cdf40137-5e15-433b-a8b1-211a6eb8b0e2,12/05/2026 05:26,Earum ad ipsam eaque asperiores temporibus eos magnam molestias aspernatur.,INSCRITO,9e5cf6e9-9255-4248-b771-f894f2e36355,85c80ede-202c-415a-898d-b8601e47caa6
+f8d9bf33-06d9-43c0-ad98-73017f85c4e7,08/01/2026 13:17,Non eveniet esse numquam quis optio maxime laudantium iure eos.,INSCRITO,49a4c222-6a6d-4402-90a3-727dc7be5613,f92af541-a5dc-4896-98d1-e3045aa26879
+d89462e8-9580-4c3a-a932-a211214c0a4d,2026-02-07 00:55:22,Ex quae culpa corrupti eum amet.,FINALIZADO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,fcf2c86d-9394-4318-8fa9-60d1af925385
+ba108217-0ad7-49a2-b277-16ec59fefbbc,03/10/2026 21:20,Nostrum ipsa odit recusandae animi perferendis illo maiores quibusdam cum.,EN_PROCESO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,85c80ede-202c-415a-898d-b8601e47caa6
+9027e770-2460-40d2-9048-83c191519998,2026-01-12 02:27:53,Molestiae cupiditate alias animi nobis accusantium labore ex nostrum rem exercitationem debitis.,EN_PROCESO,cfd8c364-eab4-4bd6-b528-ea79511070a7,6aa8b0b5-c494-49bc-8c04-64601f500d19
+89456f27-d7fa-4d8d-bb2c-a025adf4e62d,2026-03-08 14:32:25,,FINALIZADO,e41686cd-6616-4227-9737-14726c167229,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+c3e1847c-8420-40d8-a32c-817e8ec57d47,2026-07-02 22:04:13,Deleniti ipsa sunt quo enim cumque.,CANCELADO,84f32551-5366-4ce2-ad4d-666177bb3654,85c80ede-202c-415a-898d-b8601e47caa6
+1c31aaf3-c76a-4c88-bae5-6c8d536016e7,06/03/2026 15:46,Atque qui sit fugiat dolore iusto laborum tempora.,INSCRITO,e1f66c3a-c910-4f89-b7fe-43eb87a9ec13,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+a63fcf12-e226-4768-9e0e-9c534ae0fd7a,2026-03-30 02:39:27,,INSCRITO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+fe8956c8-d9cb-4540-a43f-fdae92a54d04,2026-08-26 08:39:35,Adipisci nobis ullam voluptas dolore natus vel consequuntur quia dolores voluptatem cumque suscipit.,CANCELADO,14aa4e71-9d3c-4dec-80a6-1f933d6c51e3,3c37bb01-18b0-410e-8eab-f94903f33851
+cc530e36-addc-4e13-ab3b-4d37560c95ee,2026-04-06 00:30:16,Saepe ullam voluptatem modi tenetur nihil optio assumenda., Finalizado ,18afaf54-4382-4d47-8813-063719f900d3,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+2db4e428-3ef7-439f-8df4-097bd8f80018,15/01/2026 02:44,Debitis ea aut rerum consequatur omnis.,FINALIZADO,afe987c1-8fdf-4614-9a09-1fd628215db0,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+09dbebb5-c973-4495-b440-b852e033500e,2026-05-21 04:48:04,Iste repudiandae aliquam voluptatum maxime id quasi.,EN_PROCESO,cfd8c364-eab4-4bd6-b528-ea79511070a7,3c37bb01-18b0-410e-8eab-f94903f33851
+e3c51ba8-7122-47a0-9129-72d323966b83,2026-06-20 02:29:20,Quis exercitationem quae adipisci repellendus dolore sequi consequuntur dolorem commodi consectetur aspernatur.,INSCRITO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+e84e9da0-d402-4243-ac35-fb0c561266fb,2026-02-09 22:58:56,,EN_PROCESO,1b252869-2bd8-4f21-afa1-2947f472bb69,a02fb007-9b75-4151-b4bf-589bc79e23da
+ffc19ef6-a61f-435f-bfc7-06f0b30672dc,26/04/2026 02:12,Illum explicabo molestiae minima quisquam beatae cupiditate incidunt debitis nisi molestiae.,FINALIZADO,6bad6be2-8e7a-46e9-9f19-950499dd251d,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+4312153d-484f-4f7c-a44f-52f41b696031,13/10/2026 10:19,At laudantium facere saepe hic laudantium accusantium asperiores., Finalizado ,2cb8cefc-5814-453f-afec-42754e0e8896,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+d8dff535-c62d-4aea-9e70-bd3000a21367,11/08/2026 13:28,Quasi itaque optio facere aperiam modi dolor.,CANCELADO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+ed5edfa2-9fb3-4a4d-8071-2a38bffc4f09,30/05/2026 13:17,Odio magnam rem pariatur sequi distinctio quod.,INSCRITO,f1f02f49-c500-49ab-af3e-41445a789b32,f92af541-a5dc-4896-98d1-e3045aa26879
+ae1782f6-9138-4474-8473-b982d1a529db,2026-02-20 21:08:03,Minima cumque corporis atque esse quasi iste quasi.,inscrito,89be9c1c-8eb5-440f-96f4-488157241955,fcf2c86d-9394-4318-8fa9-60d1af925385
+150d28eb-9368-4dd6-9050-127e4e385d03,13/12/2025 00:59,Dolorum quae quisquam officiis consectetur nisi illum vel.,INSCRITO,5b4c8012-ede7-4d0c-bfb8-8309fadb8908,ff44577c-b8bf-477a-8e5f-87558f94b50b
+48708a92-d2f7-4d5d-bec5-ea47372f5f47,09/08/2026 05:24,,INSCRITO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,05306bb7-e728-4b1b-95ea-47a751a248ee
+b01c9191-e81b-40ff-9a41-a15f4e29b9da,2026-01-31 16:05:41,Et architecto deleniti tempore consequuntur accusamus labore ex.,INSCRITO,ed1ba5c8-c4ff-464e-9304-3fca9543c6c3,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+178cb5a0-3b66-4afa-bcf8-b9130ed40264,16/06/2026 14:18,Dolorem quibusdam suscipit recusandae necessitatibus voluptatibus.,FINALIZADO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+fd85d7fa-8ac9-4b01-a3ad-64d4eab9eb02,2026-07-07 06:05:51,Minima saepe asperiores repellendus aliquid ab.,CANCELADO,49a4c222-6a6d-4402-90a3-727dc7be5613,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+e92c5b92-6279-47a3-b534-39c06e9c92ba,2026-07-13 23:04:16,Praesentium atque praesentium aliquam suscipit culpa sunt modi.,INSCRITO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,480bdb8b-060e-4c8a-a0df-f7096fce4808
+589decb0-75eb-49c2-bf5c-f2f33acb43a3,30/12/2025 05:50,Deleniti soluta quisquam adipisci optio nostrum vel suscipit dolores.,INSCRITO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+ec9573e9-e1fa-4466-a4f9-82ec1e559419,2025-12-20 19:05:41,Deleniti fugiat fugiat nobis voluptate doloribus aliquid nulla.,FINALIZADO,733c6676-4dbd-4e02-aecb-9e6853e81536,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+75cff755-7daf-46e7-a115-d52b91b8ff07,28/04/2026 16:38,Aliquam at officia ullam expedita sapiente recusandae hic reprehenderit sed impedit debitis nulla.,FINALIZADO,cfd8c364-eab4-4bd6-b528-ea79511070a7,6d1675c1-7671-47fd-9814-26123733ef91
+260892d6-f840-46f2-af0e-ebef97e89057,01/07/2026 11:48,Doloribus blanditiis id esse nisi cupiditate quia quod voluptatibus perferendis at.,EN_PROCESO,0c56037f-d6c7-49cb-ae53-2f038b75d02a,1f684c50-9e74-4650-a980-f7bd1cd33258
+56ab087a-8bc7-4e81-9a30-45280b599562,11/09/2026 22:27,Rerum placeat voluptatem laboriosam delectus consequatur quaerat velit., Finalizado ,bef7e268-ffe9-46ab-a058-1ccace1d62e0,ea75e258-ccc2-44da-84e7-0d70f5521d62
+52d6b779-de43-49cb-9823-0076cd6bb03b,23/11/2025 03:06,Corporis provident consequuntur beatae minima facilis., Finalizado ,a40eecb5-c134-479b-9e3b-7dd373aa881e,3c37bb01-18b0-410e-8eab-f94903f33851
+193156f5-3a4d-45fd-ad36-0bb746c3c90c,2025-12-16 01:19:09,Facere molestias ex perferendis dolorum quia.,CANCELADO,2cb8cefc-5814-453f-afec-42754e0e8896,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+f836f571-3cce-476c-b836-c448ad261ec5,21/04/2026 12:13,Eligendi quibusdam ipsum modi est repellat iusto rerum facilis veniam voluptates iure eligendi.,CANCELADO,0b6ec6f3-9efe-4fda-9eed-fcfc3f724926,3c37bb01-18b0-410e-8eab-f94903f33851
+a53e62ba-2dae-42c0-a483-b0e79c3cbe9d,2026-05-10 02:18:23,Corporis quisquam dolor officia totam quaerat aut.,EN_PROCESO,2eb52387-ab9f-4430-98ae-93fbd978673a,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+4b68d94d-40da-4c7d-af2b-dc13b2165b5a,2026-04-30 08:20:29,Odit ullam eius incidunt temporibus quo.,CANCELADO,f57585ce-039e-457a-a041-f10e325abdec,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+d9f2dd0d-4cc9-45f2-a42e-50374a552ea0,31/12/2025 04:03,Recusandae magni commodi dicta consequuntur ratione ad mollitia.,FINALIZADO,9f93693f-6f00-47c4-b4fd-02f6850567c2,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+26242b40-a5cb-43a2-b98d-1ca68b6870b5,2026-10-18 19:00:30,Repudiandae architecto cumque esse quibusdam necessitatibus enim commodi porro.,FINALIZADO,cd73de00-81a0-4a05-ace9-da661dcf884c,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+ba54e920-2099-4180-8762-3997649f7d88,2026-01-25 11:37:23,Quidem voluptatem iure quaerat incidunt fugit.,EN_PROCESO,ce918208-8520-4f0c-a606-799cced8c284,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+510c8c48-e09e-42a3-ae77-e24934a63e76,2026-02-24 09:44:08,Recusandae perspiciatis ullam vel quaerat totam voluptatibus nesciunt nostrum magni sed sequi aperiam.,INSCRITO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,038d04fb-1018-47f5-8191-590c42c79c1c
+e84e9da0-d402-4243-ac35-fb0c561266fb,2026-02-09 22:58:56,,EN_PROCESO,1b252869-2bd8-4f21-afa1-2947f472bb69,a02fb007-9b75-4151-b4bf-589bc79e23da
+5f32d5d8-2abe-4585-825e-0259b88416d2,19/12/2025 07:04,Quasi blanditiis tempore ex inventore minima ea voluptate occaecati.,INSCRITO,d9090b89-0655-4096-8f1a-8a1d93d20470,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+4c5fccfb-14ea-437c-a7b2-916c461ea8aa,05/10/2026 08:10,Sit minima pariatur ea rerum at temporibus exercitationem quidem cum expedita.,EN_PROCESO,9015b7c2-4b71-4794-91e0-b53936e53725,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+c78e4415-2521-41f9-9f39-0d2b5f25210e,2026-03-02 02:54:48,Ab porro quaerat distinctio necessitatibus eum doloremque., Finalizado ,24114258-751b-4c83-89a0-47dc4ac87fc0,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+6f4cc69a-4b22-4308-9c8e-aee95715bd6f,31/12/2025 10:08,A quam quaerat voluptas quis magni autem numquam sapiente magni dicta.,FINALIZADO,d1711cbd-2106-419e-840d-31b5397a7623,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+44852295-1566-4483-8526-6dc83f936724,25/12/2025 09:27,Nobis recusandae ab recusandae molestiae repellendus sequi assumenda consequuntur quis tempora repellendus esse laboriosam.,FINALIZADO,9f93693f-6f00-47c4-b4fd-02f6850567c2,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+4c71e0fe-5a0c-4d7c-b157-8470018267c4,2026-08-19 14:53:49,Sequi veritatis in quibusdam molestias nobis dolore dolor ipsa adipisci.,EN_PROCESO,b6eafff5-782a-4e6b-ac9f-21df74f09af5,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+c50e5194-49c3-448b-b881-5f185f34fd6c,24/09/2026 08:45,Corporis eligendi vero nulla cum modi.,FINALIZADO,17d6af8f-f423-48be-8141-82233b38c237,85c80ede-202c-415a-898d-b8601e47caa6
+5f269466-54d1-432a-a308-2ddcc9c04b7d,09/02/2026 04:35,Eos sed iusto sint nesciunt velit architecto suscipit magnam sint fugit error amet.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+d123f7c1-b7a1-467e-9a1e-00365cbaa496,2025-12-15 22:55:03,Impedit ex beatae perferendis laboriosam nihil officia illum.,INSCRITO,cd73de00-81a0-4a05-ace9-da661dcf884c,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+5719d3e4-16d1-4768-9c83-90ba1672380e,14/08/2026 14:43,,CANCELADO,d1711cbd-2106-419e-840d-31b5397a7623,1f684c50-9e74-4650-a980-f7bd1cd33258
+a04dac84-9c59-4e03-8d2d-35570e06a416,2026-04-16 17:01:52,Aut animi amet sed illo nulla.,inscrito,21f34390-8e44-4800-ab99-436044a23f65,f72699ec-6a1e-460d-81cd-81b0c6db0211
+e5a2709d-a8f8-487b-b766-ac85a99c37b3,2025-12-09 22:06:10,Porro ipsam nisi aliquid fugiat dicta dolorum tenetur dicta accusamus.,CANCELADO,975cef7a-2765-4f91-abb5-3283ce107503,6aa8b0b5-c494-49bc-8c04-64601f500d19
+d4cae432-8c81-4e53-97b6-a4612c7604c1,04/09/2026 20:06,Dolores aspernatur quam est quam doloribus debitis dolorum.,EN_PROCESO,864fa3f3-eab0-4e9b-a5ed-0de47db4304d,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,2025-11-15 07:17:16,Libero dignissimos ut ex a perferendis tenetur saepe pariatur corrupti at maiores quam.,EN_PROCESO,7776c655-7c4e-4248-b151-5fff42969a50,85c80ede-202c-415a-898d-b8601e47caa6
+d77fbeeb-14fc-4a5d-9b4b-f377a542deb9,2026-02-16 23:31:48,Tempora deserunt quasi occaecati quas tempora sed.,FINALIZADO,cd73de00-81a0-4a05-ace9-da661dcf884c,ff44577c-b8bf-477a-8e5f-87558f94b50b
+797eb3e4-63db-48c8-b4a2-b699aefa823b,2026-02-09 23:50:37,Minus ipsa enim reiciendis fugit et minus.,FINALIZADO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+5fdcabbf-6b9c-471c-b6ba-745ba55871e3,2026-10-12 03:49:52,Ipsum totam fugiat aspernatur vitae soluta consequatur similique blanditiis voluptatibus.,FINALIZADO,b14ab8e9-e041-4118-991f-77c9f551abfd,105cbc52-d65f-45b6-968e-485e46db73ab
+2e625a6f-9c71-4439-8098-f50dbaff361a,2026-01-12 06:31:20,Occaecati corrupti blanditiis illo earum deleniti corporis accusantium dicta sint fugit minima praesentium.,EN_PROCESO,90624fe3-6b82-46c9-982f-b0f1423674a6,105cbc52-d65f-45b6-968e-485e46db73ab
+5abbb78f-1585-465d-8ce0-bd8fed4b229f,2026-04-16 13:37:32,Corrupti magnam magni amet earum atque officiis quasi.,inscrito,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,3c37bb01-18b0-410e-8eab-f94903f33851
+e3d9de7f-aba2-4511-b544-b28c0bbad72a,21/04/2026 01:57,Officia sint provident nemo recusandae provident natus commodi nam.,FINALIZADO,62186f4b-1422-4bef-9e38-42616a01977b,fcf2c86d-9394-4318-8fa9-60d1af925385
+4c1d2e43-0c2b-43e4-83e1-346d49902258,2026-06-10 17:36:01,Rem numquam vero quaerat neque nihil earum necessitatibus minus incidunt expedita.,CANCELADO,24114258-751b-4c83-89a0-47dc4ac87fc0,05306bb7-e728-4b1b-95ea-47a751a248ee
+3f59e4f2-c309-4b6e-b7e9-d2e2d35ac07a,22/07/2026 05:14,Sit aspernatur ipsum provident aspernatur natus aperiam molestias magnam nemo corrupti eveniet maxime.,CANCELADO,2341bbbe-f4e2-4a68-a505-88a5845074a1,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+22319050-f515-4494-b818-cfd33889936a,04/05/2026 16:58,Iste voluptates fuga praesentium totam quidem reiciendis.,EN_PROCESO,7f60b9fa-1f12-4a78-a9f9-14845377899a,fcf2c86d-9394-4318-8fa9-60d1af925385
+84f16d9d-af8f-4cf0-851a-9ec71cdde8ca,09/08/2026 19:27,Corporis illum dolore voluptatibus facere adipisci.,EN_PROCESO,2475263c-7854-4014-aded-c86a9f4fb02b,85c80ede-202c-415a-898d-b8601e47caa6
+42c91aaf-6be1-4e78-968a-220d0843280a,16/01/2026 20:54,Suscipit animi dignissimos repellendus eveniet quidem totam aperiam laudantium rem.,FINALIZADO,b76dc0c3-b078-42db-b03e-53cf192f09a9,480bdb8b-060e-4c8a-a0df-f7096fce4808
+df996726-5c36-4f5c-a23f-3abf0441e22c,17/11/2025 18:27,,FINALIZADO,9e5cf6e9-9255-4248-b771-f894f2e36355,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+9b1fc6d1-3881-49dc-9dc9-60970c90e028,2026-08-05 18:48:07,,EN_PROCESO,1b252869-2bd8-4f21-afa1-2947f472bb69,fcf2c86d-9394-4318-8fa9-60d1af925385
+6acac954-49a5-4d0d-a487-1ab3aa794de7,2026-01-08 15:52:15,Tenetur officia adipisci quisquam laudantium voluptas nisi facere laboriosam ipsa ducimus placeat., Finalizado ,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,05306bb7-e728-4b1b-95ea-47a751a248ee
+6ea5e341-8e2a-43ff-bc5d-ba42cdd8af09,2026-09-28 13:22:33,Deserunt reiciendis qui labore ab in consequatur tempora occaecati modi.,EN_PROCESO,e41686cd-6616-4227-9737-14726c167229,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+502cf0ee-224a-46a6-ac0f-680115b24e1d,2025-12-15 18:33:00,Esse delectus possimus magni in consequuntur fugit delectus odio.,CANCELADO,aa220078-503d-486b-8150-4585279e6933,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+46426c45-8d03-417a-b4d3-75c1a29319fa,18/12/2025 14:40,Esse modi magnam cumque velit culpa omnis quam non sapiente natus repudiandae adipisci aliquid.,CANCELADO,9e5cf6e9-9255-4248-b771-f894f2e36355,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+a8dbe9a1-d857-4c60-88f7-972661ae2255,2026-07-25 09:45:26,Odio praesentium vel temporibus aut assumenda saepe at accusamus ut aut.,EN_PROCESO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,ff44577c-b8bf-477a-8e5f-87558f94b50b
+9990e4a9-1841-4e07-b583-4c69407f2654,05/03/2026 23:12,,EN PROCESO,36de6548-d90e-413a-9835-7aebd0ef5c36,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+039b058c-2faa-4e0b-b7f6-0cdf41dc1c60,13/08/2026 01:46,,CANCELADO,59001ac9-4063-49bc-a5b0-0a2d35d14880,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+ab86bafd-b57e-4883-9258-6d9016b6bf61,06/07/2026 04:52,Ipsum eaque dolorum architecto ducimus autem a harum quasi voluptas.,INSCRITO,4242c225-83e2-465a-b654-0600c8fb4456,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+17e52113-4626-43be-a068-8849eec71a30,2026-07-12 05:12:07,Dolorum fuga temporibus cumque id esse praesentium doloremque omnis provident.,FINALIZADO,9f93693f-6f00-47c4-b4fd-02f6850567c2,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+80e022c8-3b80-4c61-bde7-8473a3fdd59c,2026-06-16 03:36:13,,CANCELADO,9e5cf6e9-9255-4248-b771-f894f2e36355,ea75e258-ccc2-44da-84e7-0d70f5521d62
+253421bc-6180-478a-8678-3c341b41a61e,2025-11-20 14:36:05,,CANCELADO,96060250-ea3e-4f73-884c-1884c88f63d6,480bdb8b-060e-4c8a-a0df-f7096fce4808
+64e289c0-98be-4ff0-929d-af9f0149a2af,27/05/2026 14:37,Veniam esse quibusdam temporibus exercitationem impedit officia maiores cum dolore rerum deserunt delectus.,FINALIZADO,32e4034c-cb34-4cea-9c31-b9301543c8ef,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+9ef1a74f-3d13-4526-a9d7-5427972d5d57,2026-02-02 15:21:55,Culpa laboriosam architecto dignissimos possimus inventore voluptatem necessitatibus exercitationem possimus cupiditate pariatur qui.,EN PROCESO,376f5364-89d3-4078-8ab3-9a0792845dae,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+21084dd9-f75d-4e3c-848d-56502e9522d6,2026-04-17 00:17:40,Tenetur animi commodi corrupti cum eum quae exercitationem velit tempora sapiente dolorum.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,fcf2c86d-9394-4318-8fa9-60d1af925385
+28fea761-8d49-4e3f-aca8-f78384182d35,2026-03-08 13:02:49,Incidunt iure reiciendis occaecati delectus omnis hic qui sunt ipsum inventore a dolor.,FINALIZADO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+1cdcc4c2-62c9-45b2-beb0-f62a3d4574eb,2026-02-01 15:02:41,Odit architecto suscipit accusamus facere et harum saepe in molestias cupiditate iusto.,EN_PROCESO,6bad6be2-8e7a-46e9-9f19-950499dd251d,105cbc52-d65f-45b6-968e-485e46db73ab
+9c03d65c-ed8a-428c-b756-999b251adf0e,2026-04-25 16:49:20,Harum consequatur quam odio voluptate dicta consectetur porro.,FINALIZADO,18afaf54-4382-4d47-8813-063719f900d3,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+e4fd6c34-d670-4a21-a9dc-073e5820b3f2,08/02/2026 10:53,,CANCELADO,62186f4b-1422-4bef-9e38-42616a01977b,f92af541-a5dc-4896-98d1-e3045aa26879
+eaef2ec2-18ec-4e2b-8a80-2167f4b3f20e,25/05/2026 08:00,Vero inventore ullam similique ex eaque atque omnis hic quo.,INSCRITO,7383d496-000e-45d0-9798-5d060397a31d,fcf2c86d-9394-4318-8fa9-60d1af925385
+1c36036f-beba-4619-9b6f-b706e04e6585,2026-02-01 10:12:16,,inscrito,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,6d1675c1-7671-47fd-9814-26123733ef91
+c38c1dec-5da3-4a73-ba3d-f7ff43b47ee5,05/04/2026 14:36,Aliquid amet natus facere enim harum ipsum mollitia repudiandae numquam.,FINALIZADO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+e3239264-2390-4c1d-9129-1d1337b567b4,13/06/2026 13:08,,INSCRITO,85f184e0-b464-4554-b675-299b0c83e786,05306bb7-e728-4b1b-95ea-47a751a248ee
+874db4a6-d057-4b85-af1e-c0de297eb3f4,10/09/2026 01:22,Assumenda ad vero atque alias consequuntur a quo.,CANCELADO,90624fe3-6b82-46c9-982f-b0f1423674a6,480bdb8b-060e-4c8a-a0df-f7096fce4808
+45f3e8a4-c72f-486e-9561-6496e8c44e4c,2025-12-26 19:53:27,Earum atque voluptatem dolore veritatis quos commodi minima.,FINALIZADO,adbafed0-b600-460c-bbdc-fd55304374b3,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+01a6c260-efc0-4273-bd39-7fe7b819b15d,2026-09-08 20:53:35,Numquam dicta architecto corrupti sunt maxime doloribus aut ad magni hic unde.,FINALIZADO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,fcf2c86d-9394-4318-8fa9-60d1af925385
+329fc417-1081-4d45-bf45-f8a20594b24f,2026-10-16 11:52:23,Repellat at sed repellat commodi velit amet unde inventore quam libero.,EN_PROCESO,96060250-ea3e-4f73-884c-1884c88f63d6,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+3d9d542a-a84f-467f-be9e-01a9d18c7fde,2026-01-05 07:44:34,Qui molestias labore enim pariatur vero laudantium pariatur hic possimus autem impedit.,INSCRITO,7dabe929-c4a3-44bf-86cd-75e9bb049a79,9b97d72a-50e9-4d6d-a779-082cecbc0534
+ec4de885-b245-47d9-8849-032c48754d16,2026-01-14 18:23:27,Hic consectetur quibusdam neque rem sed quae itaque cum consequuntur possimus enim corporis.,FINALIZADO,adbafed0-b600-460c-bbdc-fd55304374b3,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+650495b5-9232-48bf-9668-85304bbb2e9a,14/11/2025 23:50,Earum eaque dolorum officiis quo accusamus esse optio saepe sed ipsam accusantium ab., Finalizado ,ba5c875c-d7aa-4208-acff-b0f0f79edc82,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+146e6a4f-2a87-4e02-a2ed-50b9de4cf8bc,2026-02-21 20:07:42,Fugiat eius exercitationem nesciunt labore perferendis aut.,CANCELADO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+a479dce2-77ee-400f-b743-c1045953ff90,26/05/2026 19:38,, Finalizado ,a5b0e526-320b-43f8-88be-3b07662f286b,85c80ede-202c-415a-898d-b8601e47caa6
+1d3ebe5b-f3fa-4150-b429-cf81c3a215ff,08/11/2025 06:26,Saepe earum nihil error vitae animi sequi fugit accusantium fugit ipsam dolore.,CANCELADO,2eb52387-ab9f-4430-98ae-93fbd978673a,ff44577c-b8bf-477a-8e5f-87558f94b50b
+3381001f-a3ff-4fd2-82e4-60aa365bc763,25/07/2026 23:25,Ducimus architecto error mollitia quisquam beatae ex id necessitatibus., Finalizado ,7dabe929-c4a3-44bf-86cd-75e9bb049a79,a02fb007-9b75-4151-b4bf-589bc79e23da
+7a248720-a7e2-4299-abf6-d9150367ee2c,27/04/2026 17:01,Sit vitae nobis laborum nulla voluptate facere perferendis porro hic esse.,CANCELADO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+9b3b5b4c-ff2a-40c0-9ab3-83c9e88188c3,30/10/2026 19:06,Quae repellat a magnam fugit voluptate perferendis consequatur tempora aliquam debitis cumque laudantium.,FINALIZADO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,fcf2c86d-9394-4318-8fa9-60d1af925385
+1036ca81-0bc4-47ba-b0d0-ebcb6949ece5,09/02/2026 14:24,Accusamus sit minima quia quam dolore veritatis sit maxime porro.,INSCRITO,9f93693f-6f00-47c4-b4fd-02f6850567c2,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+12e29c2a-94e4-439d-a9a9-cef71b2375d0,04/05/2026 04:20,Sit adipisci facilis aspernatur aspernatur necessitatibus repellendus corrupti delectus quia quibusdam praesentium error.,FINALIZADO,9015b7c2-4b71-4794-91e0-b53936e53725,f72699ec-6a1e-460d-81cd-81b0c6db0211
+f23d9820-977e-4877-ad6f-4ee3e44e7cd1,2025-12-27 20:29:53,,FINALIZADO,8bb9c912-2286-4c53-b000-e394b870e4e1,40676334-ec79-43be-b96a-fc60ae7078ea
+e272d7ca-7f17-4b55-8076-7e21867772d3,2025-12-05 01:10:46,Nobis quo et rerum qui rem quia vel dolor.,INSCRITO,a60741f3-1075-45b0-b0ac-debe7aa95416,ea75e258-ccc2-44da-84e7-0d70f5521d62
+0b36e356-339b-47a8-8b1f-0d7b0977c513,2026-09-03 05:40:20,Suscipit et est id repellendus labore alias officia.,EN_PROCESO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,40676334-ec79-43be-b96a-fc60ae7078ea
+1acf42c5-f3a0-4120-82d9-43ee51976e75,2025-11-28 19:35:52,Cumque fugiat quasi molestias tempore at nisi nostrum laboriosam adipisci.,FINALIZADO,0b6ec6f3-9efe-4fda-9eed-fcfc3f724926,5044df5c-81b2-499e-9b37-ca07a14d59fc
+5a2d465b-87ce-4aaa-b713-c245f34bfa59,03/04/2026 16:29,Beatae repellat inventore delectus doloribus dolor.,FINALIZADO,ed4d19b8-85dc-4a68-8db5-4088754e64f4,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+a662cb92-4748-4fb3-90a9-6757a8702d97,2026-06-30 07:15:25,Aliquam suscipit illum quisquam libero voluptatibus quae recusandae ullam necessitatibus.,FINALIZADO,9e5cf6e9-9255-4248-b771-f894f2e36355,ff44577c-b8bf-477a-8e5f-87558f94b50b
+f4672866-ed56-42a0-ad54-ff2b10ee4f77,2026-04-19 14:26:05,,CANCELADO,32e4034c-cb34-4cea-9c31-b9301543c8ef,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+9b792afa-2a3d-418d-a754-a29ff143e545,11/10/2026 13:06,,CANCELADO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+6bcce72a-1e69-4c3f-840b-71a6fba13732,08/05/2026 22:26,Libero placeat consectetur quibusdam quos id quas quia repudiandae consectetur vero recusandae commodi.,CANCELADO,cd73de00-81a0-4a05-ace9-da661dcf884c,1f684c50-9e74-4650-a980-f7bd1cd33258
+f4eae769-8366-4189-8d8d-9f751df44d3e,08/02/2026 01:52,Repellat nemo possimus vitae natus quo quidem vero itaque itaque nesciunt ad.,EN_PROCESO,84f32551-5366-4ce2-ad4d-666177bb3654,480bdb8b-060e-4c8a-a0df-f7096fce4808
+0b73ca1c-d1dc-41e5-a9a1-44751958a981,31/01/2026 01:56,,EN PROCESO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+bfda55c9-98fe-44f3-ac40-d95ab1eedf64,2026-02-26 02:08:44,Ea occaecati neque nemo omnis eos qui ad laborum consectetur asperiores quos dolorum.,inscrito,de0279e1-7f9a-4098-8df0-5f2595f19a51,f72699ec-6a1e-460d-81cd-81b0c6db0211
+84f16d9d-af8f-4cf0-851a-9ec71cdde8ca,09/08/2026 19:27,Corporis illum dolore voluptatibus facere adipisci.,EN_PROCESO,2475263c-7854-4014-aded-c86a9f4fb02b,85c80ede-202c-415a-898d-b8601e47caa6
+beccf760-9249-4e3a-b9d1-9c4e1521ad35,2025-11-19 03:36:45,Id assumenda magnam quo consectetur consequatur nam laborum officiis deserunt nulla quasi doloribus.,INSCRITO,2cb8cefc-5814-453f-afec-42754e0e8896,9b97d72a-50e9-4d6d-a779-082cecbc0534
+98abb2e7-8531-4f0f-ba53-312274b79620,22/05/2026 13:07,Inventore placeat consequatur voluptatum laudantium quibusdam cumque tenetur repellat accusantium.,inscrito,ffce6973-7f62-4f26-b6c3-266043710baf,1f684c50-9e74-4650-a980-f7bd1cd33258
+1f76043f-9a16-4853-8692-fe02238c8712,2026-10-03 11:42:58,Eius praesentium repellendus fuga nulla omnis labore impedit deleniti voluptates vero repellat., Finalizado ,e41686cd-6616-4227-9737-14726c167229,1f684c50-9e74-4650-a980-f7bd1cd33258
+394b5d35-df37-4ff8-9532-7432b118cad6,27/10/2026 20:49,Quisquam nobis officia fugiat quaerat quasi fugit odit natus sequi repellat dolore blanditiis.,EN_PROCESO,b6eafff5-782a-4e6b-ac9f-21df74f09af5,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+5e244824-a5cb-4c6e-b5a4-c55bb4629214,20/08/2026 06:06,,FINALIZADO,44becdce-f4d4-45ec-8be4-0e7fc07991d4,3c37bb01-18b0-410e-8eab-f94903f33851
+0df6c527-eb45-4c38-9cf6-5e334b5f174b,25/07/2026 22:49,Temporibus iure officia at magnam debitis nesciunt tempora molestias hic eum ad.,FINALIZADO,ed4d19b8-85dc-4a68-8db5-4088754e64f4,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+ef13864b-9ad2-4b72-b04b-a584b95cec2d,02/09/2026 02:24,,EN_PROCESO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,9b97d72a-50e9-4d6d-a779-082cecbc0534
+cc21cbdb-fb8f-48c4-98b4-8ead93608edf,30/03/2026 20:21,Vel voluptatibus cupiditate dolores et qui facere nihil provident explicabo.,EN_PROCESO,b766ff10-b437-4db5-a511-49bbe060a724,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+1cf98855-719d-454f-81c6-af4013d5ac4f,2026-05-17 11:11:46,,CANCELADO,9f93693f-6f00-47c4-b4fd-02f6850567c2,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+2508f357-474a-4674-ba09-8484f5a7620d,05/12/2025 03:01,Voluptatum delectus harum eum incidunt possimus impedit recusandae ex reiciendis.,FINALIZADO,7f60b9fa-1f12-4a78-a9f9-14845377899a,9b97d72a-50e9-4d6d-a779-082cecbc0534
+abac7bf8-2f4d-4c9b-b334-cd07e6b36561,2026-03-16 12:31:52,At sapiente velit veniam expedita cum., Finalizado ,2eb52387-ab9f-4430-98ae-93fbd978673a,1f684c50-9e74-4650-a980-f7bd1cd33258
+df9d3910-2dbb-45bd-a138-e2e6f013a170,2025-11-12 03:29:33,Autem deleniti adipisci odit harum laudantium numquam nihil.,CANCELADO,32e4034c-cb34-4cea-9c31-b9301543c8ef,40676334-ec79-43be-b96a-fc60ae7078ea
+f2b74922-054e-4d71-b977-fd2f92051da0,2025-11-08 22:05:48,Officia occaecati tenetur voluptate dicta praesentium cumque id inventore ea at facilis veniam.,EN_PROCESO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+32167340-bf95-4f33-8dea-6f5237d7cab3,12/08/2026 13:40,Facere sequi aut quos similique fugiat.,EN_PROCESO,84f32551-5366-4ce2-ad4d-666177bb3654,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+478a943a-ffb2-4fe1-8e75-69bcb99e6f7b,2026-10-07 02:09:22,Distinctio magnam reiciendis sunt veniam odio voluptatem provident earum optio eum.,CANCELADO,bb20e1d5-916b-4b37-8051-ac7c8e48e488,105cbc52-d65f-45b6-968e-485e46db73ab
+3b06dd82-7fab-4b07-9e30-7f1019d56f42,2025-11-19 23:49:08,Molestiae ad reprehenderit enim repudiandae hic facere sit culpa enim modi dolores maxime.,EN_PROCESO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,480bdb8b-060e-4c8a-a0df-f7096fce4808
+f561d900-aa52-4df3-8082-a0eedbe81d7a,25/08/2026 14:31,Culpa assumenda earum voluptatum deserunt nesciunt aspernatur dolor labore explicabo repellat odio in.,INSCRITO,0b6ec6f3-9efe-4fda-9eed-fcfc3f724926,3c37bb01-18b0-410e-8eab-f94903f33851
+42e6918c-25db-4e8d-a534-9425aa69b7f7,2026-06-23 03:04:08,,INSCRITO,a5497863-210f-4de3-853d-82cbe0b89bcb,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+32103c49-1d4f-41c8-a18e-72a78d34dd83,28/09/2026 13:41,Veritatis expedita recusandae iure tenetur officia quos id velit quos magni eaque.,EN PROCESO,1919e93a-d117-45ad-8988-93101c593af5,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+a898dac4-f736-4f7e-b51c-586ac0c3d59e,2026-10-14 14:15:35,Debitis nobis debitis mollitia reiciendis commodi consectetur.,CANCELADO,5497db67-a54b-4b83-b440-cabee0ed4a62,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+8916f0b7-79ba-447e-bb4b-caf86b4a3541,2026-07-25 12:21:55,Vitae ipsa totam necessitatibus reprehenderit natus tempora dicta.,EN_PROCESO,5b336bc8-c255-4659-8f78-15f2af3e7dd9,6aa8b0b5-c494-49bc-8c04-64601f500d19
+19fc8579-acd3-4f62-960f-69fcf6a646ee,2026-02-03 15:49:56,Officiis commodi necessitatibus ipsum sed magnam quos consequuntur molestiae cumque doloribus veritatis vero.,EN PROCESO,a40eecb5-c134-479b-9e3b-7dd373aa881e,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+3d305a07-3690-4edb-9fb9-38e0776ef3e6,05/05/2026 16:52,,inscrito,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+49a214ae-f7e8-48e5-8d2b-91efb8976ec5,2026-06-21 04:13:39,Expedita neque distinctio omnis dolore autem sapiente facilis quis.,EN_PROCESO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+052dfb9a-5f58-4603-a5a3-d8e944c1f1b5,11/03/2026 05:08,Est sapiente similique placeat voluptas dolorem error quia quo.,CANCELADO,b766ff10-b437-4db5-a511-49bbe060a724,85c80ede-202c-415a-898d-b8601e47caa6
+48769153-c688-43fe-9255-5c758d55119e,2026-03-27 20:01:28,Modi facere ea maiores libero atque voluptatem iusto saepe totam fuga.,EN_PROCESO,afe987c1-8fdf-4614-9a09-1fd628215db0,f72699ec-6a1e-460d-81cd-81b0c6db0211
+30d867cd-038d-4f5a-a296-d3f62005dd7e,2025-12-13 11:06:00,,INSCRITO,2eb52387-ab9f-4430-98ae-93fbd978673a,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+6a34c854-1071-4d51-b6c5-9dacb4d7e28e,2026-04-07 07:06:05,Molestiae impedit dignissimos in temporibus nesciunt possimus sequi quisquam fugit.,CANCELADO,4619e5db-cbf5-414c-8652-ab69cbee23b0,a02fb007-9b75-4151-b4bf-589bc79e23da
+b9a01137-63d6-4dd8-95a1-541489953dd1,06/08/2026 04:27,Maxime molestiae distinctio maiores est exercitationem odio.,CANCELADO,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,ea75e258-ccc2-44da-84e7-0d70f5521d62
+f80b2cea-658e-44a2-9879-cf35f4719986,2026-08-27 10:03:15,Adipisci earum voluptatibus laudantium explicabo velit inventore perspiciatis optio assumenda., Finalizado ,4242c225-83e2-465a-b654-0600c8fb4456,a02fb007-9b75-4151-b4bf-589bc79e23da
+9838d168-8d3a-4b2d-881c-5211c9eb597b,08/10/2026 13:01,Labore consectetur ab maiores culpa commodi fugiat quasi amet quas voluptate.,CANCELADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+3de8a4cd-6e15-4527-be2a-0cbc927ae04e,03/06/2026 19:52,Deserunt officia repudiandae reiciendis neque consectetur odio voluptate cupiditate temporibus maxime.,CANCELADO,8bb9c912-2286-4c53-b000-e394b870e4e1,6d1675c1-7671-47fd-9814-26123733ef91
+9dd3c15a-9417-40f5-aaff-96ffb9046b52,2025-12-26 03:55:49,Optio reprehenderit quasi repudiandae quasi accusamus tempore ut libero et.,inscrito,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,105cbc52-d65f-45b6-968e-485e46db73ab
+6e5b9598-a8f0-43e0-af36-9832611b92ab,2026-05-25 19:11:04,Optio adipisci quis vel tenetur quidem.,EN_PROCESO,f38b2ffc-80a4-4f5a-91c9-bc701e7ea419,6d1675c1-7671-47fd-9814-26123733ef91
+c2874f06-9050-47ef-8123-5c9176c5a0dc,2026-06-13 01:02:02,,EN_PROCESO,2475263c-7854-4014-aded-c86a9f4fb02b,3c37bb01-18b0-410e-8eab-f94903f33851
+5b9a289a-b58d-4c59-abe0-c8c1ae38cf46,13/01/2026 09:01,Repellendus numquam repellat dolore voluptatem voluptas alias., Finalizado ,2475263c-7854-4014-aded-c86a9f4fb02b,40676334-ec79-43be-b96a-fc60ae7078ea
+9f80b96b-b34e-456a-895b-61f8032a461a,2026-06-16 04:36:21,Quos beatae corrupti necessitatibus nesciunt vitae aut autem quod ratione sint sunt.,INSCRITO,18afaf54-4382-4d47-8813-063719f900d3,9b97d72a-50e9-4d6d-a779-082cecbc0534
+c686e251-8a88-44c7-a29d-e722956b212f,2025-12-26 13:19:13,Iusto nobis enim voluptas maxime omnis corporis.,EN_PROCESO,d9814559-3a9a-4a39-a261-e34a7b6bc3c6,3c37bb01-18b0-410e-8eab-f94903f33851
+5cc624ef-0464-4f52-99c0-99f6fe709416,2026-06-04 20:25:38,Vero ullam animi expedita sed sint reprehenderit eos corporis sequi voluptas totam.,CANCELADO,2eb52387-ab9f-4430-98ae-93fbd978673a,480bdb8b-060e-4c8a-a0df-f7096fce4808
+e57c5c02-ba85-4403-ac80-444be5d136e2,09/04/2026 20:33,Saepe nisi corporis esse voluptates minima excepturi.,INSCRITO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+57076494-05f4-449b-af10-b6ccdcaa5994,2026-04-18 17:17:51,,CANCELADO,cd73de00-81a0-4a05-ace9-da661dcf884c,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+e914ae70-f797-4ec8-a41e-f111d94296b6,2025-12-17 03:39:02,Vel aut dolore repudiandae consequuntur voluptatibus similique quam dolorem at.,INSCRITO,17d6af8f-f423-48be-8141-82233b38c237,85c80ede-202c-415a-898d-b8601e47caa6
+2cf72140-bd9b-4648-a876-1e85bddfa03a,2025-12-16 09:17:22,Provident praesentium cum veritatis minima quos.,EN_PROCESO,d7a7a3cc-8c3d-4f16-9293-de8fc88b2875,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+ad3d581e-8422-4f58-b022-54affb764637,2025-12-21 13:00:48,Quam itaque quae minima a ut porro nisi.,CANCELADO,5b4c8012-ede7-4d0c-bfb8-8309fadb8908,40676334-ec79-43be-b96a-fc60ae7078ea
+c1785e77-ec3b-4258-b943-375e141b9098,23/08/2026 20:59,,FINALIZADO,975cef7a-2765-4f91-abb5-3283ce107503,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+6808f471-ac87-4e14-b850-5ae9cac19d2e,2026-02-10 01:29:55,Quam voluptates velit similique odio odit neque alias quia deleniti possimus quo.,EN_PROCESO,89be9c1c-8eb5-440f-96f4-488157241955,3c37bb01-18b0-410e-8eab-f94903f33851
+0c880714-8372-47e0-a570-46ea5b11f51f,2026-07-20 23:48:23,Ea voluptatibus adipisci illo iste quibusdam dolorum iure rem.,CANCELADO,5497db67-a54b-4b83-b440-cabee0ed4a62,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+29a3b2e9-5d65-4441-9588-42dea2bc372f,23/03/2026 18:20,Distinctio eaque vel officia non cupiditate quas cum fugit voluptatibus.,INSCRITO,f57585ce-039e-457a-a041-f10e325abdec,6d1675c1-7671-47fd-9814-26123733ef91
+a67ac70a-d175-4cd1-9d69-cf6b76b35303,2026-03-28 09:26:19,Odio ipsum accusamus blanditiis commodi odit tenetur dolore nesciunt.,CANCELADO,62186f4b-1422-4bef-9e38-42616a01977b,6aa8b0b5-c494-49bc-8c04-64601f500d19
+a9d52401-41e1-408c-8bb3-fbb2fd6314f2,2026-05-07 22:26:46,,inscrito,5b4c8012-ede7-4d0c-bfb8-8309fadb8908,105cbc52-d65f-45b6-968e-485e46db73ab
+9baa0785-38f2-47f0-b831-4c26b23f4738,04/10/2026 22:12,,inscrito,93550840-067f-4cfc-8e1f-d3d9849acfb5,a02fb007-9b75-4151-b4bf-589bc79e23da
+5e8c8bbf-8f1c-4f8c-b1ae-8af92826a561,23/10/2026 22:50,Nobis illum blanditiis nemo aliquam corrupti fuga.,FINALIZADO,8bb9c912-2286-4c53-b000-e394b870e4e1,ea75e258-ccc2-44da-84e7-0d70f5521d62
+b1299cb7-8b24-4c7e-8e4d-db723e6a41f1,11/02/2026 20:52,Molestiae accusantium aliquid molestias aut suscipit impedit a dolore dolorem harum explicabo enim ullam.,EN_PROCESO,adbafed0-b600-460c-bbdc-fd55304374b3,6d1675c1-7671-47fd-9814-26123733ef91
+cf9b8558-1a7f-495b-b355-7b9d0fd6f47e,15/10/2026 04:28,Voluptatem assumenda officia aliquam provident voluptatibus minima non facilis ullam.,INSCRITO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+d73d52ba-ca17-41d0-97c7-68d6114a9827,2026-01-14 04:37:05,Commodi magni explicabo laboriosam nulla delectus consequuntur aliquid consectetur nesciunt maiores officiis facere.,EN_PROCESO,f5ee8c72-98e6-45b7-a1cd-7be8a7d83351,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+2320de16-15ac-40e4-a2c2-3308fd7ee75c,07/07/2026 10:08,,INSCRITO,265c28ea-0879-4955-825f-f87c44df8a13,ff44577c-b8bf-477a-8e5f-87558f94b50b
+070077c1-b1f9-4a09-b408-f64653a71719,22/08/2026 22:07,,CANCELADO,aa220078-503d-486b-8150-4585279e6933,480bdb8b-060e-4c8a-a0df-f7096fce4808
+3e493f43-b118-468d-a786-d50638ba8abc,26/02/2026 22:02,Fuga mollitia exercitationem voluptatum mollitia explicabo iste esse dolorem quam et quia veritatis.,EN_PROCESO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+6cd66193-c746-4f59-9b49-4e15e2add909,23/01/2026 23:44,Rem possimus iure nam totam commodi consequatur iure.,EN_PROCESO,b6eafff5-782a-4e6b-ac9f-21df74f09af5,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+26c0747e-bf8e-4bfa-a0c9-da72368acd40,23/10/2026 06:02,,EN_PROCESO,8c1f6387-11cb-4ea7-b5fc-684aadb21095,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+bc5fd4dd-d92f-4c1e-9f70-fb2a78bb22a5,2026-08-09 11:52:44,Provident maxime natus voluptatum laboriosam fugiat.,INSCRITO,a55c9c8e-2f7c-4cc7-8d64-a752b8ec796e,ea75e258-ccc2-44da-84e7-0d70f5521d62
+c9535b63-ba81-4dd9-987e-f3446f3f920c,2026-03-01 19:41:04,Non maiores harum nemo ducimus provident a unde modi quaerat quia.,inscrito,8350a73f-7aac-419f-bb75-9e0fed1d9d16,ea75e258-ccc2-44da-84e7-0d70f5521d62
+955d3078-2344-4519-acc3-85552b9b4ffc,2026-04-27 21:58:37,Commodi similique quidem suscipit vitae impedit ipsum.,CANCELADO,975cef7a-2765-4f91-abb5-3283ce107503,3c37bb01-18b0-410e-8eab-f94903f33851
+ab86bafd-b57e-4883-9258-6d9016b6bf61,06/07/2026 04:52,Ipsum eaque dolorum architecto ducimus autem a harum quasi voluptas.,INSCRITO,4242c225-83e2-465a-b654-0600c8fb4456,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+4d45d885-d2e0-4e57-a6cb-1dda13a0181b,14/05/2026 23:34,Inventore molestiae dicta illo numquam iste quis debitis accusantium.,INSCRITO,8bb9c912-2286-4c53-b000-e394b870e4e1,038d04fb-1018-47f5-8191-590c42c79c1c
+5ce9dbbc-a252-41f3-b30b-c657b4cb4613,2025-12-03 03:06:52,Provident quas voluptate nostrum cum mollitia aliquam cupiditate excepturi sit sint cum.,CANCELADO,a5497863-210f-4de3-853d-82cbe0b89bcb,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+35f5c654-10c2-42e5-a07e-afb101e06ad8,18/07/2026 07:58,Quo sint incidunt aut modi praesentium voluptate quod officia velit quia corrupti itaque ex.,CANCELADO,a5f27419-0b94-4014-ac61-93ccebe48123,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+b54468e4-1f2d-4344-a359-666799714b2b,16/12/2025 14:16,Sequi consectetur omnis tempore necessitatibus voluptas tempore.,inscrito,e4163207-d094-4996-82f0-ee99731c9452,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+bd9f82d7-30b0-4a0b-b19d-1860f8f40e49,2026-09-12 08:00:09,Libero minus maiores asperiores ipsa magni natus hic non dignissimos a.,inscrito,bb20e1d5-916b-4b37-8051-ac7c8e48e488,9b97d72a-50e9-4d6d-a779-082cecbc0534
+e9d18ec2-33bc-48a9-871d-45640992b886,05/12/2025 23:07,Magni reiciendis temporibus culpa excepturi laboriosam soluta est eveniet quo atque.,CANCELADO,376f5364-89d3-4078-8ab3-9a0792845dae,038d04fb-1018-47f5-8191-590c42c79c1c
+9642b052-5379-4279-8cb5-062589a06a99,09/11/2025 00:36,Quos ullam corrupti veritatis ex occaecati nobis non sint voluptatem dignissimos hic modi.,FINALIZADO,ea9e7ab5-730b-49dc-a577-c324694baad6,038d04fb-1018-47f5-8191-590c42c79c1c
+b7363ad9-79a8-426b-9ced-70172518ec09,2026-03-22 19:34:42,Accusantium vitae non sapiente optio velit porro ratione dolores.,EN_PROCESO,5071950e-adec-4f11-bd83-6e77af67d461,a02fb007-9b75-4151-b4bf-589bc79e23da
+8fe069b6-eeda-4802-8568-f42689e03e22,28/07/2026 08:47,,EN_PROCESO,b6eafff5-782a-4e6b-ac9f-21df74f09af5,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+551ac8ea-585a-4afa-bbfd-cc1289e06ab3,02/06/2026 08:14,Fugiat ut sit voluptatem dolores fugit sequi illum et labore totam fugit.,INSCRITO,b14ab8e9-e041-4118-991f-77c9f551abfd,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+e8956041-1e71-4fa9-b815-c7df0f2c01b7,06/02/2026 06:14,Architecto pariatur quidem quos ullam dignissimos.,INSCRITO,fa97002c-fcba-4167-b5a9-ca5fedf165da,3c37bb01-18b0-410e-8eab-f94903f33851
+f21f9823-f23b-4efb-8bd1-8d4a4cf41edd,2026-05-20 17:33:37,Omnis ipsam neque possimus minima voluptates explicabo modi distinctio.,EN_PROCESO,89be9c1c-8eb5-440f-96f4-488157241955,105cbc52-d65f-45b6-968e-485e46db73ab
+f1fac6e7-170d-4507-85ee-e1d47f53a88e,2026-04-01 17:16:58,Itaque dolores nesciunt aliquid eligendi nisi sapiente perferendis enim ab autem consequatur.,INSCRITO,a55c9c8e-2f7c-4cc7-8d64-a752b8ec796e,09bb1454-9d7a-41cb-b6d6-e11fa79b8a2e
+ac117bab-d664-4fe8-a21c-0c06ed376567,16/06/2026 16:07,,CANCELADO,1b252869-2bd8-4f21-afa1-2947f472bb69,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+e724b119-af2f-42a7-a0b6-d43cfbf3a106,2026-02-24 16:00:41,Minima eos aliquid asperiores aliquid autem incidunt atque optio.,INSCRITO,0b6ec6f3-9efe-4fda-9eed-fcfc3f724926,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+03edd1f8-74f9-4d17-a912-b4bf86a4bae4,2026-08-07 13:39:52,,FINALIZADO,e5121482-3929-4d22-a255-accb1a466884,038d04fb-1018-47f5-8191-590c42c79c1c
+474ebc19-2ef9-4276-ac00-6f6123e2fcb4,2026-04-28 16:00:22,Soluta asperiores repellat sequi atque officiis molestiae accusamus at.,INSCRITO,59001ac9-4063-49bc-a5b0-0a2d35d14880,9b97d72a-50e9-4d6d-a779-082cecbc0534
+24f43c62-b523-40de-9b87-d29c4cfd0fc1,08/09/2026 22:22,Totam natus voluptas nam consequatur doloribus dignissimos officia ullam sed at.,CANCELADO,7776c655-7c4e-4248-b151-5fff42969a50,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+f319c125-07f1-44f9-8115-6d6d0a4e5b70,04/02/2026 00:50,Saepe numquam dolores labore beatae veniam iure ducimus.,EN_PROCESO,d9090b89-0655-4096-8f1a-8a1d93d20470,fcf2c86d-9394-4318-8fa9-60d1af925385
+67e6d49a-3c73-413b-99ea-5bbdafd5b90b,31/01/2026 14:49,Corrupti adipisci reiciendis est laborum voluptatibus in.,EN_PROCESO,ea9e7ab5-730b-49dc-a577-c324694baad6,40676334-ec79-43be-b96a-fc60ae7078ea
+b648be8a-c4e7-45b9-adca-365a2504fd28,19/11/2025 22:14,Est quas vero enim debitis tempore vero a quisquam accusamus libero.,CANCELADO,afe987c1-8fdf-4614-9a09-1fd628215db0,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+ee4205ee-a52f-43ec-ab4e-2281b184d1fc,2026-01-06 06:39:55,Cumque enim deleniti sapiente nulla sint veritatis laborum deserunt fugit natus officiis illum.,FINALIZADO,265c28ea-0879-4955-825f-f87c44df8a13,9b97d72a-50e9-4d6d-a779-082cecbc0534
+73b0d676-3527-45c8-8534-ca08f6f24d1c,27/02/2026 17:38,Eaque blanditiis culpa placeat repudiandae possimus aliquam saepe eveniet at dolorum.,CANCELADO,f1f02f49-c500-49ab-af3e-41445a789b32,1f684c50-9e74-4650-a980-f7bd1cd33258
+b07aa066-7354-45ea-a894-9b8d00af5b3a,18/06/2026 14:43,Eos doloremque provident praesentium iste porro unde ratione numquam optio ut incidunt.,INSCRITO,a5b0e526-320b-43f8-88be-3b07662f286b,05306bb7-e728-4b1b-95ea-47a751a248ee
+f83f5274-0cb4-4fe1-a6f3-41c804f718c8,26/05/2026 18:17,,FINALIZADO,14aa4e71-9d3c-4dec-80a6-1f933d6c51e3,f72699ec-6a1e-460d-81cd-81b0c6db0211
+d6a6e618-4eb1-4c88-83b6-3613a89f5f9d,2026-10-16 13:31:21,Perferendis a tenetur adipisci ad ratione sapiente maxime qui et cupiditate.,CANCELADO,adbafed0-b600-460c-bbdc-fd55304374b3,05306bb7-e728-4b1b-95ea-47a751a248ee
+c7affa24-b9ef-4fa8-bec8-fe58d7282d30,2026-09-09 10:41:34,Quo omnis eius vel occaecati odit neque aut itaque nisi.,EN_PROCESO,24114258-751b-4c83-89a0-47dc4ac87fc0,f92af541-a5dc-4896-98d1-e3045aa26879
+540e7d01-735d-48f3-bc61-66df515a6b43,2026-06-27 08:43:40,Possimus corrupti necessitatibus repellat vero cumque et quos quae.,CANCELADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+f6b2e778-fe50-4d4d-a93a-60beb7f330ad,2026-05-13 19:26:11,Voluptatibus non minima quisquam ipsum consectetur enim numquam velit aliquam quae placeat.,FINALIZADO,b3618e1c-a06d-4a69-9f3c-42b2e2cbbb93,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+4bacbedf-ff5a-429e-bf53-d344a7c854e4,08/02/2026 18:01,Illo qui nesciunt voluptatum repellendus exercitationem quae placeat odit labore velit.,EN_PROCESO,88736737-6ce4-448f-85d6-ac4263d52b10,5044df5c-81b2-499e-9b37-ca07a14d59fc
+35d5f4e5-1389-4a70-a02c-bed2f58f41b0,24/07/2026 22:26,Fugiat et tenetur repellat debitis ab debitis necessitatibus non adipisci voluptate.,INSCRITO,376f5364-89d3-4078-8ab3-9a0792845dae,105cbc52-d65f-45b6-968e-485e46db73ab
+c190b0cf-9736-4b4f-b5c8-ce3ceee31d47,2026-03-25 22:27:09,,EN_PROCESO,5b4c8012-ede7-4d0c-bfb8-8309fadb8908,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+ed850a6d-7542-4851-b2a2-4da42537e0d6,04/03/2026 08:38,,EN_PROCESO,1b252869-2bd8-4f21-afa1-2947f472bb69,480bdb8b-060e-4c8a-a0df-f7096fce4808
+e57c5c02-ba85-4403-ac80-444be5d136e2,09/04/2026 20:33,Saepe nisi corporis esse voluptates minima excepturi.,INSCRITO,b2c55523-807c-4e30-a598-d0dbccbfd2ec,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+da143a47-7823-41d9-994d-f188816ce054,11/05/2026 13:30,Asperiores laudantium dolores voluptas amet dolore officia illo.,CANCELADO,f3f49249-dc28-4f90-a5ae-c7978306d03b,85c80ede-202c-415a-898d-b8601e47caa6
+8dab66d3-3f87-4fc2-9591-52f2a505da9c,2026-06-21 09:43:02,Quam eligendi velit ad sed soluta dignissimos non deleniti hic officia quos recusandae.,EN_PROCESO,4619e5db-cbf5-414c-8652-ab69cbee23b0,3c37bb01-18b0-410e-8eab-f94903f33851
+7fd238c3-3ee8-4983-9557-424191ddb9bf,01/06/2026 20:21,Ducimus reprehenderit vitae odit laudantium cumque recusandae cumque quam laborum.,FINALIZADO,12cc86e3-e344-41c3-a3ac-4f141b2b980e,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+33daefc1-0d47-426d-9ef7-a52ee645bb00,2026-02-01 01:26:52,Nesciunt laudantium quibusdam harum beatae aperiam iure illum laborum illum doloremque suscipit eaque.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+2c471336-4006-4add-b16c-00bcec1f0155,15/01/2026 20:20,,FINALIZADO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,40676334-ec79-43be-b96a-fc60ae7078ea
+7c93cdc3-d635-412d-92fe-00e8b63fa809,14/12/2025 09:33,Nisi eveniet atque ipsum est illo nisi placeat nisi reprehenderit eveniet officia aperiam.,FINALIZADO,b7a1774f-1a42-421e-aba4-c70ee306f0c4,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+9c425665-ff3c-43a6-b575-44ee3d365abf,23/06/2026 16:30,,FINALIZADO,93550840-067f-4cfc-8e1f-d3d9849acfb5,480bdb8b-060e-4c8a-a0df-f7096fce4808
+8dcd6e9b-39d2-474a-b1a7-1782d751af9c,07/04/2026 04:08,Voluptates incidunt sequi tempora rem vel facilis accusamus perferendis.,EN_PROCESO,2475263c-7854-4014-aded-c86a9f4fb02b,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+1578d709-48f9-43d0-9fea-e1e0d9e604b3,2026-08-23 08:45:51,,CANCELADO,4a41f8e4-d4d6-4278-889b-5123e842997d,5044df5c-81b2-499e-9b37-ca07a14d59fc
+aeb0b110-ac13-4249-90d2-2d54bd22f7fc,22/06/2026 04:06,Cupiditate nihil quia consectetur ut sequi sunt quas earum sed ad voluptas perspiciatis.,EN PROCESO,2eb52387-ab9f-4430-98ae-93fbd978673a,038d04fb-1018-47f5-8191-590c42c79c1c
+ea8b31f5-ccae-48fe-94eb-8e20af7c7d2b,10/10/2026 21:02,,EN_PROCESO,5b74c718-a2aa-416a-81f6-192bab215122,105cbc52-d65f-45b6-968e-485e46db73ab
+b74d0fb1-32e7-4629-8fad-c1a606cb0fb3,2026-07-10 09:21:43,In ipsum eius sit quis cum in eius dolor quis aut fugit.,EN_PROCESO,2341bbbe-f4e2-4a68-a505-88a5845074a1,fcf2c86d-9394-4318-8fa9-60d1af925385
+3ffaea11-b846-4295-9f8d-b15703d06453,11/09/2026 14:11,Asperiores consectetur debitis aliquam expedita omnis.,INSCRITO,a5497863-210f-4de3-853d-82cbe0b89bcb,85c80ede-202c-415a-898d-b8601e47caa6
+e5304b87-8e48-4bc0-a9c5-0d692c6cdb5a,28/07/2026 11:45,Quis modi ratione officiis aspernatur adipisci rerum perferendis perferendis explicabo repellat repudiandae.,CANCELADO,8c53765f-4ec0-4954-bf8b-2a6aab74fe57,038d04fb-1018-47f5-8191-590c42c79c1c
+80fb9296-73b6-409b-9bea-f6ac97fa7f04,25/01/2026 00:59,,INSCRITO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,05306bb7-e728-4b1b-95ea-47a751a248ee
+a4a5c736-ae59-4a52-a65b-e22bd5a386d9,2025-11-25 16:14:14,,CANCELADO,adbafed0-b600-460c-bbdc-fd55304374b3,6aa8b0b5-c494-49bc-8c04-64601f500d19
+7c0e8cd8-8573-4793-8715-b2b9c40c5d91,01/07/2026 09:43,Earum aspernatur enim earum eum molestiae consequuntur doloremque possimus.,INSCRITO,85f184e0-b464-4554-b675-299b0c83e786,1f684c50-9e74-4650-a980-f7bd1cd33258
+15f2f85a-754a-4e48-a5b1-3afdaf2c20ac,2025-11-04 00:11:29,Consequatur eum possimus porro quae provident quasi ducimus atque animi ex doloremque.,FINALIZADO,d4f398ee-4b5c-4a95-b3d9-18086edd77d8,6d1675c1-7671-47fd-9814-26123733ef91
+aad53fb8-a762-459c-8e9e-592936308a60,22/05/2026 03:49,Velit sit modi qui doloremque asperiores quasi laborum accusantium tenetur nulla.,INSCRITO,fa97002c-fcba-4167-b5a9-ca5fedf165da,5044df5c-81b2-499e-9b37-ca07a14d59fc
+512339fa-aa61-432f-88e1-624eb506c24d,2026-03-13 12:53:11,Fuga molestiae cum error ullam illo libero.,FINALIZADO,79dcbc81-82a8-4712-868c-8f90069a306f,f92af541-a5dc-4896-98d1-e3045aa26879
+a00f230b-5afa-4fb3-9a16-f9d9af2f0773,2026-02-25 09:53:04,Voluptatum voluptatem eius aperiam ducimus harum voluptatum voluptatibus velit.,FINALIZADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,f72699ec-6a1e-460d-81cd-81b0c6db0211
+65a674c2-1273-4a23-9aaa-b32fce6322b6,30/09/2026 16:13,,INSCRITO,d61b5e08-eea3-4d4e-8bed-5b6594a4d29c,85c80ede-202c-415a-898d-b8601e47caa6
+e54c8739-3133-439e-ae7d-952b785b8a07,2026-09-22 19:42:52,,inscrito,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,038d04fb-1018-47f5-8191-590c42c79c1c
+b4fbdaf2-b43c-4851-a78d-cf327e2a9f73,2026-06-23 08:34:50,Ab voluptates odit beatae eius magnam cupiditate deserunt.,FINALIZADO,5497db67-a54b-4b83-b440-cabee0ed4a62,6aa8b0b5-c494-49bc-8c04-64601f500d19
+4bb13407-730a-47de-a7af-bff987f89f62,14/09/2026 05:32,Molestiae iste quod magni quasi sunt nulla facilis nulla.,FINALIZADO,62186f4b-1422-4bef-9e38-42616a01977b,ea75e258-ccc2-44da-84e7-0d70f5521d62
+8f06c963-e656-44ac-9e54-a1755b429d0e,2026-09-27 10:27:57,Reiciendis ipsa numquam soluta necessitatibus consectetur maxime.,CANCELADO,86f9fa21-1ebf-4deb-b1d0-2f517b67cfa6,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+620f230b-439e-454c-a930-16eae0bda1ee,2026-07-12 07:03:48,Nemo labore cupiditate illo nulla perspiciatis illo id soluta porro aliquid labore.,CANCELADO,5071950e-adec-4f11-bd83-6e77af67d461,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,2026-03-17 14:17:33,Illum sint amet officiis officia aperiam quas reiciendis autem deleniti modi.,INSCRITO,62186f4b-1422-4bef-9e38-42616a01977b,a02fb007-9b75-4151-b4bf-589bc79e23da
+163b5481-284e-4cd4-b9c3-ee050012d399,15/02/2026 03:55,,INSCRITO,5071950e-adec-4f11-bd83-6e77af67d461,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+40b55023-2a32-4553-b370-8a7e68fc0e45,2026-01-19 12:50:52,Aliquid ad odit perferendis iure exercitationem id deserunt alias dolorum quae consequatur.,CANCELADO,4619e5db-cbf5-414c-8652-ab69cbee23b0,3c37bb01-18b0-410e-8eab-f94903f33851
+2cf6073b-d500-4147-8774-3c94f5c9f459,2026-01-14 08:21:22,Rerum ullam laboriosam labore alias consequatur culpa itaque sint tempore.,CANCELADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+3227e8d8-9c60-481b-8119-1aa71b61d453,2026-01-11 20:01:52,Ut hic itaque quos quaerat autem impedit.,FINALIZADO,b093e3b4-7df2-4c58-9c56-dc87f32efa03,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+fdde64af-a75b-495a-94a3-4f7fd90dd19b,2026-09-29 07:10:56,,EN_PROCESO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+78d8cdd6-490a-486c-b644-29395256f928,16/02/2026 19:16,Aut delectus veniam facilis esse atque accusamus mollitia similique ex qui facere quod.,CANCELADO,36de6548-d90e-413a-9835-7aebd0ef5c36,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+167b6ea0-2945-4370-a713-72ab34cb7b9a,06/06/2026 10:50,Sed alias voluptatem magni facilis molestias in veniam a.,FINALIZADO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,1807dfaf-1f7e-4273-8f56-d48f05e1ddfb
+20d1968f-0b8c-421f-9728-9c5e0734a403,21/09/2026 00:47,Expedita quia ad tempora exercitationem atque exercitationem facere expedita optio.,INSCRITO,6bad6be2-8e7a-46e9-9f19-950499dd251d,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+33daefc1-0d47-426d-9ef7-a52ee645bb00,2026-02-01 01:26:52,Nesciunt laudantium quibusdam harum beatae aperiam iure illum laborum illum doloremque suscipit eaque.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+bc343d5d-df9e-4425-ba76-28e67394d796,2025-12-21 20:24:05,,EN_PROCESO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+6ab19e15-ba92-492e-84f8-b53c52246d05,22/06/2026 22:48,Deleniti distinctio reprehenderit qui quis sint reprehenderit.,FINALIZADO,e01c683e-99a4-4df0-9de3-a361c0099eba,105cbc52-d65f-45b6-968e-485e46db73ab
+8f63c2bb-ae41-4155-80bf-6f6b9d4d0658,2026-10-08 23:06:23,,CANCELADO,5ec0c260-7f98-40a6-a73c-49ea44371ff3,b7158e9c-bc42-413d-8ec0-e2e25b37a699
+d6d24227-2d5c-4a61-a302-1daa5ba3a49c,25/08/2026 05:57,Commodi fuga deserunt ab quia quis.,EN_PROCESO,e5121482-3929-4d22-a255-accb1a466884,a02fb007-9b75-4151-b4bf-589bc79e23da
+9ff0287a-4d33-4878-afe9-c3dcaad26db6,2026-09-13 12:14:06,Expedita aut totam optio ut repellat quae asperiores a.,FINALIZADO,f1f02f49-c500-49ab-af3e-41445a789b32,6d1675c1-7671-47fd-9814-26123733ef91
+c66dceb3-4494-4e09-9d3c-a5a4929d6377,2026-05-29 22:06:59,Molestiae quidem quis ipsam dolor incidunt quasi officiis dolorum soluta.,CANCELADO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,ea75e258-ccc2-44da-84e7-0d70f5521d62
+057d4e28-3a4e-4920-b8b1-f902e05f039c,27/10/2026 15:50,Ad quos deserunt non fugit placeat.,INSCRITO,32e4034c-cb34-4cea-9c31-b9301543c8ef,1f684c50-9e74-4650-a980-f7bd1cd33258
+b3e1511b-2128-44c5-b94e-485d5b182716,2026-07-20 00:31:59,,CANCELADO,2341bbbe-f4e2-4a68-a505-88a5845074a1,f72699ec-6a1e-460d-81cd-81b0c6db0211
+8ea035f0-49cc-453f-b469-3ec45c7ae8ef,07/08/2026 10:48,Aspernatur laudantium harum itaque quasi porro.,FINALIZADO,70eb9a0a-9626-4ae6-85e8-18fac0433cbd,ff44577c-b8bf-477a-8e5f-87558f94b50b
+e8bcd007-747c-4690-bec8-f48e6d283989,2026-07-08 12:56:33,Aut minima quas repellat nobis fugiat accusantium repudiandae quis officia aliquam.,FINALIZADO,bef7e268-ffe9-46ab-a058-1ccace1d62e0,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+21c57a88-77d4-48ea-a0bd-d76556d44952,04/12/2025 19:34,Quae inventore ea et voluptatem libero voluptate eligendi facere inventore.,CANCELADO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,ea75e258-ccc2-44da-84e7-0d70f5521d62
+9f64eeed-5c9d-427d-84b8-71bb300568d2,2026-08-20 18:33:40,Numquam quis dignissimos molestias unde ipsa praesentium commodi voluptate non dolores culpa.,INSCRITO,aa220078-503d-486b-8150-4585279e6933,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+7986f498-b52f-40c9-99ee-96788112f0ff,22/03/2026 07:40,Delectus perferendis autem rerum voluptatem incidunt maiores illum quis et iure maxime libero.,EN PROCESO,9e5cf6e9-9255-4248-b771-f894f2e36355,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+9979ba46-f580-4b59-b5b5-68d735eb728f,07/03/2026 13:26,Totam consequatur ullam non a ab.,CANCELADO,a40eecb5-c134-479b-9e3b-7dd373aa881e,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+93424e7c-0922-488d-a522-8d310d9a6fce,2026-02-11 08:57:39,Aperiam aut dolorem nulla quaerat hic aut quasi sunt.,FINALIZADO,e1f66c3a-c910-4f89-b7fe-43eb87a9ec13,85c80ede-202c-415a-898d-b8601e47caa6
+d86d655d-4cd9-4164-81df-62f45bc677ca,2026-01-05 00:23:25,,EN_PROCESO,66e61127-e26b-424a-8e0d-8d877a98b9ac,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+da587e8a-a25d-4b29-afff-cfd2341ef40b,10/02/2026 12:30,Laborum temporibus sapiente at incidunt eius a quo odio ea qui mollitia.,EN_PROCESO,7dabe929-c4a3-44bf-86cd-75e9bb049a79,ea75e258-ccc2-44da-84e7-0d70f5521d62
+38c5ef5e-4359-4f43-9067-93b61690636b,2026-03-24 00:26:02,Non quam ut id omnis enim vitae.,INSCRITO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+dfd23d15-7211-4575-ba3e-fd034edeae5f,05/06/2026 21:12,, Finalizado ,b766ff10-b437-4db5-a511-49bbe060a724,105cbc52-d65f-45b6-968e-485e46db73ab
+dd34aa18-9001-4ed4-8bb4-01e769f753f1,2026-01-24 22:25:26,Accusamus mollitia nesciunt quam eos deserunt dolorem.,INSCRITO,47cd07f7-b74c-490a-9eeb-ba4e1c14df92,6d1675c1-7671-47fd-9814-26123733ef91
+3f8c93d4-c32a-4c4a-b148-b2a6ea7917e1,2026-02-14 06:05:54,,EN_PROCESO,265c28ea-0879-4955-825f-f87c44df8a13,85c80ede-202c-415a-898d-b8601e47caa6
+6d9c5b50-a1fd-4187-9c3a-1e0bb5f3f8aa,03/01/2026 11:03,,INSCRITO,4242c225-83e2-465a-b654-0600c8fb4456,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+2e0e6673-ced7-4d17-be14-c5957f6bf62c,09/10/2026 04:20,,CANCELADO,d8b6dd5b-5a19-47d0-86f5-94cff6111cf2,328bf8ae-57ad-457d-b4f0-31fc8acaca45
+f165d779-0154-4950-976d-e21f1b46ebdc,27/02/2026 17:15,Facere earum consequatur deleniti ipsum mollitia illum ad explicabo at nisi.,CANCELADO,33288e16-ebe8-4fa9-9c24-c1ae7d510557,ba24f8b8-4a20-4268-949e-cc0ab1ff38d8
+35fab528-2ad3-436f-a338-17fab9db1388,2026-06-12 09:05:21,Amet eaque reprehenderit amet iure labore labore veniam ullam doloremque.,EN_PROCESO,ce918208-8520-4f0c-a606-799cced8c284,e7a82c20-e5e6-4f0c-9dd2-84e869616452
+3d8925a9-25d2-47d0-b665-87075d411ac5,2025-12-28 10:30:24,Sapiente illum similique tenetur odio sapiente eaque enim cum.,INSCRITO,9f93693f-6f00-47c4-b4fd-02f6850567c2,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+20363a73-1b7e-4502-8a9d-8831894e7397,2026-05-08 11:01:30,Et nam officia expedita tempora quasi accusantium fugiat.,FINALIZADO,2341bbbe-f4e2-4a68-a505-88a5845074a1,a02fb007-9b75-4151-b4bf-589bc79e23da
+75a09875-56db-47ac-902a-73aeb81e1682,04/08/2026 17:58,Eius quis esse hic totam officia fugiat.,FINALIZADO,aa220078-503d-486b-8150-4585279e6933,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+215d3b1f-a8cd-444d-bb74-244017db4c2f,2026-10-16 07:06:26,,CANCELADO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,50a22a1b-59ad-4533-9b81-3e24efa4f9f1
+6e4928ac-19f1-45cc-8244-e4d75ac2a176,10/05/2026 02:12,Assumenda maiores corrupti commodi laborum culpa omnis dolorem.,INSCRITO,e1f66c3a-c910-4f89-b7fe-43eb87a9ec13,ea75e258-ccc2-44da-84e7-0d70f5521d62
+f99f0704-20f0-456a-9e6a-66289c6d52d5,07/12/2025 13:08,Fuga voluptates nam facilis corporis nobis illo aliquam aliquam quae rem.,CANCELADO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,f72699ec-6a1e-460d-81cd-81b0c6db0211
+32ce93db-b58f-47b6-9eda-028be2320dc9,12/12/2025 23:28,Eligendi consequatur in ex adipisci pariatur veniam vero.,EN PROCESO,7776c655-7c4e-4248-b151-5fff42969a50,d11ad49d-f272-42ef-8ab8-bd1063989ab9
+569f3ab3-c643-4300-a8a5-1c68632dbb5e,2026-07-21 15:47:07,Amet occaecati ex ex nam harum dolorum sed vitae nobis corrupti aspernatur optio., Finalizado ,db4c9492-bf5f-45e2-b1d0-6d9c18bee074,ff44577c-b8bf-477a-8e5f-87558f94b50b
+29ede760-2334-48ba-b94e-08387dcf60fd,2026-01-14 01:18:43,Adipisci quisquam accusamus earum impedit quia voluptates quidem.,CANCELADO,ba5c875c-d7aa-4208-acff-b0f0f79edc82,1f684c50-9e74-4650-a980-f7bd1cd33258
+a847bce7-90fa-4b57-a4ac-2130deaf528d,04/04/2026 15:34,,EN PROCESO,2475263c-7854-4014-aded-c86a9f4fb02b,ff44577c-b8bf-477a-8e5f-87558f94b50b
+abeb35d1-ad54-46bc-b209-8a7bd975a562,2025-12-03 22:24:43,Hic laudantium nobis maiores animi pariatur id quaerat incidunt harum accusamus exercitationem.,INSCRITO,975cef7a-2765-4f91-abb5-3283ce107503,6d1675c1-7671-47fd-9814-26123733ef91
+1a5ed196-65a4-479b-aaba-a4f935e80364,07/12/2025 02:37,Vel labore amet quo minima voluptatum.,FINALIZADO,66eebc57-8f4e-4b4f-8041-f5ee8bae8e66,6aa8b0b5-c494-49bc-8c04-64601f500d19
+8163b6ce-1877-4c06-94ad-625215bc2a3e,2025-12-21 20:26:21,Asperiores necessitatibus ipsa vitae dolores ea et reiciendis praesentium quasi et.,EN PROCESO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,40676334-ec79-43be-b96a-fc60ae7078ea
+d85195ac-d3aa-4b27-90f3-2ab5df586eff,2026-07-24 00:21:23,Earum praesentium facere modi expedita corporis consequatur eligendi quod.,EN PROCESO,5497db67-a54b-4b83-b440-cabee0ed4a62,8052b13c-dc7e-451e-9fc8-16f4afbc11c4
+20156a72-12e1-43a6-932c-ae01d2c65ee4,03/03/2026 02:54,Ipsum perspiciatis exercitationem soluta quos odit.,FINALIZADO,3bbb492b-9924-4b8b-b575-0c2b561f8bfe,6aa8b0b5-c494-49bc-8c04-64601f500d19
+f7bce0ef-72c1-468e-9390-6193490ce315,04/07/2026 20:15,Earum quos aspernatur voluptate id cumque ipsam magnam.,FINALIZADO,7608d942-5d11-4a9d-9e6c-9992b5fb12e0,2950e9ae-5089-4e3b-ae8b-9e7c4a815857
+fcbb4e59-fbdd-4f7c-9c96-e9ec4d71c366,2026-09-09 10:43:00,Ab repellendus error optio vel consequatur blanditiis autem mollitia earum non quaerat.,INSCRITO,63f1bbbc-697b-45cb-81f8-c04a4e564cbf,3c37bb01-18b0-410e-8eab-f94903f33851
+da1e72b2-de6a-4c6e-961b-92217a199807,2025-11-14 12:40:13,Cum placeat aspernatur numquam veritatis doloremque dolor placeat consequuntur.,INSCRITO,b093e3b4-7df2-4c58-9c56-dc87f32efa03,9b97d72a-50e9-4d6d-a779-082cecbc0534
+e7457704-18df-4c3c-a0d4-de3d2303f6c6,2026-07-01 16:20:00,Est ipsam neque quasi at eos.,FINALIZADO,6af38f6c-159d-4a38-8a6a-03b381356bc5,f72699ec-6a1e-460d-81cd-81b0c6db0211
+657e01c9-0da2-4e5c-aa36-af1806d3db93,13/05/2026 23:02,Doloremque voluptatum fugiat adipisci ut saepe officiis recusandae consequuntur enim.,CANCELADO,b3618e1c-a06d-4a69-9f3c-42b2e2cbbb93,6cbdbb71-075f-4e1d-8d5f-ad71a7e27f8c
+71b65ca1-7587-4920-942e-3df03c28f5dc,07/09/2026 04:17,Ipsum sequi ipsum blanditiis libero officiis aut impedit nam a at nobis nulla.,INSCRITO,219763c5-9682-4074-b915-72d53911c9b0,1e93a2fb-e0df-484e-ad09-0b97faa7176f
+5d3bc1d3-a515-4982-8dd4-c0e60b099fcc,2026-02-18 16:59:38,Ipsa ex rem quis aliquam qui unde debitis.,CANCELADO,66e61127-e26b-424a-8e0d-8d877a98b9ac,ff44577c-b8bf-477a-8e5f-87558f94b50b
+d5ca69ab-8a2e-4a93-8558-0bb281f7f3fb,2026-08-13 20:39:39,Alias excepturi quisquam consectetur fugiat cum rerum quo repellat cumque ipsa illum.,CANCELADO,84f32551-5366-4ce2-ad4d-666177bb3654,85c80ede-202c-415a-898d-b8601e47caa6

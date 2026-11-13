@@ -17,7 +17,9 @@ import openpyxl
 from openpyxl.styles import PatternFill
 
 RAIZ = Path(__file__).resolve().parents[1]
-PATRON_CASO = re.compile(r"test_tc_(ret|cat|emp)_([a-z]\d{2})_(\d{3})")
+# Pruebas comunes: test_csv_generado[TC-CAT-X01-003]. Pruebas propias: test_tc_ret_f01_018_...
+PATRON_PARAMETRO = re.compile(r"\[(TC-[A-Z]{3}-[A-Z]\d{2}-\d{3})\]")
+PATRON_NOMBRE = re.compile(r"test_tc_(cat|ret|emp|reg|pri)_([a-z]\d{2})_(\d{3})")
 RELLENOS = {
     "Pasó": PatternFill("solid", fgColor="FFC6EFCE"),
     "Falló": PatternFill("solid", fgColor="FFFFC7CE"),
@@ -28,14 +30,31 @@ HALLAZGOS_NUEVOS = [
     ("RET-F01", 'AC07 usa `end_date="+3m"`, pero en Faker `m` son MINUTOS: no se generan retos futuros. '
                 'Los meses se escriben `M`.', "Alta",
      'Usar `fake.date_between(start_date="-1y", end_date="+3M")`. Aplicado en src/simular_retos.py.'),
-    ("RET-F01", "AC04 pide `str(uuid.uuid4())`, que no depende de la semilla: el archivo no sería reproducible "
-                "como exige AC13.", "Media",
-     "Usar `fake.uuid4()` (también UUID v4, pero con semilla). Aplicado en src/simular_retos.py."),
+    ("F01 (las 5 tablas)", "AC04 pide `str(uuid.uuid4())`, que no depende de la semilla: el archivo no sería "
+                           "reproducible como exige el criterio de la semilla fija.", "Media",
+     "Usar `fake.uuid4()` (también UUID v4, pero con semilla). Aplicado en los 5 scripts simular_*.py."),
+    ("REG-F01", 'AC05 usa `end_date="now"`: cada ejecución toma otra hora y el archivo cambia aunque la semilla '
+                "sea la misma (incumple AC10).", "Media",
+     "Usar un rango de un año que termine hoy a las 00:00. Aplicado en src/simular_registros.py."),
     ("RET-L01", "F01-AC14 ensucia el 10% de los nombres con espacios, pero ningún paso de L01 los limpia.", "Media",
      'Agregar `df["nombre"] = df["nombre"].str.strip()`. Aplicado en src/limpiar_retos.py.'),
-    ("RET-F01", 'Faker toma "-1y" como 365,25 días: puede generar una fecha un día anterior al año calendario.',
-     "Baja", "Aceptar ±1 día en la validación del rango de fecha_inicio."),
+    ("EMP-L01", "F01-AC13 pone el 15% de los nombres en MAYÚSCULAS, pero L01 solo quita espacios: esos nombres "
+                "quedan en mayúsculas en el archivo limpio.", "Baja",
+     "Definir si se normaliza (p. ej. `.str.title()`); no se cambió para no alterar razones sociales."),
+    ("RET-F01 / REG-F01", 'Faker toma "-1y" como 365,25 días: puede generar una fecha un día anterior al año '
+                          "calendario.", "Baja", "Aceptar ±1 día en la validación del rango de fechas."),
 ]
+
+
+def id_caso(nombre_prueba):
+    parametro = PATRON_PARAMETRO.search(nombre_prueba)
+    if parametro:
+        return parametro.group(1)
+    nombre = PATRON_NOMBRE.search(nombre_prueba)
+    if nombre:
+        tabla, etapa, numero = nombre.groups()
+        return f"TC-{tabla.upper()}-{etapa.upper()}-{numero}"
+    return None
 
 
 def leer_resultados(junit):
@@ -44,13 +63,12 @@ def leer_resultados(junit):
     fecha = datetime.fromisoformat(raiz.find("testsuite").get("timestamp")).strftime("%d/%m/%Y")
     casos = {}
     for prueba in raiz.iter("testcase"):
-        coincidencia = PATRON_CASO.search(prueba.get("name"))
-        if not coincidencia:
+        caso = id_caso(prueba.get("name"))
+        if caso is None:
             continue
-        tabla, etapa, numero = coincidencia.groups()
-        caso = f"TC-{tabla.upper()}-{etapa.upper()}-{numero}"
-        if prueba.find("failure") is not None or prueba.find("error") is not None:
-            detalle = (prueba.find("failure") or prueba.find("error")).get("message", "")
+        error = prueba.find("failure") if prueba.find("failure") is not None else prueba.find("error")
+        if error is not None:
+            detalle = error.get("message", "")
             estado = ("Falló", detalle.splitlines()[0][:200] if detalle else "")
         elif prueba.find("skipped") is not None:
             estado = ("Bloqueado", prueba.find("skipped").get("message", ""))

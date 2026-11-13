@@ -1,0 +1,301 @@
+id,nombre,nit,sector,contacto,correo,telefono,activa,correo_valido
+c3d0bde3-cfbb-484a-80b5-70137f29c9e7,"Herrera, Garzón and Morales",6371834404,Energia,Roberto Pineda Yepes,vegaesperanza@meneses.com,3484685366,True,True
+8de08fc2-c3e1-4a85-946e-f10411906f50,OROZCO AND SONS,5290422842,Salud,Vanessa María Rodríguez,juanrodriguez@martinez-villamizar.co,3117758917,False,True
+a9325ae1-9c70-40da-88cd-29c5ac0e1f71,"Bermúdez, Córdoba and Londoño",7950145561,Salud,Elkin Martínez Ortega,velezesperanza@pena.com,3198179469,False,True
+df3a098a-ccac-4fb5-9a0c-6c0493cd1291,"Díaz, Valencia and Cruz",4785969691,Logistica,Javier Miguel Pérez,jair91@hernandez.com,3528669296,True,True
+fb8986c8-c7ec-4e71-9493-47fc0fc98d2e,Hernández Group,5199410137,Tecnologia,Luz Sanabria Montes,gomezmiryam@salgado.nom.co,3670662532,True,True
+60aeb372-b6df-44a6-a3d5-2be0ac249f30,"DAZA, LÓPEZ AND DELGADO",3571266110,Comercio,Ariel Acosta Marín,javier69@delgado.co,3677622827,True,True
+71299889-a01a-4992-bf9d-3e64c1a6423b,Ramírez PLC,2477109324,Comercio,Sin contacto,restrepopaola@sierra.org,3846773782,False,True
+fbddcf7c-9c96-49ec-8d71-c366b41b3143,"Contreras, Soto and Cortés",1241182449,Energia,Clara Diana Acevedo Ortiz,dvargas@acevedo.com,3052427868,False,True
+beed0af9-00c5-4f30-9103-142441241bb4,ESCOBAR INC,6518017046,Finanzas,Kelly Castañeda Mantilla,yrivera@polo-fajardo.co,3182512868,False,True
+a0b85755-44ca-45a2-a1e5-18a293d228d4,Rivera-García,1684577590,Salud,Dora Ángela Vergara,gustavo86@bolanos.co,3454589297,False,True
+17b4e75b-e9d1-4ec2-b3bc-b8a9c71d4564,MORA-VERA,8235784521,Salud,Sandra Gómez Giraldo,rodriguezleonmiranda.com,3184094353,False,False
+bb4ccb14-1cc0-4764-b06b-efca56b405d7,Maldonado-Hernández,8140693751,Educacion,Andrés Leonardo Orozco,juliocastaneda@rodriguez.co,3186375998,False,True
+271a919f-92a9-4acd-bd88-49386ad65b8c,Manrique-Chávez,5782329832,Tecnologia,Sin contacto,rubychavez@hoyos.com,3518812520,False,True
+a42d0cd7-fd35-4f6a-b450-388748d90846,"Silva, Campo and Hernández",8743152742,Manufactura,Aura Mercado,gloriazuluaga@nino-molina.com,3612275304,True,True
+f97f4994-1f38-4f55-833a-c4d6d4085391,"Vargas, Fuentes and Marín",0371837645,Logistica,Sin contacto,munozfernando@mosquera.net.co,3313650249,True,True
+1dd73f1f-138e-48cc-aa81-04ad75e2c2fa,SALGADO GROUP,5452798524,Energia,Alicia González,estebansanchez@alvarez.com,3161107603,True,True
+5e3003e1-f541-444e-96cc-b813263553ba,Erazo Inc,0867713334,Manufactura,Omar Flórez,mzuluaga@barragan.nom.co,3362620443,False,True
+e6a7caf7-54ca-4897-be71-cd606bca4f86,PÉREZ AND SONS,7416787256,Comercio,Carlos Yepes Alzate,luciasierra@moreno.com.co,3067447163,False,True
+c5bca449-0c75-4a17-8131-c6019923fc7a,Castañeda-Oviedo,5331060053,Comercio,Martha Edna Bautista,danielgomezgonzalez.net,3938661331,False,False
+f7baf55e-4f6b-48c8-998d-daeceaafe543,"Benavides, Giraldo and Hurtado",1486528168,Salud,José Jesús Angarita,michael73@anaya.com,3418880592,False,True
+badcc32a-c159-4f53-8a0f-4efbedcd465e,"Ramírez, Álvarez and Barragán",5787133150,Logistica,Elizabeth María Toro Martínez,espitiahumberto@molina.net.co,3738299737,True,True
+e240e060-0b20-402f-824f-3f4c846af2e6,"Torres, Castro and Guerrero",7506351903,Comercio,Nilson Alarcón Ramírez,mercedes10@mejia-rodriguez.net.co,3543173505,True,True
+e8c35a79-504e-44ac-be21-6c79b8b791b0,Rodríguez-Castro,8926738997,Tecnologia,Ariel Adolfo Parra,alonsogarcia@quintero.com,3884318848,True,True
+86800a0b-4279-4490-9105-64f9d90949aa,"Barragán, Romero and Hernández",9787729343,Manufactura,Luz Restrepo,dazaadriana@anaya.co,3303441448,True,True
+0a3e4918-6e4f-4ea3-b0ad-16f7db1fb4d4,"Guevara, Giraldo and Rojas",9912971024,Salud,Tatiana Lorena Pérez,cecilia49@romero-garcia.nom.co,3747472197,True,True
+c8613afa-1ae1-4565-b3a8-0aa060ee0cbc,Díaz Ltd,4971859484,Logistica,Yésica Andrea Monroy,zdiaz@buitrago.co,3792408222,False,True
+6c21835d-d8e8-497c-a0a2-59014932936e,Guzmán Inc,6200342442,Tecnologia,Johanna Jiménez,mosqueranora@salas.nom.co,3863840666,True,True
+98dd6c3c-e4ce-4832-8877-6e4b8f97b21d,García Ltd,9925502727,Energia,Luis Benjamín Parra,ojedavicente@acevedo.com.co,3103368296,True,True
+f73936e9-54e3-4579-80af-d193f780ef2f,López-López,3888993756,Finanzas,Hugo William Sierra Herrera,ramoselizabeth@gonzalez.com,3545738757,True,True
+5295ea96-487b-45d7-9cf0-23dd277529a2,Bedoya-González,8102203173,Energia,María Angélica Giraldo,ssilvamunoz.com,3037170586,False,False
+0e50f355-c7b6-41cd-9417-182a61ad018a,Romero-Ayala,6139060480,Manufactura,Ángel Carlos Sierra,luciagil@dominguez-gallego.com.co,3813646225,False,True
+69b7c0fa-26c4-42f6-ab35-2f85504e2687,"Ramírez, Sierra and León",7028385786,Manufactura,Robert Miguel Lozano,javier49@ramirez-vargas.co,3434437575,True,True
+44725ab7-bc44-4417-914b-a9bb60f91495,Prada Ltd,5396727578,Comercio,Fernando Osorio,vivianaandrade@parra-alvarez.com,3113129014,False,True
+82e09d39-bab0-48df-a709-f5b29e1be56d,VARGAS INC,4363718923,Energia,Martha Hernández Gómez,edinsonosorio@ramirez.co,3433567086,True,True
+e66eb0e2-88fd-4890-a479-dce277eee00f,González-Díaz,0822078113,Energia,Alberto Alfredo González Cárdenas,efrainsanchez@ruiz.com.co,3605673030,True,True
+dfc7ab26-2cb9-41fc-902c-75f9198d13a4,Melo LLC,3203093761,Finanzas,Brandon Fernando Ardila Arias,rosa66@ortiz-florez.co,3621202169,True,True
+827050a8-2369-4584-bf5e-9ff0ff50bde4,López-Gómez,1226916697,Tecnologia,Alcides Estrada,duartemarthaespinosa.org,3627048281,True,False
+752366ce-fc95-4bba-a818-4f34e4917f7d,Ruiz Ltd,2175250074,Comercio,Mery Ana Cabrera Rincón,hernandezbibiana@castillo-paz.co,3008350583,False,True
+a689d07f-b60b-4f87-9dd8-effc1f878b32,Rivera Ltd,4890901001,Educacion,Daniel González Muñoz,adrianaduque@suarez.com,3849926189,True,True
+cf9d539c-6c2b-4781-81a9-5ee21718cfde,ÁVILA-MEJÍA,6108573278,Manufactura,Milena Marina Fajardo,isuarez@pabon.org,3908108186,False,True
+711456de-301c-4db3-96db-80dba543148e,Caro Group,7850821486,Salud,Sara Silva Jaramillo,elenaroavargas.com,3534578610,False,False
+97fb613a-21f8-4d06-93f3-cade7a10013f,DELGADO GROUP,0051627136,Manufactura,Dora Luz Álvarez,marcela22@contreras.com.co,3275326973,False,True
+b25f13df-b8d4-4848-b02b-a49f18fdd2b9,Ruiz-Suárez,1051238282,Salud,Julio Agustín Moreno,lmendez@navarro.net,3796603341,True,True
+15eacbcf-ab10-41ce-aa14-3cd82ff3cde4,"Bastidas, Martínez and Silva",8880670654,Tecnologia,Gloria Martínez,felipemendez@galvis.co,3527722170,True,True
+72d78bdd-7817-49ff-b49e-04ccc24369e7,"Rodríguez, García and Muñoz",2898614341,Manufactura,Paola Henao,fmartinez@lozano.nom.co,3246095396,False,True
+8a175dfe-bfc0-4dc8-84f6-4d8678660765,Anaya LLC,3100330923,Educacion,Leidy González Erazo,xbermudez@perez-calderon.nom.co,3124190496,True,True
+e79503fb-546f-4ba3-b336-d14326cfbf51,Córdoba-Molina,7766183067,Comercio,Amparo Nury Mosquera,yenny15@marquez.org,3328063461,True,True
+2c6710bd-97d4-4f61-8bab-8f53c3a4704f,Martínez-Castro,6258273902,Comercio,Dary Valentina Rivera,mariareyes@rodriguez.nom.co,3946723248,True,True
+cec68cfe-a3fd-47f0-aae6-3af6de46222e,Salazar-Ávila,6112535544,Salud,Fernando Marín Alvarado,cesar87@perez-marquez.com,3341326111,False,True
+473544f9-ea83-4f00-b135-f221a6c9537f,Bolívar Group,7175655125,Salud,Edgar Gutiérrez Garcés,cardenaseugenia@gonzalez-perdomo.co,3087603859,True,True
+1a7167c7-6875-4545-832f-52c48e0370cf,López PLC,1995604661,Energia,Alexandra Andrea Flórez Hernández,alba21@mejia.org,3715437993,False,True
+639ac771-b739-428a-8ffd-5b7a226dd24f,Cabrera-Jaramillo,7889778280,Manufactura,Fernando Vega Rivera,sebastian45@gomez.com,3559056165,True,True
+55ec024a-e64b-4b37-ae01-a122f269921c,"LÓPEZ, MOSQUERA AND SARMIENTO",4655494717,Energia,Bibiana Orozco,ortegaelenagaviria.co,3460223569,False,False
+9f6a6a65-bd54-4a04-8dcd-0009c8d57717,Restrepo PLC,7383206038,Energia,Leonardo Edgar Rodríguez,maria64@rojas.co,3702410386,True,True
+cab24f24-1744-4e3f-936e-c1bd000b1f5e,"Corredor, Henao and Naranjo",8375503758,Tecnologia,Esteban Manuel Cárdenas López,mariamosquera@alfonso.nom.co,3102726149,True,True
+a84ca488-ec40-44c6-9a60-69f38e40b294,"Bautista, Martínez and Sánchez",3207427617,Manufactura,Inés Villamil,hcruz@gaviria.org,3228499390,False,True
+fc3d3348-008d-4127-a104-61e32a25a888,Ortiz-Páez,7468723430,Logistica,Katherine Martínez,hmora@martinez.com,3219136193,True,True
+6c75a765-3a31-4e67-b598-25774e583dde,Ortiz Inc,8623690362,Finanzas,Maribel Cristina Álvarez,knino@arenas.co,3341115950,False,True
+f026a418-3d3f-4bec-a97a-e294734eab10,León Inc,9279145608,Salud,Diana Maricela Rendón Beltrán,margothpineda@castro.com,3277220054,False,True
+bf95ff33-cdea-4f52-b7d7-cab335b33f54,GALVIS INC,5912662015,Logistica,Sin contacto,omanrique@parra.co,3492617647,False,True
+6274d240-8e30-4bcc-b02f-a247239a046d,VILLA-SÁNCHEZ,2201027621,Educacion,Angélica Guerrero Cárdenas,dtrujillo@salazar.net,3269097384,False,True
+496042b0-dbe7-4333-9d0c-82050a22be56,Parra-Beltrán,2758955168,Salud,Fernando Duván Carrillo Beltrán,menaolga@rodriguez.com,3961367157,False,True
+0367ee2c-1dde-407d-a51a-6277017f319f,Hoyos Group,6974995641,Salud,Patricia Ramírez Ayala,humbertorojas@sanchez.co,3314727601,False,True
+6001f54d-01d7-4831-850f-1cdc1e2a03f1,"Rojas, Cifuentes and Parra",1269448695,Salud,Reinel Medina,rosariopaez@diaz-velasquez.co,3449562137,False,True
+8c7e2904-4237-492a-8017-466e85f4c0a2,Trujillo-Ángel,0698042043,Logistica,Andrés Hoyos,martinezalexander@melo.com,3463681579,False,True
+e2280fe3-722d-4e13-87a4-8c4246653497,Gómez PLC,9347687014,Salud,Carlos Ramírez Loaiza,fernandoarenas@villamil.co,3787598564,True,True
+3068ffdd-965a-4d0f-9db4-02f1c3595dc2,"Jiménez, Sánchez and Vargas",4289731791,Energia,Johana Espinosa Franco,leticia72@amaya-silva.co,3774969033,True,True
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31,"Rojas, Bautista and Serrano",1672434266,Salud,Lorena Stella Murillo,yrios@narvaez-guerra.com.co,3113529096,True,True
+8f1c3fa0-7000-4009-b4e5-70ba7c3cc2bc,RÍOS-RINCÓN,9285574982,Educacion,Mónica Lorena Fonseca,valeria86@diaz.com.co,3351863878,True,True
+57076494-05f4-449b-af10-b6ccdcaa5994,Díaz-Rodríguez,8564111824,Comercio,Andrea Solano Sánchez,dbuitrago@salamanca.org,3615265461,True,True
+3370dc1d-2f85-499d-b66b-3575d07a9518,Zambrano and Sons,4679121416,Manufactura,Sin contacto,wreyes@rodriguez.com,3901380698,True,True
+31216863-2663-4d11-9d12-2ccf3d0d3ffd,Vargas LLC,7786603242,Salud,Carmen Arenas,jorgegomez@reyes.com,3594165162,False,True
+adab2c2f-91a6-46da-8d61-39887b90942f,Díaz-Rivera,5902771670,Logistica,Carmen Lucía Rueda,bryancamacho@delgado-pacheco.com.co,3163756289,False,True
+8f807d8b-e1d5-4f85-a967-858630463008,Medina-Pérez,6634163894,Logistica,Augusto Contreras,jessica12@gutierrez.co,3974973502,True,True
+a4f954fc-c449-41b6-8fef-7811e124c3f2,Angulo-Castro,1776561248,Logistica,Gloria Karen Guerra,marlene00@bedoya.com,3063459112,True,True
+2a65bae3-ddaf-4233-96a9-e518a55ac92f,"Rodríguez, Méndez and Fuentes",4818139890,Finanzas,Janeth Tatiana Rodríguez Navarro,emirocastro@vargas.com.co,3718956907,False,True
+960952eb-61fe-4f28-a2fb-8d66a8928ad4,Ardila-Gallego,1195243640,Salud,Julia Rodríguez García,psilva@ardila-perez.co,3223728179,True,True
+ae62990c-19bd-4f93-b8ef-7666b7a4c719,Rodríguez PLC,2677345401,Manufactura,Alba Julieth Cuesta Barreto,omairavelasco@bolivar.co,3240049915,False,True
+1825bc54-30be-445f-a835-14f2ceb81f9d,NAVARRO LLC,6670106513,Salud,Diana Lorena Salazar Castro,omargarcia@lopez.com,3132677360,True,True
+6c44821e-af05-4764-8234-af07f3e08b1f,Vargas-Díaz,2146147683,Energia,Juan Martínez,wherrera@perez-romero.co,3778265960,False,True
+c478f6f1-b88e-4318-816d-83edad81f8bd,"Duarte, Hernández and López",0470952145,Manufactura,Juan Hernández Montoya,andres42@caro-barbosa.org,3517123685,True,True
+989bc4da-9b37-422b-aa8a-616fc3b290d0,"TORRES, GUZMÁN AND CARDONA",7496499091,Logistica,Eugenia Marcela García Moreno,sanchezmaribel@vega.nom.co,3471349361,True,True
+cbebb43f-ef15-4821-ade6-bf3ccc2a261d,Guzmán PLC,9316087524,Tecnologia,Tatiana Ángela Agudelo Sánchez,carvajalnatalia@gonzalez.co,3374605233,True,True
+88476c56-827c-4f8c-940a-c5e981df6517,Blanco-Suárez,0551694097,Logistica,Sin contacto,oscarorozco@silva.com.co,3623091307,False,True
+03d6af3f-2c72-4675-92c8-3bfc5b48961f,Arango-Rodríguez,3731495013,Comercio,Jesús Carvajal Riascos,amayadario@perez.net.co,3625257150,False,True
+a8e7ebe3-cb05-4a14-8865-1a6e1b99eb83,"VEGA, CORREA AND GAMBOA",0140119393,Energia,Mary Gómez Sánchez,efrain55@ordonez.com.co,3389119083,True,True
+ec11a44d-083e-4925-890d-35aa914cc11c,Sánchez LLC,9999663618,Energia,Sin contacto,thenao@perez.co,3209702316,True,True
+0970d09d-1270-4935-acc0-baa63ba4f2ba,"Hernández, Arango and Ortega",9032020417,Educacion,Omaira Martínez Figueroa,zapataorlando@martinez.co,3565198253,True,True
+8c65d01b-1521-4825-9177-fdd5761b7e11,"Vargas, Quiroga and Hernández",4220912418,Finanzas,Juan Sandoval Rodríguez,lucia52@forero.co,3370816470,False,True
+80ea83af-bdcf-4159-a581-c1bc6843ee98,Sierra and Sons,0967904227,Educacion,Lida Luz Pinzón,mariohoyos@perez.nom.co,3985725459,True,True
+05aa5eab-88f3-47ea-b83f-52740cb4afe1,Cardozo LLC,4270312073,Comercio,Camilo Stiven Sierra,juana05@benitez.com,3461872346,False,True
+08789ef0-dcac-4a54-8702-f4adcca3a4c4,Castrillón-Parada,9276637239,Educacion,Sin contacto,perezfanny@acosta-nunez.co,3366742860,True,True
+44c07a9a-d64a-4b1f-b9eb-038a436e3c49,"Martínez, Espinosa and Soto",1586938068,Tecnologia,Joel Pacheco Rubio,irenegarcia@gomez.com.co,3921722332,True,True
+72ebde4e-95c4-4ab0-a97f-995d9bc8d6f6,Palacios-Villamizar,8903091436,Tecnologia,Natalia María Rivera Jiménez,janethbedoya@salgado.co,3524508640,False,True
+605fb1eb-4cc5-4e0d-a633-20186883ac6e,Gallego Group,3342708668,Tecnologia,Elena Muñoz Valencia,caballeroedgarlozano.com,3469901398,False,False
+38b5e89a-c921-457c-bf05-557c502ed818,"Mena, Mejía and Villa",2577754781,Energia,Paula García Castro,adolforamirez@rivas.com,3809969308,False,True
+32c5bd89-b70b-4420-b104-3785658b2523,Vega Ltd,3149190586,Energia,Andrés Augusto Rodríguez,gpinto@salamanca-acevedo.co,3262849877,True,True
+fef72410-5528-4c45-a37a-a99961ff1d9a,Muñoz LLC,2717396271,Finanzas,Alba Mejía Ávila,barretoalejandro@gomez.com.co,3470720064,False,True
+3a17d79a-3a42-458b-a5c2-e80ddd8f3007,"Zambrano, Ortega and Delgado",8775153663,Comercio,Sin contacto,vivianadaza@arrieta-palacio.co,3366684590,True,True
+97ac6aa8-bb24-48a3-9363-57b66f81cf4f,Ruiz-Vargas,1473799650,Comercio,Robinson Juan Rojas Bautista,blanca94@rodriguez.nom.co,3678377701,True,True
+4e089bb4-c509-4558-8632-6b36a7c8f0c5,Ojeda PLC,7927033521,Educacion,Eliana Paola Beltrán,gabrielfonsecaherrera.org,3770538338,False,False
+c534ca08-f6f2-4d1c-9bb8-b9c8893259f3,Cárdenas Group,4112490352,Comercio,Maritza Yeny Medina,buitragobeatriz@gomez.co,3883171210,False,True
+a2b03c4b-7c96-4b55-af8d-8ded6c4c450b,"Aguirre, Franco and Anaya",8274225790,Logistica,Sin contacto,gcorredor@zapata.co,3721903404,True,True
+0ce87570-b4d6-43e6-9aa9-0d26ab636d66,Vera-Burgos,1199180812,Salud,Nohora Bertha Sánchez,camilo87@polo.com,3137603754,False,True
+8a2db2e6-3bfd-48a6-b05f-ddf566fadca0,GALLEGO INC,2843959953,Salud,Duván Rengifo,rosariocastro@nunez.net.co,3687056856,True,True
+07958c1f-538d-4b8c-8607-b1e9f80b2cea,"Castro, Ángel and Rincón",5866296194,Comercio,Edith María Sánchez Amaya,jairoruiz@lopez.co,3541212678,False,True
+f2c84743-9027-4770-a460-d0d2904883c1,Perea Group,8427010393,Comercio,Lina Rodríguez,marioherrera@prada.com,3029218515,True,True
+b6aae05b-13d5-42f7-b09b-7d97464c04af,Moreno-Quintero,8122362316,Comercio,Enrique Correa Martínez,xgiraldo@monroy.com.co,3670546688,True,True
+f1eedba3-1343-4e61-9ca3-c4480279b6a6,"Rentería, Vásquez and Palacio",9826204505,Logistica,Flor Nelly Romero Velásquez,vquiroz@velandia.com,3260256342,True,True
+b1eedf64-090b-43ed-aae1-d0bc4a099088,"ZAMBRANO, BONILLA AND LONDOÑO",0792904904,Logistica,Andrés Alfonso Melo Castro,davidcastro@rodriguez-gonzalez.com,3927524372,True,True
+795741bb-07e3-439a-a925-2745d2769c96,Lozano and Sons,1522655767,Educacion,María Alexandra Medina,suarezcesar@herrera.co,3222394312,False,True
+6545c030-a981-4a54-b121-e129b45c9a54,"López, Suárez and Hernández",2675289539,Educacion,Liliana Ardila Jiménez,miguelnunez@giraldo.com,3295939172,False,True
+42c21797-0426-4cc9-a55b-30e2bdc2b74b,"Betancur, Murillo and Guerrero",2353693785,Manufactura,Alonso Reyes,ucruz@perez-pinzon.co,3280801006,False,True
+dcf89878-73bb-44e5-b3f7-d722e51728b2,Medina LLC,6692548121,Logistica,Daniel Romero,restrepoantonio@cardona-mejia.co,3754602734,False,True
+284bf962-5744-4596-b422-21676b7a2460,Álvarez-Valencia,9910229014,Tecnologia,Álvaro Mauricio Marín Castro,herreramartha@buitrago.com,3369003432,True,True
+3875394c-e5d6-46e6-9a6e-c2f5ccc42903,Torres-Mejía,0656272980,Finanzas,William Vergara García,dhernandez@martinez.co,3375564641,False,True
+9f8cc29f-fd35-4c5f-9347-9a3b479bc637,"León, Hernández and López",5585239868,Manufactura,María Hernández,ricardo87@calderon.com,3595269495,False,True
+10423a8e-8da2-4a39-90db-8e34938f2b90,Santos-Guerrero,7179576024,Educacion,Cristina Marina Palacios Fernández,elkin72@vanegas-giraldo.co,3572934172,False,True
+b5502e2b-4bde-4d88-b867-f62dda3bce8e,Caicedo-Pérez,0834024240,Educacion,Magnolia Sandra González Bernal,camila84@hernandez.com,3053424089,False,True
+de95d695-3579-4143-bab9-9428378e6510,Suárez-Chávez,3317393638,Tecnologia,Sergio Eduardo Lozano,natalia58@correa-arenas.nom.co,3753556093,True,True
+b148b2a6-ea79-47e1-9be7-02abfac08fc4,Castro LLC,4722698485,Salud,Diana Mercedes Gutiérrez Herrera,yefersonbernal@mora.net.co,3515879968,False,True
+e9c7c13a-cb5a-4d77-91fd-a27f4cbb7460,"Suárez, Barbosa and Mejía",5190986240,Educacion,Leandro Marino Rodríguez,martha40@mejia.co,3566668327,True,True
+3b3f3800-a175-49c3-97b1-02a92332a50e,Toro Inc,3875099770,Manufactura,Mónica Peña,contrerasesperanza@rodriguez-guerra.net.co,3621182339,False,True
+03902c5d-6502-46a2-8a6a-2224171e16cc,Montoya-Cárdenas,4965137098,Manufactura,René David Martínez,tchavez@parra.org,3711382675,False,True
+1396a289-c29a-488f-98a9-52109f8c2c51,"Espinosa, Castañeda and Alzate",3477848588,Salud,Irene Gómez,hcuellar@cardona-marquez.co,3700284276,True,True
+0191d19d-c45c-4fbb-92ec-ac278ccc617e,DUQUE LLC,6990235577,Comercio,Paula Ramos,igalindo@restrepo-aguilar.nom.co,3084958803,True,True
+e6c71f15-5bed-43be-936d-6ccea535f9d7,Jiménez PLC,8814311150,Logistica,Claudia Gladys Vargas Sarmiento,liliana92@mena.org,3456690782,True,True
+da2d2156-913a-4734-8cb6-8571abc53545,Melo PLC,7814141397,Manufactura,Javier Fredy Moreno,david35@cardona-garzon.org,3929955620,False,True
+72e5e892-cc1c-4204-ad5e-749b49ee4969,Buitrago-Burgos,0185694544,Educacion,Carmen Margarita Cruz,felipefernandez@guzman.nom.co,3258001061,True,True
+0316d2d6-fa4a-48ef-a383-7348873dc8bd,Saavedra-Hernández,9658271091,Comercio,Carmen Gómez,nunezfanny@mendez-sierra.co,3661889241,True,True
+ff0dd3c2-ac4d-4d33-9515-28af4d25298f,"Ospino, Correa and Triana",1783332116,Energia,Ana Oviedo,ocastaneda@munoz.com,3287153991,False,True
+13aae9c8-efb2-48fd-a391-ffdb8794ac7e,"Ramírez, Méndez and Cabrera",9285544518,Energia,Emilio José Delgado,jaime65@lopez.co,3338988816,False,True
+e900b66f-6083-4f88-97dd-a51ea4dc4d4e,"VILLAMIZAR, VANEGAS AND ARANGO",8633414111,Finanzas,Gabriel Eder Sarmiento,cordobacarmen@posada-escobar.com,3409836655,True,True
+e1886146-fc40-43d4-a5eb-45497e0a04c2,"Salas, Rincón and Bustamante",8463920867,Educacion,Tatiana Medina,estergonzalez@cruz.net,3691559428,True,True
+441999b6-15d1-42f8-abd7-d03881492b7a,FORERO-GUERRERO,3286326667,Finanzas,Sin contacto,garciaeugenia@mejia.com,3290846684,False,True
+b0c77002-1956-4990-a5fd-aadb0c36ad4e,Martínez LLC,7175455884,Educacion,Sin contacto,carlosbernal@perez.net.co,3877169472,False,True
+7fc5ae23-b9a6-4d75-acb9-6a2cd68e51f0,Cabrera-Castañeda,9465796784,Salud,Kelly González Vargas,imorenolopez.com,3702695249,False,False
+3e3b1a40-ca05-43a2-a553-b15f1ea15b0f,Tamayo PLC,7925132719,Finanzas,Tulio Ocampo Pineda,mosqueralucia@mercado.co,3573065240,True,True
+43125b58-e2a8-48e7-b80c-c8382c94df5a,"PÉREZ, MIRANDA AND VARGAS",3024102615,Comercio,Lucía Paola Montes Durán,emonsalve@sanchez.net,3386559630,True,True
+47e321c2-a4ba-48bf-83b8-fa0513bc0dc6,Sánchez and Sons,5913651777,Tecnologia,Elizabeth Paula Peña Vargas,carlosperez@molina.com,3428699041,True,True
+53ffd3a2-4a19-4501-8169-b9fcc3a00c6f,Rodríguez Ltd,6226838851,Finanzas,Jhonatan Gómez Rodríguez,prietocarlos@parra.co,3052975161,True,True
+88433a38-46d2-4109-895c-7ac8314aabdd,PERDOMO-SANDOVAL,4224109881,Finanzas,Luisa Esperanza Ortiz Barbosa,carlos21@avila-quintero.co,3020701601,False,True
+9c03d65c-ed8a-428c-b756-999b251adf0e,Díaz-Arias,7354352090,Finanzas,Carlos Melo,wguerrero@torres-jimenez.com,3929831687,False,True
+ca862225-0b36-4356-b39b-77a84b1f0d7b,Rivas LLC,9622728476,Tecnologia,Karol Quintero,veraxiomara@villamizar-lara.co,3527758416,True,True
+c8e60939-1d2f-4d2a-885f-78881e23da4b,Zapata PLC,3483564208,Logistica,Sin contacto,sandovaleliecer@camacho.co,3114374470,True,True
+5594552b-405a-4e7e-af46-a41f35a7ac9b,"CIFUENTES, URIBE AND GÓMEZ",0822078113,Comercio,Orlando Alexander Ramírez Buitrago,angela15@lopez.co,3363179706,True,True
+ee22a70b-1ee9-4260-b002-d8313227e8d8,Rojas-Luna,3516091779,Tecnologia,Sindy Rodríguez Galvis,evillaocampo.com,3216995866,True,False
+242ac30f-5d80-453b-a59a-5d6c07ba408b,Vargas Inc,9622728476,Energia,Daniel Armando Rodríguez,sanchezalonso@agudelo.co,3206678498,True,True
+b0285484-beea-44d3-b8fc-75131b3fd4b0,Garcés-Muñoz,9837354396,Salud,Inés Ariza Mejía,robertolopez@cruz.net,3972404226,True,True
+7c8b7f1e-5bf8-4967-b057-fcd4a1701e8e,RIVAS GROUP,3203093761,Comercio,César Alfonso,bparada@herrera.nom.co,3061387829,True,True
+aab133ba-e88f-4ab5-8e59-22e9f182cdf7,Medina-Becerra,6565045547,Logistica,Sandra Estefanía Villamizar,sarenascifuentes.nom.co,3629912347,False,False
+a510af65-b016-4db8-a823-99437dec4605,Gómez LLC,7195979647,Comercio,Rosa Victoria Rodríguez,cecilia02@cruz-aguirre.co,3204565044,False,True
+7656af72-29d4-4eef-beab-edcbbaa80dd4,Ortiz-Velandia,8350305641,Salud,Tania Amparo Becerra Rojas,pmedina@sanchez-hernandez.nom.co,3884969653,True,True
+ef32f72a-a4b5-4723-82fb-28690df80b89,Mora Group,7217535408,Manufactura,Esperanza Liliana Ayala García,cmeneses@zuluaga.co,3170166088,True,True
+f90fb6e4-e150-42f3-9195-8000c3f38c8c,Salamanca-Suárez,4231220994,Comercio,Stella Martha Rodríguez García,mhernandez@amaya-arias.co,3772233060,True,True
+fc9454ae-867a-411a-9e16-2c17fd06a179,Martínez-Olaya,6106462879,Educacion,Diana Roa Gutiérrez,tgomez@suarez.com,3024471462,True,True
+af65e8cc-f9cf-4499-89c1-ad45f4ea6b97,PAZ-MARTÍNEZ,4397359893,Logistica,Milena Andrea Carrillo Díaz,felipegonzalez@osorio.org,3229405720,True,True
+59410ea3-8c2b-478e-9f50-e1aa0088b13a,POLO GROUP,7949756792,Comercio,Johana Cruz Cardona,usanchez@lopez-pineda.com.co,3663658074,False,True
+7d8da92b-93ba-44a3-a3cd-8a4471e64bce,"ÁLVAREZ, VALLEJO AND ORJUELA",9883103032,Salud,Edison Rojas,albertorojascastro-padilla.co,3184462671,True,False
+ffaca645-e4dc-4306-8b20-ce3e42b7c048,"ORTEGA, GUEVARA AND MORALES",3942788165,Tecnologia,Vanessa Miranda,rafaelhernandez@diaz.net.co,3275037314,True,True
+4dfe1117-22af-411f-9b62-8a9d75366b9f,Núñez LLC,9657569245,Tecnologia,Daniela Andrea Castillo Ruiz,ybolanos@valencia.co,3519398280,True,True
+fcd6bdca-5876-4d09-b1fa-f665711533f3,"JIMÉNEZ, BURGOS AND BARRIOS",7436713695,Educacion,Darío Jiménez,kcastro@castano.nom.co,3743953394,True,True
+aebbb90e-e4e7-41de-97ff-51d9c9ce44bd,GÓMEZ LTD,7012770632,Energia,Carlos Saavedra,andrea54@arias.com,3064361103,True,True
+b24ae6e3-5e41-4475-b040-d75aa28e0841,Bernal Group,3370502497,Logistica,Carmen Agudelo Angarita,mariafuentes@amaya.com,3836264488,True,True
+0e88c8ec-e651-43e1-bd84-6fc9c3f62136,"Parra, Ruiz and Hernández",0744666099,Comercio,Carolina Edith Pacheco Henao,qfajardo@palacios-meza.net.co,3824172482,False,True
+93906193-490c-4315-8d98-02023fbc75e0,Bolaños-Ramírez,7156627768,Finanzas,Fabio Fonseca Alzate,castellanosyadira@uribe.com.co,3828246747,True,True
+296b67bf-f301-4b6c-b306-1300c879d932,Rojas Group,5890260127,Educacion,Andrés Ortiz Arias,vanegasramiro@avila-guzman.nom.co,3902770384,True,True
+bc06e86b-922b-4fb2-9ca7-99723c6d3173,"Saavedra, Guzmán and Salcedo",8471391559,Energia,Roberto Sarmiento Rubio,isabeldiaz@mendoza-munoz.com.co,3078515867,False,True
+605a34f5-d012-4e91-b8d7-8cbc5a5ddcc5,"Mosquera, Díaz and Solano",0175370304,Logistica,Juan Nicolás Pineda,cristinazapata@gomez-rincon.nom.co,3930361498,False,True
+d9c099f6-fe70-4416-b40a-22d700bbd543,Morales Group,2105524728,Finanzas,Sin contacto,paolavelez@rivera.nom.co,3650191792,True,True
+f3afbb09-8c12-4e0e-921a-f952be69ad39,"Flórez, Castillo and Díaz",6103266421,Comercio,Mauricio Mejía,ruben92@soto-roa.co,3377674996,False,True
+23d7e6a1-19b8-44fc-a587-1d8916312fc6,Fernández Group,5652341389,Salud,Alexis Barrios,adriana98@cano.net.co,3037613791,False,True
+c08bd631-3d57-4e27-b3da-efc10d47e26d,"Orozco, Rincón and Espinosa",6140578617,Salud,Adriana Moreno,ortizedilberto@lopez.com,3496718325,False,True
+69bd40d8-f340-4dd3-8515-75b9ece9504b,Villamizar and Sons,3127975736,Salud,Alexis Calderón Bravo,helena99@silva.co,3177038860,True,True
+6fb78271-504d-481f-8953-5b63ba81edd9,"Bustamante, González and Maldonado",3406088356,Educacion,Emilia Magda Trujillo,pinzonkaren@soto-valencia.nom.co,3482366299,True,True
+56c438e4-69ef-4fb1-ba7e-8e14e359eee1,Castillo-Padilla,5654527111,Logistica,Fernanda Alicia Arias,luisorozco@londono.net.co,3604945198,False,True
+a23d4c2f-c2a7-4689-9933-918cfa745761,"Arboleda, Marín and Vélez",0050455623,Finanzas,Julián Alzate Pérez,leonnidiamoreno.co,3474074821,True,False
+1ce62a9f-79af-4348-90bb-c60d07bf63ee,ACOSTA-MEZA,4599281615,Logistica,Rosalba Mónica Castillo,pmoreno@perez.net,3966958321,True,True
+e096521e-a2c7-43d4-bfb8-abb9a18c5492,"Mejía, Bedoya and Lozano",5783174564,Energia,Lucía Rodríguez Ayala,nubiacorrea@pacheco.co,3406493085,False,True
+47198f5c-f69b-4596-bf10-938caec7f267,Morales Ltd,5409003486,Salud,Leonardo Bermúdez,lozanoleidy@giraldo-chavez.co,3441343275,True,True
+9a7d509d-e6e8-490b-a15d-3b1fa8cdf44d,"Niño, Triana and Guevara",6865086376,Finanzas,William Alfredo Castellanos,salazarjohana@chavez.org,3986430098,True,True
+f3d36295-ee6b-4b89-8615-50f66b43db40,"Mercado, Pérez and Castro",2409036788,Energia,Ana Janeth Flórez,rcastillo@diaz.com.co,3390878844,False,True
+5128b9b1-f8ed-40ca-a015-6a7212e153a6,"García, Restrepo and Delgado",2892268018,Educacion,Lucía Pérez Betancur,erikaibarra@sanabria-vargas.net.co,3842498182,True,True
+98dc9e0b-51a1-45df-86ac-10102e0869c1,Gómez LLC,0785932133,Energia,Sebastián Mercado,cabreramarlon@sanabria.com,3239559059,True,True
+28f78d49-a2bc-491e-81cd-c9a45738b277,Gómez PLC,9434681054,Manufactura,Luis Henry Ibarra,vjimenez@cardenas.nom.co,3998935449,True,True
+722944a9-af7c-4609-9a99-aae08677b81d,TORRES-GUTIÉRREZ,3009109391,Tecnologia,María Angie Rivera,johanvelez@jimenez-duran.com,3746542140,False,True
+c11ea16b-a6d6-4330-b5b1-9be4835c3541,Álvarez-Rivas,8114921643,Energia,María Palacios Palacio,salazarelena@bedoya.com,3537795995,True,True
+1a7f195b-7355-4b9d-8fd6-f47ef52d4af2,RIASCOS-GARCÍA,2037788925,Educacion,Sin contacto,angulojorge@valencia.net.co,3644925192,True,True
+090d9655-db84-4660-b5d8-fb91ee6081ac,"Arenas, Forero and Hoyos",3536541951,Comercio,Andrea Cifuentes,posadapatriciagaviria-perdomo.org,3518705349,False,False
+319aed6a-8d41-4b4c-aba4-63087e7786aa,"Daza, Sandoval and Agudelo",2192124938,Educacion,Juan Buitrago,manuel70@bedoya-valderrama.com,3566418775,False,True
+ac777762-6620-4167-97cf-775f498bcf67,"Pinto, García and Montenegro",7553942373,Tecnologia,Aura Shirley Rojas Ramírez,fredymosquera@gonzalez.net.co,3790807595,True,True
+9970cf60-ebff-4d15-b0cb-d7556232b17a,"Cano, Hernández and García",6584044997,Energia,Sin contacto,ucardenas@puentes.com.co,3636057662,False,True
+8c662766-7922-4440-a0f1-e44cefd1b588,Rodríguez Group,8114921643,Salud,Aura Inés Hernández Silva,mariavergara@alvarado-correa.co,3487282997,False,True
+a92dcf4f-76f3-4a50-9830-208269bba3c4,"Jaramillo, Muñoz and Muñoz",1801722601,Energia,Sin contacto,curibearevalo.com,3321941680,False,False
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Vargas-Hernández,1819600133,Tecnologia,Blanca Becerra,ltorres@montes-rodriguez.com,3654235116,True,True
+46a47588-a676-4ce1-bcfe-18e95f20ac06,Orozco Inc,1291093371,Educacion,Ofelia Natalia Suárez,mceron@camargo.co,3485571617,False,True
+11c7bec9-3016-4ecc-9b9a-3a55aff745a0,García and Sons,7618209166,Educacion,Luz Rodríguez,hernandezangel@sanchez-pineda.com,3018513279,False,True
+2751ab86-7dae-4949-9700-b4618cb6b0ba,Mosquera Group,1497310324,Logistica,Leidy Luz Serna,qreyes@lopez-rios.com,3565270477,True,True
+fe67e8e9-0a88-46ca-9dee-4b6d3ce75d1e,Córdoba-Mendoza,5238055257,Comercio,Mónica González Rodríguez,dsolano@sanchez-manrique.co,3854749297,True,True
+1e4c3fdf-556e-4ce4-9d9e-4da21387bcda,Salgado-Villegas,0922685926,Comercio,Liseth Pacheco Pineda,doris14@duran-saavedra.nom.co,3102252677,False,True
+620f230b-439e-454c-a930-16eae0bda1ee,"Reyes, León and Gómez",4629960653,Energia,Alicia Cáceres,maria44@benitez-andrade.net.co,3132475469,False,True
+92fe00e8-b63f-4809-ae4d-0decbd472885,González-Hurtado,5817246191,Comercio,Alexander Franco Martínez,victormurcia@arrieta.co,3846997335,False,True
+3ced4d1f-13eb-42c9-bece-d21a54c7743b,Riascos-Pérez,1570433154,Salud,Consuelo María Mendoza,atamayo@nieto-romero.co,3179327104,True,True
+7b70c3b8-a81f-4ec3-a79c-658a36760ce5,SANABRIA LLC,8514936899,Comercio,Angie Navarro,maria44@romero-diaz.com,3961201836,False,True
+c0f63229-725d-4259-bc4b-1eec6231ee73,Posada-Suárez,9045301742,Finanzas,Santiago Salgado Murcia,eduardo45torres.co,3956878339,False,False
+71693ed5-9994-43cc-bf99-57a888adb388,Pabón-Caicedo,7416787256,Tecnologia,Brayan Carmona Muñoz,zcardona@bonilla.com.co,3082404335,True,True
+bd20c36a-2705-44cb-a704-b1152a85e3b1,"MARÍN, REYES AND RODRÍGUEZ",7933496050,Energia,Valentina Edith Gonzáles,mdaza@cortes.co,3899730806,True,True
+b6b84329-89fa-45cc-95b0-4f8ad64f10b5,"GONZÁLEZ, GALLEGO AND PAZ",1292087510,Salud,Alexandra Arango López,hernando01@mora.co,3260340848,True,True
+61ee411a-1bac-47a7-b386-f7a4c991603f,Andrade and Sons,3754330365,Comercio,León Parada,judith86@bejarano.com,3429401965,False,True
+938bd3f8-8bd1-4d4b-ad33-53fc692caaae,Gómez-Gómez,7519712847,Comercio,Lina Viviana Vargas,duqueandres@alvarez.com,3778795654,False,True
+4827c440-f6d9-4e17-b109-4211b73f6e64,Galeano PLC,0138759271,Tecnologia,Elvira Bejarano Salazar,juliacastellanos@gonzalez-gonzalez.com,3754801571,False,True
+1c2c8fb1-4de5-42f7-8d39-4b57a4d4df15,Morales-Valderrama,6350200053,Comercio,Felipe Gamboa,osoriojohana@morales-suarez.com,3082555989,True,True
+2051acef-097a-4e10-b6fe-bc0e7ecddbaf,"Paz, Quintero and López",7187026217,Manufactura,Enrique Aguirre,melohernando@rivera.co,3809134316,False,True
+f18c5581-3c9b-4b84-8b4a-ddc685096c78,Guevara PLC,7179110065,Energia,Socorro María Arenas,suarezantonio@lopez.co,3046619639,True,True
+d777a477-4c66-40a8-a013-ac6ededa4e16,"Palacios, Ramírez and Arias",2880957015,Comercio,David Moreno,garciayury@mantilla.com,3278248963,True,True
+a46b6fce-e78d-447c-bd87-703472173fa3,"Prada, Vargas and Gómez",5616484085,Educacion,Mauricio Jesús Arango Ruiz,nunezclaudia@lozano.net.co,3361386120,True,True
+b24cc64f-be3e-4e57-b30a-9e32aba4fc03,"Guerrero, Villamizar and Sánchez",6179640537,Comercio,Hermes Edison López Duque,luz43@nunez.com,3390053293,False,True
+9b125dfb-2804-435a-b311-65e02c5cce54,López-Guerrero,7433800545,Tecnologia,Andrea Estrada Mora,quinteromartha@gonzalez.co,3455084289,False,True
+e1f8d192-9ba4-45a6-8178-de26ceb557ac,Moreno-Fernández,7767199038,Finanzas,Edwin Velásquez,luzsanchez@romero.com.co,3945101622,False,True
+f7d0eea0-211f-432b-b52c-aa97b60df6a3,"Molina, Contreras and Vélez",7702851961,Salud,Rosa Milena Guzmán,ariasjhony@jimenez-gomez.com,3296044327,True,True
+ec5412b4-0d74-4c38-bc58-82ecb34de663,Zuluaga Ltd,6420865675,Educacion,Jhon Silva Gutiérrez,diegovasquez@hernandez.com,3472927742,True,True
+78aa16ea-44f7-401a-bcb5-26d7434a130e,"Herrera, Díaz and Salazar",6556472929,Tecnologia,Silvia Consuelo Cifuentes Cortés,zramirez@sanchez.co,3288574489,True,True
+86879aa9-14f5-43d0-8991-2032df85c777,Contreras-Morales,9108839822,Logistica,Edison Óscar Duarte,glopez@montes-cardenas.co,3679087406,True,True
+8f3f5995-e468-4b64-b7d2-a2ee21da5db1,Murillo LLC,2875721586,Tecnologia,Carmen Álvarez Mantilla,rbohorquez@mosquera.org,3948562572,False,True
+8f026c2c-1b41-4999-8198-d1f56839f98f,Mora LLC,1848947697,Logistica,Lizeth Magdalena Cruz Cruz,ramosrocio@acevedo-portilla.net.co,3356588043,False,True
+ab286d09-0af5-4e60-bbe8-a5df5e934de0,Delgado LLC,6770051844,Energia,Liliana Rivera Fernández,delgadoleonor@delgado.co,3779082723,True,True
+9e8fc965-0a2c-427e-9832-685694340a03,Guerrero PLC,9854353462,Comercio,Miguel Oviedo,rodriguezantonio@orjuela.org,3251354278,True,True
+5abca6e5-d0b1-43eb-809e-7a8086c5d1d6,ROSERO-GARCÍA,6793341016,Comercio,Eduardo Acosta Henao,anamezapaez.com,3803397401,True,False
+2ba4d656-610c-4ade-bed9-9a6b6c3786c2,Manrique-Quintero,3814474430,Logistica,Alberto Suárez Saavedra,rubiostiven@martinez-rodriguez.co,3545105265,False,True
+390239d9-fa8d-4e42-ba54-e9202099d180,Tovar LLC,7868633752,Salud,Juan Pulido,gomezalexander@castaneda.net,3119079030,True,True
+5f07c1a5-dfc6-40ce-bb07-fd31a4244f23,"Betancur, Amaya and Delgado",1412478261,Finanzas,Maribel Vanesa Granados Guerrero,psierra@portilla-rivera.com,3515220472,True,True
+7e8f8095-624c-49b6-b244-45a7b7e58481,VARGAS-HOYOS,0163287083,Tecnologia,Ángela Yenny Soto,bernardo79@galindo.co,3277434873,True,True
+32e97c2d-2fb9-4ccf-9688-85c288145bde,"Parada, Londoño and Amaya",7519712847,Salud,Javier Jesús Orjuela,john46@barbosa.net,3256216893,True,True
+50ee7a92-a091-41e0-b891-b0c3dd3f487e,MENDOZA GROUP,7449058147,Energia,José Manuel Gutiérrez Franco,garzonjose@murillo-posada.nom.co,3079359782,True,True
+4a85e443-3ba8-48d9-b4b5-5b8648a84587,"SILVA, CÁRDENAS AND ARIAS",0256621286,Logistica,Alfredo Jhon Rentería Rojas,nataliafigueroa@ortega.com.co,3387430271,False,True
+09b2eae6-54eb-4c91-b784-ae08758fc8fa,GARCÍA AND SONS,4819346676,Finanzas,Alexander Giraldo González,bedoyadavid@orozco.co,3144914766,True,True
+93ed82c5-1cf8-4164-913b-776ed08ce31e,Olaya-Castro,1522655767,Logistica,Francisco Henao Hernández,jennycaicedo@lozano.co,3196893135,False,True
+beccf760-9249-4e3a-b9d1-9c4e1521ad35,VÁSQUEZ LLC,1686227837,Manufactura,Augusto Ramírez Garzón,olgaortiz@valencia-salgado.com,3166553559,True,True
+26242b40-a5cb-43a2-b98d-1ca68b6870b5,Niño-García,2499471746,Educacion,Sin contacto,carvajalalexis@ruiz.net.co,3990490278,True,True
+7df6bc1d-6e49-48ac-99f1-45cc0244e4d7,García PLC,2617024376,Energia,Jesús Alejandro Díaz,sandra77@hernandez.co,3053134026,True,True
+a06e8de5-010e-4265-ad3f-5dd4049626ba,"Vargas, Aguirre and Herrera",2168942104,Manufactura,Sin contacto,bibiana25@mosquera-diaz.co,3033230982,True,True
+a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff,Pérez-Hernández,3309584982,Finanzas,Edisson Jorge Córdoba,hernandezcesar@prada-angel.net.co,3223253672,True,True
+f5194ab9-813b-464b-9c46-24d335fa46fe,Loaiza-Garcés,4743553795,Comercio,Tania Hernández,leonmaria@sandoval.co,3768118071,False,True
+7406ca32-83ef-4ce9-9ffd-a1e74052e3a5,"Castellanos, Díaz and Rodríguez",7433800545,Energia,Beatriz Morales,danielacano@meza-pena.com,3364424936,False,True
+f83bf029-b6ac-4048-8430-8e0c3fe604f4,"Castellanos, Sanabria and Duque",5772429543,Comercio,Sin contacto,mariarodriguez@jaimes.co,3342069694,True,True
+6683e107-96c0-44d0-af88-7f283e49fd09,"García, Polo and Cano",3521818835,Energia,Wilson Steven Aguilar,sandramunoz@agudelo.com,3277997995,False,True
+29c3d598-d0c2-4f21-b1bf-5c97e473b0b0,Quintero-Sánchez,0848100184,Salud,Rocío Omaira Sánchez,mariaosorio@romero.net,3617213145,False,True
+cebca264-9ad7-4b94-a634-63e9d317d8c9,Silva PLC,7779014754,Comercio,Mario Arrieta Díaz,gloriagarzon@cruz-vallejo.com,3916032484,False,True
+99b32070-74fa-45ce-889a-c27e628103f0,"Álvarez, Obando and Marín",8646317520,Finanzas,Fredy Jhon Guzmán Buitrago,sanchezyenny@rendon.com,3153539613,True,True
+5ce9dbbc-a252-41f3-b30b-c657b4cb4613,Guzmán Group,8926860259,Logistica,Ana Sánchez Solano,guerreronatalia@gutierrez-diaz.com,3309407778,True,True
+29890880-277d-4be9-a070-b6a198e52499,Serrano PLC,2706537947,Comercio,Sin contacto,auraerazo@restrepo-castro.co,3886239240,False,True
+2e39c29a-921f-466f-8450-205286a8f21a,Cáceres-Vargas,7150416591,Finanzas,Sin contacto,rcardenas@navarro.com.co,3759230450,False,True
+785ca87b-1f69-42b1-945e-087f86d4aba8,"Contreras, Luna and Maldonado",7951371162,Educacion,Agustín García,esperanzabenavides@sanchez-ramirez.net.co,3046827567,True,True
+9b247a55-8fe8-4b77-a009-a05a48817b98,García-Hernández,7323008576,Tecnologia,Marcos Manrique Arias,lalvarez@parra.com,3692364587,True,True
+98133da1-7d21-40ad-9f59-fb4d3defa7ba,DÍAZ-POLO,9855241406,Logistica,Ana Córdoba,estebanjaimes@rojas.net.co,3072290349,True,True
+24c778a5-9b4e-464b-9716-dc2e343ada2a,Prieto-Ruiz,5625881537,Finanzas,Marcela Paola López,giovanny96@burgos.co,3953278774,True,True
+580d7b71-d8f5-4413-9be6-128e18c26797,"Ortiz, Gómez and Cruz",1618495931,Educacion,Vanessa Perdomo,ordonezarturo@castro-acevedo.co,3255341928,True,True
+a52964ff-c74c-4890-bc6a-3174113634a5,Morales-Quiroga,0927557192,Tecnologia,Diego Augusto Vargas,rodriguezrosa@giraldo.org,3739473121,False,True
+2b0fbe44-49e6-4c22-89a0-b7eb398f569b,Ospina-Perdomo,7881914858,Tecnologia,Sin contacto,eveliolopez@espinosa.co,3451713395,True,True
+59ecc846-6974-47ea-9b7c-57e8fdf02450,Durán and Sons,3491141520,Logistica,José Pablo Salazar,sortiz@fernandez-rengifo.co,3965917135,True,True
+9d77a45e-f206-4269-b8b7-7c0780fb9296,Bonilla Ltd,8470076617,Logistica,Andrés Andrés León Martínez,antonio98@valencia.co,3896118367,True,True
+440dd09f-c2e8-4fc2-b649-6cdefca54576,Ortega-Quintero,6555535669,Manufactura,Tulia Arboleda,rodriguezalfredo@bonilla-murcia.com,3091843579,False,True
+755d814b-5f5b-4255-a544-9887b36ab3ed,"García, López and Hernández",6199062344,Tecnologia,Franklin Jhon Roa,yolanda43@barbosa.com.co,3121277561,True,True
+27794685-94a5-4fde-b10d-27c89780c215,Navarro Ltd,9590010943,Tecnologia,Edwin Gómez Campo,jorge47@cifuentes.co,3471027677,False,True
+79a6ab72-deae-40c0-a8ac-1ab1afa9d02c,"Peña, Díaz and Rengifo",5050573976,Tecnologia,Carolina Yuly Ibarra,sospino@ardila.com.co,3328980271,True,True
+02b71c51-9fbe-4fb3-a8e3-ac9bc997f2fa,Flórez-Rosero,9915078593,Educacion,Luz Stella Martínez,rubenhernandez@munoz.co,3232002496,False,True
+d56f0350-8c45-4ce2-a7f4-8ad54d0b0d1a,Suárez and Sons,6995777387,Salud,Sofía Gutiérrez Vergara,andrea34@arevalo.com,3037917693,False,True
+44cdbfdd-df9b-441e-87f7-bda1bff15840,"Rivas, Fuentes and Gómez",6481491778,Comercio,Andrés Edinson Pérez,rociolopez@gil.com,3003075622,False,True
+6ce34d67-ad30-494b-8111-e681f1da833d,"Sánchez, Ramírez and Méndez",4359892625,Educacion,Eduardo Alfonso Vargas,carmen18@martinez-bedoya.co,3542340163,True,True
+ccae58fe-54eb-4e20-af7c-7d2b93d054e4,Martínez-Sánchez,0568299629,Energia,Yohana Janeth Rueda,camilo46@zapata.co,3743842150,True,True
+9979cf26-c8b1-40e1-889a-9f4f31dae817,"Delgado, Moreno and Pérez",0530214656,Energia,William Delgado Daza,villegasluis@salcedo.org,3393769042,False,True
+542060ce-6b2f-4d47-8cb4-a7f69db8ef7e,López Inc,7303379337,Comercio,Rubén Eduardo Castillo,moralespatricia@cortes.org,3739500334,False,True
+f1fac6e7-170d-4507-85ee-e1d47f53a88e,Mora-Parada,3950047974,Educacion,Estela Mejía,miguel65@castillo.co,3358416878,False,True
+b69f68c3-e60f-4420-ac33-350c73b911d8,Bolívar-Arrieta,5518844225,Comercio,Luz Diana Hernández Angulo,mosqueracarlos@arenas-caicedo.com.co,3114678669,False,True
+620956a8-1c68-4db0-8d33-3496e3528539,Restrepo-Gómez,5281832538,Finanzas,Camila Aura Espinosa,alfonsoochoa@romero-ortiz.net.co,3640155778,False,True
+9771d80b-3768-485b-bee3-dbaadcb913b4,Perea-Castro,6335693929,Tecnologia,Laura Gómez,gardila@osorio.co,3177318063,False,True
+b465c027-2dd1-445b-a454-a82a6d2cdbf9,"Galindo, Méndez and Barrios",7954538179,Salud,Luz Arenas Benavides,cardenasmanuel@castaneda.com,3945625577,True,True
+cb9faf6d-ef3a-4f27-af06-fccb8f7c1d59,"Castro, González and Buitrago",6652404157,Educacion,Sin contacto,milton42@garzon.net,3308330165,True,True
+febec0db-9a3a-4103-ae3c-453214348f62,Vásquez LLC,1154479627,Manufactura,Daniel Wilson Vallejo,ycastro@garcia.co,3582029702,False,True
+c832b3f0-2b0e-43fd-bc3d-31388a5a4272,Montoya Group,8700794200,Comercio,Fernando Antonio Duarte Anaya,juanpalacios@perez.com.co,3141612846,True,True
+b2b302d3-1116-4039-aa92-659baaaa077f,"Camargo, Rojas and Rincón",8151185672,Salud,Alberto Gómez,garciajhon@restrepo.net,3600412577,False,True
+b540b30e-039f-4a25-8d61-68bd2defe193,"Hernández, Gómez and Martínez",4271094777,Salud,Juan Andrés Ibarra,egonzalez@rincon-escobar.net.co,3022941318,True,True
+c3e1847c-8420-40d8-a32c-817e8ec57d47,"Burgos, Díaz and Mendoza",4472649082,Manufactura,Néstor Daniel Camargo González,ingridvalencia@diaz.nom.co,3371452111,False,True
+ceefd2c9-7e2b-43ce-adf9-8b8d8ddd6a3e,Burgos Group,8277881609,Tecnologia,Bertha Alicia Forero Narváez,olga89@calderon.net.co,3832152850,False,True
+4aa0d842-057f-4d20-a50a-0a29bcda835f,Martínez and Sons,8569557988,Salud,Miguel Julián Burbano Suárez,lorena54@sanchez.co,3292842222,False,True
+8aa431e9-29aa-4a7e-883e-b6a13d51d528,Martínez PLC,0438303419,Finanzas,Blanca Angulo,martinezandrea@rodriguez-mosquera.org,3683565215,False,True
+54ce20ea-bb9d-42c0-98d0-b8db3aa06694,Vargas-Montoya,3396852701,Logistica,Andrés Juan Acevedo Hernández,carmenperez@serrano.com,3674233629,True,True
+b55beaaa-cb53-40be-9e7b-4866d2705470,Bravo LLC,8014138113,Logistica,Juan Silva Vargas,luisvelasquez@lopez.co,3612286852,True,True
+fe268e77-9b45-47e0-b2fe-fdc23772aa97,GAVIRIA-PÉREZ,6929298425,Educacion,Orlando Andrés Rivera Hernández,ramirezhumbertoduque.com,3799088117,True,False
+f17f3f92-d26a-4790-8582-8939058e389e,"Pinto, Villegas and Molina",9921075224,Logistica,Danilo Antonio Muñoz,andrea69@ardila.co,3727919409,False,True
+f3a02120-42d9-43ee-9197-6e750523d4fd,García and Sons,6218159970,Energia,Edwar Pérez Naranjo,luzvalencia@pena.nom.co,3844431069,True,True
+ebc1bb52-82e4-4d4a-943a-c1c54f560ed5,Bastidas and Sons,8569146303,Tecnologia,Lucila Luz Ávila,alvarezjairo@diaz.com,3275884252,True,True
+3f91c419-e846-49df-b373-35549e204ac7,Orozco-Jaimes,1072563669,Logistica,Andrés Velásquez,quinterocristina@orjuela-ballesteros.com.co,3004896465,True,True
+98cd2655-5297-41ad-adba-948427591ad4,Perdomo Ltd,9479851583,Comercio,Beatriz Serna Pérez,olopez@vergara.co,3439878015,False,True
+b118f68d-6786-4506-b8ba-8abc4b5305e5,Suárez PLC,5788568557,Educacion,Jesús Moreno,valentinavillamizar@diaz.nom.co,3989413435,False,True
+3d333164-4bb8-4be2-9bc0-798821f969e9,"Molano, Rodríguez and Camacho",7506351903,Educacion,John Hernando Rodríguez,florezeduardo@gomez.com.co,3893195085,False,True
+e63949d4-47c6-4688-acf3-2053af36b8cc,"Londoño, Gómez and Oviedo",5039261429,Salud,Amparo Miriam Buitrago Ríos,itovar@vanegas.com,3163159996,False,True
+b676291d-4e32-4b4b-b168-c605ce1a1669,"Franco, Salazar and Rivera",5743748969,Comercio,María Adiela Parada,luis99@jimenez-gonzalez.com,3545444328,True,True
+1ddb4f15-1eb8-4863-82f8-60445e08e249,González Ltd,8309997419,Comercio,Liliana Anaya Narváez,carlos15@forero.com,3606888718,False,True
+fcffe9e3-140f-4589-ac62-4c2c0aeccec7,"Mejía, Bolívar and Pineda",9451168685,Manufactura,Rafael Alarcón,mesaantonio@ocampo.com.co,3991191485,False,True
